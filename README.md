@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Android Log Monitor Pro 🚀
 
 A professional, cross-platform desktop GUI application designed for real-time Android device log monitoring and analysis via ADB. Built with Python and PyQt6, this tool offers advanced filtering, session statistics, and a visual timeline to streamline your debugging workflow.
@@ -92,3 +93,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 Developed with ❤️ for Android Developers.
+=======
+# android-log-monitor
+Still working on this
+>>>>>>> 4deaa564f8aa41994bbfc3941fc936731747959f
