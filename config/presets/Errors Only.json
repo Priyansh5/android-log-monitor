@@ -1,0 +1,14 @@
+{
+  "levels": {
+    "ERROR": true,
+    "FATAL": true,
+    "WARN": false,
+    "INFO": false,
+    "DEBUG": false,
+    "VERBOSE": false
+  },
+  "tags": [],
+  "keywords": [],
+  "exclude_tags": [],
+  "regex_enabled": false
+}

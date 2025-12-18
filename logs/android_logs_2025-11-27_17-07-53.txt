@@ -1,0 +1,362 @@
+--------- beginning of main
+11-27 17:07:53.321 20694 10943 W Profilo/TraceControl: Loom client config id: -3527503280223614628
+11-27 17:07:53.376 20694 14686 W fb4a.HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+11-27 17:07:53.376 20694 14686 W fb4a.HeroManager: 	Id: 1490596261997006
+11-27 17:07:53.376 20694 14686 W fb4a.HeroManager: 	Uri: https://scontent.fbek1-3.fna.fbcdn.net/o1/v/t2/f2/m366/AQMhCeMrEg5977AvvS3yit1IC_U5_1LRANBaa1bLl-XEzNNGL78wlOHnWk4Kll0UUf7UbkSeFL-StFhKfEn301z7aU7J5CTEJ_-oQSp6hxws1A.mp4?_nc_cat=108&_nc_oc=AdkstSlysY5FyHizu73K8KoV7MIQ--6fAtnEdZ71wz_NXCHHiyOTLkn-jPSHsuj0lLN_r4euFYgaIUg-dcr3kpND&_nc_sid=5e9851&_nc_ht=scontent.fbek1-3.fna.fbcdn.net&_nc_ohc=JsBVO1BPURAQ7kNvwE4uCVQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNTQwLmRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHAiLCJ4cHZfYXNzZXRfaWQiOjE1MzQxNTkyNzQ3MDExOTQsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDEyNCwiZHVyYXRpb25fcyI6MjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ffdedd5401c39393&_nc_vs=HBksFQIYRWZiX2VwaGVtZXJhbC9GQjQwMjFFRThGMDU2NjM5ODA1RDZDMzI3QzI1MDY5OF9tdF8xX3ZpZGVvX2Rhc2hpbml0Lm1wNBUAAsgBEgAVAhhAZmJfcGVybWFuZW50LzIxNDUzMUZFRDc0MzI0MjA2RTk1ODlCOTFERTgzMDhFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaUxsep6dO5BRUCKAJDMywXQDkAAAAAAAAYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHARAHUCZZieAQA&_nc_zt=28&oh=00_AfhYl9S7cwjMjGyM_2C7rkPRp0QDp-m6XPkbo0hrA4iUJg&oe=692E00EC&bitrate=221065&tag=dash_h264-basic-gen2_720p
+11-27 17:07:53.376 20694 14686 W fb4a.HeroManager: 	Origin: FB_STORIES
+11-27 17:07:53.376 20694 14686 W fb4a.HeroManager: 	PrefetchOrigin: FB_STORIES
+11-27 17:07:53.376 20694 14686 W fb4a.HeroManager: 	DashMPD: 12680
+11-27 17:07:53.376 20694 14686 W fb4a.HeroManager: 	liveLatency: -1
+11-27 17:07:53.376 20694 14686 W fb4a.HeroManager: 	liveLatencyTolerance: -1
+11-27 17:07:53.376 20694 14686 W fb4a.HeroManager: 	isSpherical: false
+11-27 17:07:53.376 20694 14686 W fb4a.HeroManager: 	isSponsored: false
+11-27 17:07:53.376 20694 14686 W fb4a.HeroManager: 	isAdBreak: false
+11-27 17:07:53.376 20694 14686 W fb4a.HeroManager: 	isLiveTraceEnabled: false
+11-27 17:07:53.376 20694 14686 W fb4a.HeroManager: 	renderMode: AUDIO_VIDEO
+11-27 17:07:53.376 20694 14686 W fb4a.HeroManager: 	isBroadcast: false
+11-27 17:07:53.376 20694 14686 W fb4a.HeroManager: 	contentType: GENERAL
+11-27 17:07:53.376 20694 14686 W fb4a.HeroManager: 	isAudioDataListenerEnabled: false
+11-27 17:07:53.376 20694 14686 W fb4a.HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+11-27 17:07:53.912  8764 10327 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 85233539]
+11-27 17:07:53.920  8764 10566 W ChimeraUtils: Module com.google.android.gms.gcm missing resource null(0)
+11-27 17:07:53.921  8764 10865 W LogErrorOperation: onLogError callback failed.
+11-27 17:07:53.927  8764 10566 I AlarmManager: setExactAndAllowWhileIdle [name: FcmRetry type: 2 triggerAtMillis: 83603553]
+11-27 17:07:53.931  8764 10327 W LogErrorOperation: onLogError callback failed.
+11-27 17:07:53.933  8764 10327 W LogErrorOperation: onLogError callback failed.
+11-27 17:07:53.989  8764 10804 W LogErrorOperation: onLogError callback failed.
+11-27 17:07:54.090 21250 10713 I JSWatchdogManager: updateStallTime: 70320227
+11-27 17:07:55.085 21250 10713 I JSWatchdogManager: updateStallTime: 70321222
+11-27 17:07:55.146 30154 32239 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 17:07:55.147 30154 32239 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 17:07:56.087 21250 10713 I JSWatchdogManager: updateStallTime: 70322224
+11-27 17:07:56.965 14741 10120 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 536042
+11-27 17:07:57.036 14741 10120 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -536042
+11-27 17:07:57.089 21250 10713 I JSWatchdogManager: updateStallTime: 70323226
+11-27 17:07:58.086 21250 10713 I JSWatchdogManager: updateStallTime: 70324223
+11-27 17:07:59.089 21250 10713 I JSWatchdogManager: updateStallTime: 70325226
+11-27 17:07:59.204 20694 21249 W fb4a.RtiGracefulSystemMethodHelper: [AI] Failed to start service due to IllegalStateException on Android O
+11-27 17:07:59.204 20694 21249 W fb4a.RtiGracefulSystemMethodHelper: android.app.BackgroundServiceStartNotAllowedException: Not allowed to start service Intent { cmp=com.facebook.katana/com.facebook.mqtt.service.MqttServiceV2 (has extras) }: app is in background uid UidRecord{b2bcb09 u0a218 CEM  bg:+27m33s195ms idle change:procadj procs:0 seq(801725,774539)} caps=------
+11-27 17:07:59.204 20694 21249 W fb4a.RtiGracefulSystemMethodHelper: 	at android.app.ContextImpl.startServiceCommon(ContextImpl.java:1977)
+11-27 17:07:59.204 20694 21249 W fb4a.RtiGracefulSystemMethodHelper: 	at android.app.ContextImpl.startService(ContextImpl.java:1927)
+11-27 17:07:59.204 20694 21249 W fb4a.RtiGracefulSystemMethodHelper: 	at android.content.ContextWrapper.startService(ContextWrapper.java:825)
+11-27 17:07:59.204 20694 21249 W fb4a.RtiGracefulSystemMethodHelper: 	at X.0JB.A00(:26)
+11-27 17:07:59.204 20694 21249 W fb4a.RtiGracefulSystemMethodHelper: 	at X.52j.A00(Unknown Source:81)
+11-27 17:07:59.204 20694 21249 W fb4a.RtiGracefulSystemMethodHelper: 	at X.4kf.A03(Unknown Source:79)
+11-27 17:07:59.204 20694 21249 W fb4a.RtiGracefulSystemMethodHelper: 	at X.8Yb.run(Unknown Source:14)
+11-27 17:07:59.204 20694 21249 W fb4a.RtiGracefulSystemMethodHelper: 	at android.os.Handler.handleCallback(Handler.java:1013)
+11-27 17:07:59.204 20694 21249 W fb4a.RtiGracefulSystemMethodHelper: 	at android.os.Handler.dispatchMessage(Handler.java:101)
+11-27 17:07:59.204 20694 21249 W fb4a.RtiGracefulSystemMethodHelper: 	at android.os.Looper.loopOnce(Looper.java:226)
+11-27 17:07:59.204 20694 21249 W fb4a.RtiGracefulSystemMethodHelper: 	at android.os.Looper.loop(Looper.java:328)
+11-27 17:07:59.204 20694 21249 W fb4a.RtiGracefulSystemMethodHelper: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+11-27 17:07:59.204 20694 21249 W fb4a.RtiGracefulSystemMethodHelper: 	at X.1Dr.run(Unknown Source:0)
+11-27 17:07:59.219 20694 20694 W fb4a.AppComponentFactory: Instantiating Service
+11-27 17:07:59.219 20694 20694 W fb4a.InitStatus: Not blocking Service (219184864)
+11-27 17:07:59.219 20694 20694 W fb4a.InitStatus: Not blocking Service (219184864)
+11-27 17:07:59.220 20694 20694 W fb4a.InitStatus: Not blocking Service (219184864)
+11-27 17:07:59.221 20694 20694 W fb4a.InitStatus: Not blocking Service (219184864)
+11-27 17:07:59.238 20694 14674 W fb4a.MqttDozeAwareClientWrapper: Doze mode disabled. Starting client
+11-27 17:07:59.247 20694 20694 E fb4a.Execution: Redirecting MSYS Execution scheduling from the UI thread to a custom executor
+11-27 17:07:59.324 20694 20694 E fb4a.Execution: Redirecting MSYS Execution scheduling from the UI thread to a custom executor
+11-27 17:07:59.329 20694 14688 I omnistore_android_logger: Connect message: queueName: facebook_universal_prefs_v2:100005622995443, gvid: 1
+11-27 17:07:59.330 20694 14688 I omnistore_android_logger: Client sent connect message
+11-27 17:07:59.345 20694 14773 E fb4a.msys: E[C mem.context]_LogNetworkStateUpdate(7697)=>[Critical] network_state/prev/1/new/1/source/0
+11-27 17:07:59.346 20694 14773 E fb4a.msys: E[C mem.context]_MaybeWCCConnectionConnectOnExecutionContext(2559)=>[INFO] Maybe attempt WCCConnectionConnect, tokenReason=6
+11-27 17:07:59.347 20694 14674 E fb4a.msys: E[N WA]_WCCConnectionDefaultReconnectFromWeakRef(1361)=>[INFO] connection/reconnect reconnection aborted, already logged in
+11-27 17:08:00.089 21250 10713 I JSWatchdogManager: updateStallTime: 70326226
+11-27 17:08:01.085 21250 10713 I JSWatchdogManager: updateStallTime: 70327222
+11-27 17:08:01.879 14741 10049 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 520461
+11-27 17:08:01.978 14741 10049 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -520461
+11-27 17:08:02.047 29731 30727 E KT      : Network error
+11-27 17:08:02.083 21250 10713 I JSWatchdogManager: updateStallTime: 70328220
+11-27 17:08:02.355 25419 31268 W eryConsigneeApp: Reducing the number of considered missed Gc histogram windows from 210 to 100
+11-27 17:08:03.089 21250 10713 I JSWatchdogManager: updateStallTime: 70329226
+11-27 17:08:04.083 21250 10713 I JSWatchdogManager: updateStallTime: 70330220
+11-27 17:08:05.089 21250 10713 I JSWatchdogManager: updateStallTime: 70331226
+11-27 17:08:06.093 21250 10713 I JSWatchdogManager: updateStallTime: 70332230
+11-27 17:08:07.089 21250 10713 I JSWatchdogManager: updateStallTime: 70333226
+11-27 17:08:08.089 21250 10713 I JSWatchdogManager: updateStallTime: 70334226
+11-27 17:08:09.092 21250 10713 I JSWatchdogManager: updateStallTime: 70335229
+11-27 17:08:10.084 21250 10713 I JSWatchdogManager: updateStallTime: 70336221
+--------- beginning of system
+11-27 17:08:10.638  1552  3563 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent
+11-27 17:08:11.084 21250 10713 I JSWatchdogManager: updateStallTime: 70337221
+11-27 17:08:12.088 21250 10713 I JSWatchdogManager: updateStallTime: 70338225
+11-27 17:08:13.038 14741 10042 W PresenceStore: notify new presence state
+11-27 17:08:13.039 14741 15222 W DirectInboxStateStore: inboxStateUpdated - num_of_threads: 20
+11-27 17:08:13.088 21250 10713 I JSWatchdogManager: updateStallTime: 70339225
+11-27 17:08:14.086 21250 10713 I JSWatchdogManager: updateStallTime: 70340223
+11-27 17:08:14.237  8764  8857 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+11-27 17:08:14.238  8764  8857 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+11-27 17:08:14.240  8764 10566 W SystemServiceRegistry: No service published for: wifirtt
+11-27 17:08:14.368  8764 10327 W LogErrorOperation: onLogError callback failed.
+11-27 17:08:14.414  8764  8873 I FusedLocation: (REDACTED) location delivery to %s blocked - too fast
+11-27 17:08:14.418  8764  8873 I FusedLocation: (REDACTED) location delivery to %s blocked - too close
+11-27 17:08:14.418  8764  8873 I FusedLocation: (REDACTED) location delivery to %s blocked - too close
+11-27 17:08:14.418  8764  8873 I FusedLocation: (REDACTED) location delivery to %s blocked - too close
+11-27 17:08:14.418  8764  8873 I FusedLocation: (REDACTED) location delivery to %s blocked - too close
+11-27 17:08:14.420  8764  8882 W PersonalSafety: Reject: No sufficient displacement. [CONTEXT service_id=310 ]
+11-27 17:08:14.420  8764  8882 W PersonalSafety: Ble scanner not running, ignore location update [CONTEXT service_id=310 ]
+11-27 17:08:14.421  8764  8873 I FusedLocation: (REDACTED) location delivery to %s blocked - too close
+11-27 17:08:14.421  8764  8873 I FusedLocation: (REDACTED) location delivery to %s blocked - too close
+11-27 17:08:14.422  8764  8873 I FusedLocation: (REDACTED) location delivery to %s blocked - too close
+11-27 17:08:14.422  8764  8873 I FusedLocation: (REDACTED) location delivery to %s blocked - too close
+11-27 17:08:14.422  8764  8873 I FusedLocation: (REDACTED) location delivery to %s blocked - too close
+11-27 17:08:14.435  8764  8884 I FusedLocation: (REDACTED) stationary throttling engaged @%s
+11-27 17:08:14.588  8764 10566 I TFLite-in-PlayServices: Created interpreter.
+11-27 17:08:14.668  8764 10566 I TFLite-in-PlayServices: Created interpreter.
+11-27 17:08:14.698  8764 10566 I SemanticLocation: (REDACTED) [Inferrer] %s%s
+11-27 17:08:14.972  8764 10566 I TFLite-in-PlayServices: Created interpreter.
+11-27 17:08:15.046  8764 10566 I TFLite-in-PlayServices: Created interpreter.
+11-27 17:08:15.076  8764 10566 I SemanticLocation: (REDACTED) [Inferrer] %s%s
+11-27 17:08:15.089 21250 10713 I JSWatchdogManager: updateStallTime: 70341226
+11-27 17:08:15.227  8764 11017 W LogErrorOperation: onLogError callback failed.
+11-27 17:08:15.347  8764 10566 I TFLite-in-PlayServices: Created interpreter.
+11-27 17:08:15.422  8764 10566 I TFLite-in-PlayServices: Created interpreter.
+11-27 17:08:15.451  8764 10566 I SemanticLocation: (REDACTED) [Inferrer] %s%s
+11-27 17:08:15.701  8764 10566 I TFLite-in-PlayServices: Created interpreter.
+11-27 17:08:15.775  8764 10566 I TFLite-in-PlayServices: Created interpreter.
+11-27 17:08:15.805  8764 10566 I SemanticLocation: (REDACTED) [Inferrer] %s%s
+11-27 17:08:15.946  8764  8777 W .gms.persistent: Missing inline cache for java.lang.Object erje.apply(java.lang.Object)
+11-27 17:08:15.947  8764  8777 W .gms.persistent: Missing inline cache for java.lang.Object erje.apply(java.lang.Object)
+11-27 17:08:15.947  8764  8777 W .gms.persistent: Missing inline cache for java.lang.Object erje.apply(java.lang.Object)
+11-27 17:08:15.947  8764  8777 W .gms.persistent: Missing inline cache for java.lang.Object erje.apply(java.lang.Object)
+11-27 17:08:16.089 21250 10713 I JSWatchdogManager: updateStallTime: 70342226
+11-27 17:08:16.101 22500 23128 W Binder  : Caught a RuntimeException from the binder stub implementation.
+11-27 17:08:16.101 22500 23128 W Binder  : java.lang.UnsupportedOperationException
+11-27 17:08:16.101 22500 23128 W Binder  : 	at cajm.a(PG:3)
+11-27 17:08:16.101 22500 23128 W Binder  : 	at cajm.dispatchTransaction(PG:33)
+11-27 17:08:16.101 22500 23128 W Binder  : 	at qau.onTransact(PG:13)
+11-27 17:08:16.101 22500 23128 W Binder  : 	at android.os.Binder.execTransactInternal(Binder.java:1410)
+11-27 17:08:16.101 22500 23128 W Binder  : 	at android.os.Binder.execTransact(Binder.java:1341)
+11-27 17:08:17.089 21250 10713 I JSWatchdogManager: updateStallTime: 70343226
+11-27 17:08:18.085 21250 10713 I JSWatchdogManager: updateStallTime: 70344222
+11-27 17:08:19.084 21250 10713 I JSWatchdogManager: updateStallTime: 70345221
+11-27 17:08:20.085 21250 10713 I JSWatchdogManager: updateStallTime: 70346222
+11-27 17:08:20.255 20421 20538 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=f5c0b43c-6a63-4114-b712-d85d85593773, tags={ com.whatsapp.messaging.xmpp.XmppLifecycleWorker } ]
+11-27 17:08:20.268  6607  8259 I dxni    : (REDACTED) appOpsListener %s %s
+11-27 17:08:20.268  6607  8259 I dxni    : (REDACTED) Ignoring irrelevant audio permission changes for package %s
+11-27 17:08:20.668  1552  3563 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent
+11-27 17:08:21.092 21250 10713 I JSWatchdogManager: updateStallTime: 70347229
+11-27 17:08:22.085 21250 10713 I JSWatchdogManager: updateStallTime: 70348222
+11-27 17:08:23.083 21250 10713 I JSWatchdogManager: updateStallTime: 70349220
+11-27 17:08:23.648 14741 14741 E stagram.android: No package ID ff found for resource ID 0xffffffff.
+11-27 17:08:23.651 14741 14741 E stagram.android: No package ID ff found for resource ID 0xffffffff.
+11-27 17:08:23.652 14741 14741 E stagram.android: Invalid resource ID 0x00000040.
+11-27 17:08:23.655 14741 14741 E stagram.android: Invalid resource ID 0x00000040.
+11-27 17:08:23.655 14741 14741 E stagram.android: Invalid resource ID 0x00000040.
+11-27 17:08:23.658 14741 14741 E stagram.android: Invalid resource ID 0x00000040.
+11-27 17:08:23.658 14741 14741 E stagram.android: Invalid resource ID 0x00000040.
+11-27 17:08:23.662 14741 14741 E stagram.android: Invalid resource ID 0x00000040.
+11-27 17:08:23.662 14741 14741 E stagram.android: Invalid resource ID 0x00000040.
+11-27 17:08:23.665 14741 14741 E stagram.android: Invalid resource ID 0x00000040.
+11-27 17:08:23.713 14741 14741 W E23     : Pos=10 holder=X.CB3@49016de
+11-27 17:08:23.715 14741 11028 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+11-27 17:08:23.722 14741 14741 E VideoPlayerImpl: IgBaseVideoPlayer Warning: AV1_INSTANTIATION AV1_INSTANTIATION AV1 decoding using Dav1d;meta.dav1d.av1.decoder
+11-27 17:08:23.725 14741 11029 E ExoDav1dDecoder_JNI: Dav1dDecoder::dav1dInit -- setup signal action
+11-27 17:08:23.727 14741 11029 W AString : ctor got NULL, using empty string instead
+11-27 17:08:23.728 14741 11029 I CCodecBufferChannel: mIsVivoLogEnable = 0
+11-27 17:08:23.731 14741 11035 I CCodec  : setting up 'default' as default (vendor) store
+11-27 17:08:23.735 14741 11035 I CCodec  : Created component [c2.android.aac.decoder]
+11-27 17:08:23.739 14741 11035 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+11-27 17:08:23.746 14741 11035 W Codec2Client: query -- param skipped: index = 1107298332.
+11-27 17:08:23.746 14741 11035 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+11-27 17:08:23.747 14741 11035 W Codec2Client: query -- param skipped: index = 1342179345.
+11-27 17:08:23.747 14741 11035 W Codec2Client: query -- param skipped: index = 2415921170.
+11-27 17:08:23.747 14741 11035 W Codec2Client: query -- param skipped: index = 1610614798.
+11-27 17:08:23.747 14741 11035 I CCodecBufferChannel: mIsVivoLogEnable = 0
+11-27 17:08:23.774 14741 11029 W AudioSystem: setParameters: PlaybackCaptureProtectSupport=com.instagram.android
+11-27 17:08:23.794 14741 10444 W VideoPrefetchScheduler: start prefetch time: 0
+11-27 17:08:23.816 14741 10444 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+11-27 17:08:23.819 14741 14917 W AidlConversionCppNdk: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+11-27 17:08:23.831 14741 14741 W MessageQueue: Handler (android.os.Handler) {662c476} sending message to a Handler on a dead thread
+11-27 17:08:23.831 14741 14741 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {662c476} sending message to a Handler on a dead thread
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at android.os.Handler.sendMessageAtTime(Handler.java:737)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at android.os.Handler.sendMessageDelayed(Handler.java:707)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at android.os.Handler.post(Handler.java:437)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at X.4OE.A01(Unknown Source:58)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at X.4OE.A00(Unknown Source:20)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at X.iaM.run(Unknown Source:19)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at android.os.Handler.handleCallback(Handler.java:1013)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:101)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at X.7DM.A02(Unknown Source:11)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at X.2Pq.A03(Unknown Source:79)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at X.7DM.run(Unknown Source:12)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at android.os.Handler.handleCallback(Handler.java:1013)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:101)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at android.app.ActivityThread.main(ActivityThread.java:9164)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at java.lang.reflect.Method.invoke(Native Method)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:594)
+11-27 17:08:23.831 14741 14741 W MessageQueue: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+11-27 17:08:23.899 14741 10444 W VideoPrefetchScheduler: start prefetch time: 0
+11-27 17:08:23.940 14741 10743 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+11-27 17:08:23.940 14741 10743 W Codec2Client: query -- param skipped: index = 1342179345.
+11-27 17:08:23.940 14741 10743 W Codec2Client: query -- param skipped: index = 2415921170.
+11-27 17:08:23.940 14741 10743 W Codec2Client: query -- param skipped: index = 1610614798.
+11-27 17:08:23.941 14741 10743 I MediaCodec: ++kWhatRelease   mState :6
+11-27 17:08:23.944 14741 10743 I MediaCodec: ++kWhatRelease   mState :2
+11-27 17:08:23.945 14741 10743 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+11-27 17:08:23.945 14741 10736 W MessageQueue: Handler (android.os.Handler) {1ed3f80} sending message to a Handler on a dead thread
+11-27 17:08:23.945 14741 10736 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {1ed3f80} sending message to a Handler on a dead thread
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at android.os.Handler.sendMessageAtTime(Handler.java:737)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at android.os.Handler.sendMessageDelayed(Handler.java:707)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at android.os.Handler.sendMessage(Handler.java:645)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at android.os.Message.sendToTarget(Message.java:472)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at X.7UA.A01(Unknown Source:4)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at X.7GA.FyG(Unknown Source:20)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at X.6uR.A08(Unknown Source:126)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at X.6uR.handleMessage(Unknown Source:1605)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+11-27 17:08:23.945 14741 10736 W MessageQueue: Handler (android.os.Handler) {55e21fe} sending message to a Handler on a dead thread
+11-27 17:08:23.945 14741 10736 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {55e21fe} sending message to a Handler on a dead thread
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at android.os.Handler.sendMessageAtFrontOfQueue(Handler.java:760)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at X.7AX.FhA(Unknown Source:8)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at X.7AW.A01(Unknown Source:29)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at X.7GA.FyG(Unknown Source:38)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at X.6uR.A08(Unknown Source:126)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at X.6uR.handleMessage(Unknown Source:1605)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+11-27 17:08:23.945 14741 10736 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+11-27 17:08:23.946 14741 10743 W MediaCodec: no metrics handle found
+11-27 17:08:24.088 21250 10713 I JSWatchdogManager: updateStallTime: 70350225
+11-27 17:08:24.746 14741 14755 I stagram.android: Background concurrent copying GC freed 12MB AllocSpace bytes, 78(11MB) LOS objects, 18% free, 105MB/129MB, paused 94us,87us total 186.438ms
+11-27 17:08:24.966 30154 31988 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 17:08:24.967 30154 31988 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 17:08:25.086 21250 10713 I JSWatchdogManager: updateStallTime: 70351223
+11-27 17:08:25.972 14741 10049 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 307568
+11-27 17:08:25.974 29731 30833 E Braze v37.0.0 .b: Failed request to [https://venetia.iad.appboy.com/api/v3/banners/sync]
+11-27 17:08:25.974 29731 30833 W Braze v37.0.0 .d: Experienced network communication exception processing API response. Sending network error event.
+11-27 17:08:25.974 29731 30833 I Braze v37.0.0 .d: Event was published, but no subscribers were found. Saving event for later publishing to a matching subscriber. Event class: class com.braze.events.BrazeNetworkFailureEvent this com.braze.events.d@2854e42
+11-27 17:08:25.975 29731 30833 W Braze v37.0.0 .d: Api response was null, failing task.
+11-27 17:08:25.975 29731 30833 W Braze v37.0.0 .a: Error occurred while executing Braze request: An error occurred during request processing, resulting in no valid response being received. Check the error log for more details.
+11-27 17:08:25.975 29731 30833 W Braze v37.0.0 .a: BannersSyncRequest failed.
+11-27 17:08:25.975 29731 30833 I Braze v37.0.0 .d: Event was published, but no subscribers were found. Saving event for later publishing to a matching subscriber. Event class: class com.braze.events.internal.b this com.braze.events.d@2854e42
+11-27 17:08:25.975 29731 30833 W Braze v37.0.0 .d: Received server error from request: An error occurred during request processing, resulting in no valid response being received. Check the error log for more details.
+11-27 17:08:25.976 29731 30833 I Braze v37.0.0 .d: Event was published, but no subscribers were found. Saving event for later publishing to a matching subscriber. Event class: class com.braze.events.internal.x this com.braze.events.d@9b5ce67
+11-27 17:08:26.013 14741 10120 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -307568
+11-27 17:08:26.091 21250 10713 I JSWatchdogManager: updateStallTime: 70352228
+11-27 17:08:26.185 14741 14754 I stagram.android: Method exceeds compiler instruction limit: 27178 in long X.C3h.A01(long)
+11-27 17:08:27.083 21250 10713 I JSWatchdogManager: updateStallTime: 70353220
+11-27 17:08:28.089 21250 10713 I JSWatchdogManager: updateStallTime: 70354226
+11-27 17:08:28.435 14741 10120 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 235564
+11-27 17:08:28.450 14741 10120 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -235564
+11-27 17:08:29.089 21250 10713 I JSWatchdogManager: updateStallTime: 70355226
+11-27 17:08:29.996 30154 32275 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 17:08:29.996 30154 32275 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 17:08:30.089 21250 10713 I JSWatchdogManager: updateStallTime: 70356226
+11-27 17:08:31.089 21250 10713 I JSWatchdogManager: updateStallTime: 70357226
+11-27 17:08:32.081 29731 30727 E KT      : Network error
+11-27 17:08:32.092 21250 10713 I JSWatchdogManager: updateStallTime: 70358229
+11-27 17:08:33.093 21250 10713 I JSWatchdogManager: updateStallTime: 70359229
+11-27 17:08:33.996 14741 14741 E stagram.android: No package ID ff found for resource ID 0xffffffff.
+11-27 17:08:33.999 14741 14741 E stagram.android: No package ID ff found for resource ID 0xffffffff.
+11-27 17:08:34.000 14741 14741 E stagram.android: Invalid resource ID 0x00000040.
+11-27 17:08:34.003 14741 14741 E stagram.android: Invalid resource ID 0x00000040.
+11-27 17:08:34.003 14741 14741 E stagram.android: Invalid resource ID 0x00000040.
+11-27 17:08:34.006 14741 14741 E stagram.android: Invalid resource ID 0x00000040.
+11-27 17:08:34.006 14741 14741 E stagram.android: Invalid resource ID 0x00000040.
+11-27 17:08:34.010 14741 14741 E stagram.android: Invalid resource ID 0x00000040.
+11-27 17:08:34.010 14741 14741 E stagram.android: Invalid resource ID 0x00000040.
+11-27 17:08:34.013 14741 14741 E stagram.android: Invalid resource ID 0x00000040.
+11-27 17:08:34.061 14741 14741 W E23     : Pos=11 holder=X.CB3@5b7f75a
+11-27 17:08:34.068 14741 11078 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+11-27 17:08:34.072 14741 14741 E VideoPlayerImpl: IgBaseVideoPlayer Warning: AV1_INSTANTIATION AV1_INSTANTIATION AV1 decoding using Dav1d;meta.dav1d.av1.decoder
+11-27 17:08:34.072 14741 11042 E ExoDav1dDecoder_JNI: Dav1dDecoder::dav1dInit -- setup signal action
+11-27 17:08:34.074 14741 11042 W AString : ctor got NULL, using empty string instead
+11-27 17:08:34.075 14741 11042 I CCodecBufferChannel: mIsVivoLogEnable = 0
+11-27 17:08:34.077 14741 11088 I CCodec  : setting up 'default' as default (vendor) store
+11-27 17:08:34.084 14741 11088 I CCodec  : Created component [c2.android.aac.decoder]
+11-27 17:08:34.088 14741 11088 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+11-27 17:08:34.089 21250 10713 I JSWatchdogManager: updateStallTime: 70360226
+11-27 17:08:34.091 14741 11088 W Codec2Client: query -- param skipped: index = 1107298332.
+11-27 17:08:34.091 14741 11088 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+11-27 17:08:34.096 14741 11088 W Codec2Client: query -- param skipped: index = 1342179345.
+11-27 17:08:34.096 14741 11088 W Codec2Client: query -- param skipped: index = 2415921170.
+11-27 17:08:34.096 14741 11088 W Codec2Client: query -- param skipped: index = 1610614798.
+11-27 17:08:34.096 14741 11088 I CCodecBufferChannel: mIsVivoLogEnable = 0
+11-27 17:08:34.121 14741 11042 W AudioSystem: setParameters: PlaybackCaptureProtectSupport=com.instagram.android
+11-27 17:08:34.130 14741 10444 W VideoPrefetchScheduler: start prefetch time: 0
+11-27 17:08:34.133 14741 10104 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 409083
+11-27 17:08:34.146 14741 10444 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+11-27 17:08:34.172 14741 14741 W MessageQueue: Handler (android.os.Handler) {662c476} sending message to a Handler on a dead thread
+11-27 17:08:34.172 14741 14741 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {662c476} sending message to a Handler on a dead thread
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at android.os.Handler.sendMessageAtTime(Handler.java:737)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at android.os.Handler.sendMessageDelayed(Handler.java:707)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at android.os.Handler.post(Handler.java:437)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at X.4OE.A01(Unknown Source:58)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at X.4OE.A00(Unknown Source:20)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at X.Khm.run(Unknown Source:4)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at android.os.Handler.handleCallback(Handler.java:1013)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:101)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at X.7DM.A02(Unknown Source:11)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at X.2Pq.A03(Unknown Source:79)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at X.7DM.run(Unknown Source:12)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at android.os.Handler.handleCallback(Handler.java:1013)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:101)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at android.app.ActivityThread.main(ActivityThread.java:9164)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at java.lang.reflect.Method.invoke(Native Method)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:594)
+11-27 17:08:34.172 14741 14741 W MessageQueue: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+11-27 17:08:34.178 14741 14759 W AidlConversionCppNdk: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+11-27 17:08:34.186 14741 10120 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -383758
+11-27 17:08:34.205 14741 10049 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -25325
+11-27 17:08:34.237 14741 10444 W VideoPrefetchScheduler: start prefetch time: 1
+11-27 17:08:34.261 14741 11035 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+11-27 17:08:34.261 14741 11035 W Codec2Client: query -- param skipped: index = 1342179345.
+11-27 17:08:34.261 14741 11035 W Codec2Client: query -- param skipped: index = 2415921170.
+11-27 17:08:34.261 14741 11035 W Codec2Client: query -- param skipped: index = 1610614798.
+11-27 17:08:34.263 14741 11035 I MediaCodec: ++kWhatRelease   mState :6
+11-27 17:08:34.266 14741 11035 I MediaCodec: ++kWhatRelease   mState :2
+11-27 17:08:34.266 14741 11133 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+11-27 17:08:34.267 14741 11028 W MessageQueue: Handler (android.os.Handler) {62531e4} sending message to a Handler on a dead thread
+11-27 17:08:34.267 14741 11028 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {62531e4} sending message to a Handler on a dead thread
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at android.os.Handler.sendMessageAtTime(Handler.java:737)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at android.os.Handler.sendMessageDelayed(Handler.java:707)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at android.os.Handler.sendMessage(Handler.java:645)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at android.os.Message.sendToTarget(Message.java:472)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at X.7UA.A01(Unknown Source:4)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at X.7GA.FyG(Unknown Source:20)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at X.6uR.A08(Unknown Source:126)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at X.6uR.handleMessage(Unknown Source:1605)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+11-27 17:08:34.267 14741 11028 W MessageQueue: Handler (android.os.Handler) {368b502} sending message to a Handler on a dead thread
+11-27 17:08:34.267 14741 11028 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {368b502} sending message to a Handler on a dead thread
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at android.os.Handler.sendMessageAtFrontOfQueue(Handler.java:760)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at X.7AX.FhA(Unknown Source:8)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at X.7AW.A01(Unknown Source:29)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at X.7GA.FyG(Unknown Source:38)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at X.6uR.A08(Unknown Source:126)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at X.6uR.handleMessage(Unknown Source:1605)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+11-27 17:08:34.267 14741 11028 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+11-27 17:08:34.267 14741 11035 W MediaCodec: no metrics handle found
+11-27 17:08:35.020 30154 32340 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 17:08:35.020 30154 32340 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 17:08:35.092 21250 10713 I JSWatchdogManager: updateStallTime: 70361229
+11-27 17:08:36.089 21250 10713 I JSWatchdogManager: updateStallTime: 70362226
+11-27 17:08:37.089 21250 10713 I JSWatchdogManager: updateStallTime: 70363226

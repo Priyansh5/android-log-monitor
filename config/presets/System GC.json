@@ -1,0 +1,20 @@
+{
+  "levels": {
+    "ERROR": false,
+    "FATAL": false,
+    "WARN": false,
+    "INFO": true,
+    "DEBUG": true,
+    "VERBOSE": true
+  },
+  "tags": [
+    "dalvikvm",
+    "art",
+    "System.err"
+  ],
+  "keywords": [
+    "GC_"
+  ],
+  "exclude_tags": [],
+  "regex_enabled": false
+}

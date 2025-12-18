@@ -1,0 +1,945 @@
+--------- beginning of main
+12-16 15:25:03.346 19284 20614 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=1cfa1f8c-3271-446e-a66d-eed998675546, tags={ com.whatsapp.wamo.rai.WamoRequestAccountInfoNotificationScheduler$WamoRequestAccountInfoNotificationWorker } ]
+12-16 15:25:11.332  4926  5914 I NearbyDiscovery: FastPair: isDestroyable: Scanner is alive. [CONTEXT service_id=265 ]
+12-16 15:25:11.333  4926  5914 I NearbyDiscovery: DiscoveryService: Skip stopSelf(), fast pair controller is not destroyable. [CONTEXT service_id=265 ]
+12-16 15:25:34.788  4926 24568 I FusedLocation: (REDACTED) location delivery to %s blocked - too close
+12-16 15:25:34.792  4926 24568 I FusedLocation: (REDACTED) location delivery to %s blocked - too close
+12-16 15:25:34.793  4926 24568 I FusedLocation: (REDACTED) location delivery to %s blocked - too fast
+12-16 15:25:34.880  4926 30022 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:25:34.891  4926 30022 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:25:34.898  4926 30022 I SemanticLocation: (REDACTED) [Inferrer] %s%s
+12-16 15:25:34.987  4926 30022 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:25:34.992  4926 30022 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:25:34.997  4926 30022 I SemanticLocation: (REDACTED) [Inferrer] %s%s
+12-16 15:25:35.076  4926 30022 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:25:35.081  4926 30022 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:25:35.086  4926 30022 I SemanticLocation: (REDACTED) [Inferrer] %s%s
+12-16 15:25:35.168  4926 30022 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:25:35.173  4926 30022 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:25:35.179  4926 30022 I SemanticLocation: (REDACTED) [Inferrer] %s%s
+12-16 15:25:38.020 26567  9728 E OpenGLRenderer: Unable to match the desired swap behavior.
+12-16 15:25:38.028 26567 26567 I booi    : onStart
+12-16 15:25:38.035 26567 26567 I bmea    : (REDACTED) [%s] onStart()
+12-16 15:25:38.035 26567 26567 I bmgh    : Reloading theme data
+12-16 15:25:38.036 26567 26567 I booi    : onResume
+12-16 15:25:38.936 27034 27034 I cr_VideoPersist: Attempted picture-in-picture with result: failure
+12-16 15:25:38.964  5205  5205 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2097 
+12-16 15:25:38.965  5205  5205 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+12-16 15:25:38.965  5205  5205 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1347 onStartInput(EditorInfo{EditorInfo{packageName=com.android.launcher3, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+12-16 15:25:38.966  5205  5205 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+12-16 15:25:39.219 27034 12427 I PlayCore: UID: [10178]  PID: [27034] AppUpdateService : requestUpdateInfo(com.android.chrome)
+12-16 15:25:39.220 27034 12444 I PlayCore: UID: [10178]  PID: [27034] AppUpdateService : Initiate binding to the service.
+12-16 15:25:39.234 27034 27034 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=sig@e27511c
+12-16 15:25:39.245 27034 27034 E cr_CompositorSurfaceMgr: surfaceDestroyed format : -3
+12-16 15:25:39.324 27034 27034 E AtomicFile: Failed to sync file output stream
+12-16 15:25:39.348 27034 27034 I PlayCore: UID: [10178]  PID: [27034] AppUpdateService : ServiceConnectionImpl.onServiceConnected(ComponentInfo{com.android.vending/com.google.android.finsky.installservice.DevTriggeredUpdateService})
+12-16 15:25:39.352 27034 12444 I PlayCore: UID: [10178]  PID: [27034] AppUpdateService : linkToDeath
+12-16 15:25:39.365 27034 12395 I cr_BindingManager: onTrimMemory: level=20, size=1
+12-16 15:25:39.389 27034 12426 I cr_OPArchivePublisher: ADM threw while trying to remove a download. java.lang.IllegalArgumentException: input param 'ids' can't be null
+12-16 15:25:39.410 27034 14590 I PlayCore: UID: [10178]  PID: [27034] OnRequestInstallCallback : onRequestInfo
+12-16 15:25:39.411 27034 12444 I PlayCore: UID: [10178]  PID: [27034] AppUpdateService : Unbind from service.
+12-16 15:25:43.706  4926 30569 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 62117061]
+12-16 15:25:43.724  4926 30022 I AlarmManager: setExactAndAllowWhileIdle [name: FcmRetry type: 2 triggerAtMillis: 60487078]
+12-16 15:25:43.777 30648 30648 I um.MoneyControl: Using CollectorTypeCC GC.
+12-16 15:25:43.783 30648 30648 E um.MoneyControl: Not starting debugger since process cannot load the jdwp agent.
+12-16 15:25:44.045  5409  7669 I dxni    : (REDACTED) appOpsListener %s %s
+12-16 15:25:44.046  5409  7669 I dxni    : (REDACTED) Ignoring irrelevant audio permission changes for package %s
+12-16 15:25:44.079 30648 30648 W um.MoneyControl: Failed to find entry 'classes.dex': Entry not found
+12-16 15:25:44.081 30648 30648 W um.MoneyControl: Failed to find entry 'classes.dex': Entry not found
+12-16 15:25:44.084 30648 30648 W um.MoneyControl: Failed to find entry 'classes.dex': Entry not found
+12-16 15:25:44.133  5409  7669 I dxni    : (REDACTED) appOpsListener %s %s
+12-16 15:25:44.133  5409  7669 I dxni    : (REDACTED) Ignoring irrelevant audio permission changes for package %s
+12-16 15:25:44.135 30377 30532 W MultiSignalANRDetectorLacrima: Resuming error state checks
+12-16 15:25:44.137 30377 30377 W BackgroundStartupDetector: bgMode=FOREGROUND
+12-16 15:25:44.142 30377 28919 W soft_error.cpp: [pando::graphql::PandoGraphQLRequestHybrid::assertValid] : Using a PandoGraphQLRequest after it has been consumed. Query name is IGDirectSafetyInterventionsUserLevelAsLiveQuery
+12-16 15:25:44.142 30377 28919 W soft_error.cpp: [pando::graphql::PandoGraphQLRequestHybrid::assertValid] : Using a PandoGraphQLRequest after it has been consumed. Query name is IGDirectSafetyInterventionsUserLevelAsLiveQuery
+12-16 15:25:44.156 30377 30377 W soft_error.cpp: [pando::graphql::PandoGraphQLRequestHybrid::assertValid] : Using a PandoGraphQLRequest after it has been consumed. Query name is FxIgXavSwitcherBadgingDataQuery
+12-16 15:25:44.164 30377 30672 W IgMetaConfig: Could not obtain MC: not_user_session session=X.1F9@4ff94b8
+12-16 15:25:44.164 30377 30672 W IgMetaConfig: java.lang.RuntimeException: Could not obtain MC, call-site will receive default values
+12-16 15:25:44.164 30377 30672 W IgMetaConfig: 	at X.2cn.A06(:4)
+12-16 15:25:44.164 30377 30672 W IgMetaConfig: 	at X.2cn.A05(:7)
+12-16 15:25:44.164 30377 30672 W IgMetaConfig: 	at X.2cn.A02(:2)
+12-16 15:25:44.164 30377 30672 W IgMetaConfig: 	at X.2fe.A00(:8)
+12-16 15:25:44.164 30377 30672 W IgMetaConfig: 	at X.2fe.A03(:7)
+12-16 15:25:44.164 30377 30672 W IgMetaConfig: 	at X.7bu.A00(:6)
+12-16 15:25:44.164 30377 30672 W IgMetaConfig: 	at X.7ew.GDu(:93)
+12-16 15:25:44.164 30377 30672 W IgMetaConfig: 	at X.7lh.handleMessage(:76)
+12-16 15:25:44.164 30377 30672 W IgMetaConfig: 	at android.os.Handler.dispatchMessage(Handler.java:108)
+12-16 15:25:44.164 30377 30672 W IgMetaConfig: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:25:44.164 30377 30672 W IgMetaConfig: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:25:44.164 30377 30672 W IgMetaConfig: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:25:44.164 30377 30377 W soft_error.cpp: [pando::graphql::PandoGraphQLRequestHybrid::assertValid] : Using a PandoGraphQLRequest after it has been consumed. Query name is IGClickIDConfigQuery
+12-16 15:25:44.171 30377 30455 E DefaultStreamRef.cpp: trying to start an already started/disconnected stream.
+12-16 15:25:44.176 30377 30377 W soft_error.cpp: [pando::graphql::PandoGraphQLRequestHybrid::assertValid] : Using a PandoGraphQLRequest after it has been consumed. Query name is IGDirectGetPresenceQuery
+12-16 15:25:44.178 30377 30377 W RageShakeSensorHelper: onActivityResume
+12-16 15:25:44.178 30377 30377 W RageShakeEligibilityHelper: Disabling rageshake.
+12-16 15:25:44.194 30377 30377 W 8YJ     : Pos=55 holder=X.48n@450b4dd
+12-16 15:25:44.199 30377 30696 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-16 15:25:44.200 30377 30377 W NonBlockingScreenshotDetectorImpl: Started new screenshot session
+12-16 15:25:44.200 30377 30377 W NonBlockingScreenshotDetectorImpl: Started new screenshot session
+12-16 15:25:44.200 30377 30377 W NonBlockingScreenshotDetectorImpl: Started new screenshot session
+12-16 15:25:44.200 30377 30377 W NonBlockingScreenshotDetectorImpl: Setting active session
+12-16 15:25:44.201 30377 30377 W NonBlockingScreenshotDetectorImpl: Now handling 1 active screenshot sessions
+12-16 15:25:44.201 30377 30377 W NonBlockingScreenshotDetectorImpl: Setting active session
+12-16 15:25:44.201 30377 30377 W NonBlockingScreenshotDetectorImpl: Now handling 2 active screenshot sessions
+12-16 15:25:44.201 30377 30377 W NonBlockingScreenshotDetectorImpl: Setting active session
+12-16 15:25:44.201 30377 30377 W NonBlockingScreenshotDetectorImpl: Now handling 3 active screenshot sessions
+12-16 15:25:44.201 30377 30697 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:44.201 30377 30697 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:44.201 30377 30697 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:44.201 30377 30697 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:44.201 30377 30697 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:44.201 30377 30697 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:44.201 25932 25932 W fbservices-stub:InitStatus: Not blocking Service (226051222)
+12-16 15:25:44.203  4926  4926 W GCM     : broadcast intent callback: result=CANCELLED forIntent { act=com.google.android.c2dm.intent.RECEIVE pkg=com.divum.MoneyControl (has extras) }
+12-16 15:25:44.207 25932 25932 W fbservices-stub:InitStatus: Not blocking Service (226051222)
+12-16 15:25:44.217 30377  6192 E OpenGLRenderer: Unable to match the desired swap behavior.
+12-16 15:25:44.234 26567 26567 I booi    : onPause
+12-16 15:25:44.237 30377 30697 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:44.239 30377 30697 W AString : ctor got NULL, using empty string instead
+12-16 15:25:44.243 30377 30697 I CCodecBufferChannel: mIsVivoLogEnable = 0
+12-16 15:25:44.248 30377 30704 I CCodec  : setting up 'default' as default (vendor) store
+12-16 15:25:44.253 30377 30704 I CCodec  : Created component [c2.android.aac.decoder]
+12-16 15:25:44.261 30377 30704 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:25:44.265 30377 30704 W Codec2Client: query -- param skipped: index = 1107298332.
+12-16 15:25:44.265 30377 30704 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:25:44.267 30377 30704 W Codec2Client: query -- param skipped: index = 1342179345.
+12-16 15:25:44.267 30377 30704 W Codec2Client: query -- param skipped: index = 2415921170.
+12-16 15:25:44.267 30377 30704 W Codec2Client: query -- param skipped: index = 1610614798.
+12-16 15:25:44.267 30377 30704 I CCodecBufferChannel: mIsVivoLogEnable = 0
+12-16 15:25:44.286 30377  6192 E OpenGLRenderer: Unable to match the desired swap behavior.
+12-16 15:25:44.291 30377 30697 W AudioSystem: setParameters: PlaybackCaptureProtectSupport=com.instagram.android
+12-16 15:25:44.341 30377 30377 E VideoPlayerImpl: IgBaseVideoPlayer Warning: AV1_INSTANTIATION AV1_INSTANTIATION AV1 decoding using Dav1d;meta.dav1d.av1.decoder
+12-16 15:25:44.347 30377 30100 W soft_error.cpp: [pando::graphql::PandoGraphQLRequestHybrid::assertValid] : Using a PandoGraphQLRequest after it has been consumed. Query name is IGOnDeviceAppHistoryPrivacyQuery
+12-16 15:25:44.359 30377 30100 W soft_error.cpp: [pando::graphql::PandoGraphQLRequestHybrid::assertValid] : Using a PandoGraphQLRequest after it has been consumed. Query name is FetchMemuProfile
+12-16 15:25:44.370 30377 30377 E SlowAppComponent: 0ms: TaskLifeDetectingService instantiating…
+12-16 15:25:44.370 30377 30377 E SlowAppComponent: Main thread was blocked for 24ms in the foreground starting with TaskLifeDetectingService
+12-16 15:25:44.372  5205  5205 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2097 
+12-16 15:25:44.374  5205  5205 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+12-16 15:25:44.374 30377 30100 W AudioManager: Use of stream types is deprecated for operations other than volume control
+12-16 15:25:44.374 30377 30100 W AudioManager: See the documentation of requestAudioFocus() for what to use instead with android.media.AudioAttributes to qualify your playback use case
+12-16 15:25:44.375  5205  5205 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1347 onStartInput(EditorInfo{EditorInfo{packageName=com.instagram.android, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+12-16 15:25:44.376  5205  5205 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+12-16 15:25:44.395  5409  6563 W AidlConversionCppNdk: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+12-16 15:25:44.396 32293  7465 W AidlConversionCppNdk: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+12-16 15:25:44.406 30377 31611 W AidlConversionCppNdk: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+12-16 15:25:44.411 30377 30697 E ExoDav1dDecoder_JNI: Dav1dDecoder::dav1dInit -- setup signal action
+12-16 15:25:44.414 30377 30377 W SWPool3_t1of1: type=1400 audit(0.0:147274): avc:  denied  { execmod } for  path="/data/app/~~iVqkV6LsYToNAPMq9N74-Q==/com.instagram.android-4DtmS7UrAlk2HNHcok1JDg==/oat/arm64/base.odex" dev="dm-46" ino=2161264 scontext=u:r:untrusted_app:s0:c159,c256,c512,c768 tcontext=u:object_r:dalvikcache_data_file:s0 tclass=file permissive=0 app=com.instagram.android
+12-16 15:25:44.414 30377 30377 W SWPool3_t1of1: type=1400 audit(0.0:147275): avc:  denied  { execmod } for  path="/data/app/~~iVqkV6LsYToNAPMq9N74-Q==/com.instagram.android-4DtmS7UrAlk2HNHcok1JDg==/oat/arm64/base.odex" dev="dm-46" ino=2161264 scontext=u:r:untrusted_app:s0:c159,c256,c512,c768 tcontext=u:object_r:dalvikcache_data_file:s0 tclass=file permissive=0 app=com.instagram.android
+12-16 15:25:44.452 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:25:44.452 30377  6322 W HeroManager: 	Id: 3788234521208528772_6675260885
+12-16 15:25:44.452 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-3.fna.fbcdn.net/o1/v/t2/f2/m86/AQOJjwAs-ZvUA-15IpSEw3ZxZLq_c_rYSmE302-W8x8oO08M4DtJEgLtpfSFDdcZQ2yWXXSFdXOuey6_OyfclWmtFy5_RuTiPlYVa7s.mp4?_nc_cat=102&_nc_oc=Adksv7ANNfW6bvNFa_a5kjEloJizKWBKP8xvj9zI_IulmIGXyCa0_4uBME7RubS0U6EU9fUGuWIj0oMD2EZjZWUS&_nc_sid=5e9851&_nc_ht=instagram.fdel65-3.fna.fbcdn.net&_nc_ohc=y6DfEyouJ-oQ7kNvwH7okkf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTQ5MzE2MDkxNjE1MDE5OSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxNDcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_gid=mJJ3pfFHVBCcZk-2wKPt0w&_nc_zt=28&vs=56e8451b60951f68&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83RjREQTFGMTc4NkY5RTM3NTZBNEU2RjAwOTlDNEJCMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQlFseGlNSTVSVGphUUFEQU9Gck5vV2RtMzVSYnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm7p7_37OBpwUVAigCQzMsF0BifMzMzMzNGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_AfmtzUpFZGmSaA5VLpLMCtiJyF-145-V9iyaVxb9yrY0cQ&oe=694318DB
+12-16 15:25:44.452 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_tab
+12-16 15:25:44.452 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:25:44.452 30377  6322 W HeroManager: 	DashMPD: 22695
+12-16 15:25:44.452 30377  6322 W HeroManager: 	Codec: av01.0.04M.08.0.111.05.06.06.0
+12-16 15:25:44.452 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:25:44.452 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:25:44.452 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:25:44.452 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:25:44.452 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:25:44.452 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:25:44.452 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:25:44.452 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:25:44.452 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:25:44.452 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:25:44.452 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:25:44.578 30377 30697 W AudioTrack: getTimestamp_l(893): retrograde timestamp time corrected, 37236744266262 < 37236750256105
+12-16 15:25:44.809 30377 30377 W PresenceStore: notify new presence state
+12-16 15:25:44.810 30377 30873 W DirectInboxStateStore: inboxStateUpdated - num_of_threads: 15
+12-16 15:25:44.854 26567 26567 I booi    : onStop
+12-16 15:25:45.661 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:45.664 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:45.664 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:45.668 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:45.668 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:45.671 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:45.671 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:45.675 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:45.675 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:45.678 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:45.741 30377 30377 W 8YJ     : Pos=56 holder=X.48n@c71cb8e
+12-16 15:25:45.747 30377 30779 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-16 15:25:45.748 30377 30780 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:45.748 30377 30780 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:45.748 30377 30780 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:45.748 30377 30780 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:45.749 30377 30780 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:45.749 30377 30780 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:45.751 30377 30377 E VideoPlayerImpl: IgBaseVideoPlayer Warning: AV1_INSTANTIATION AV1_INSTANTIATION AV1 decoding using Dav1d;meta.dav1d.av1.decoder
+12-16 15:25:45.760 30377 30780 E ExoDav1dDecoder_JNI: Dav1dDecoder::dav1dInit -- setup signal action
+12-16 15:25:45.761 30377 30780 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:45.762 30377 30780 W AString : ctor got NULL, using empty string instead
+12-16 15:25:45.763 30377 30780 I CCodecBufferChannel: mIsVivoLogEnable = 0
+12-16 15:25:45.767 30377 30792 I CCodec  : setting up 'default' as default (vendor) store
+12-16 15:25:45.771 30377 30792 I CCodec  : Created component [c2.android.aac.decoder]
+12-16 15:25:45.775 30377 30792 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:25:45.778 30377 30792 W Codec2Client: query -- param skipped: index = 1107298332.
+12-16 15:25:45.778 30377 30792 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:25:45.781 30377 30792 W Codec2Client: query -- param skipped: index = 1342179345.
+12-16 15:25:45.786 30377 30792 W Codec2Client: query -- param skipped: index = 2415921170.
+12-16 15:25:45.786 30377 30792 W Codec2Client: query -- param skipped: index = 1610614798.
+12-16 15:25:45.786 30377 30792 I CCodecBufferChannel: mIsVivoLogEnable = 0
+12-16 15:25:45.809 30377 30780 W AudioSystem: setParameters: PlaybackCaptureProtectSupport=com.instagram.android
+12-16 15:25:45.886 30377 31611 W AidlConversionCppNdk: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+12-16 15:25:45.968 30377 30704 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:25:45.968 30377 30704 W Codec2Client: query -- param skipped: index = 1342179345.
+12-16 15:25:45.969 30377 30704 W Codec2Client: query -- param skipped: index = 2415921170.
+12-16 15:25:45.969 30377 30704 W Codec2Client: query -- param skipped: index = 1610614798.
+12-16 15:25:45.972 30377 30704 I MediaCodec: ++kWhatRelease   mState :6
+12-16 15:25:45.977 30377 30704 I MediaCodec: ++kWhatRelease   mState :2
+12-16 15:25:45.979 30377 30696 W MessageQueue: Handler (android.os.Handler) {60570b6} sending message to a Handler on a dead thread
+12-16 15:25:45.979 30377 30696 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {60570b6} sending message to a Handler on a dead thread
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at android.os.Handler.sendMessageAtTime(Handler.java:737)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at android.os.Handler.sendMessageDelayed(Handler.java:707)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at android.os.Handler.sendMessage(Handler.java:645)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at android.os.Message.sendToTarget(Message.java:472)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at X.6zV.A01(Unknown Source:4)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at X.6yK.G0k(Unknown Source:20)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at X.6rH.A08(Unknown Source:126)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at X.6rH.handleMessage(Unknown Source:1551)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:25:45.979 30377 30696 W MessageQueue: Handler (android.os.Handler) {8019889} sending message to a Handler on a dead thread
+12-16 15:25:45.979 30377 30696 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {8019889} sending message to a Handler on a dead thread
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at android.os.Handler.sendMessageAtFrontOfQueue(Handler.java:760)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at X.7qn.Fjw(:8)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at X.7qk.A01(:29)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at X.6yK.G0k(Unknown Source:38)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at X.6rH.A08(Unknown Source:126)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at X.6rH.handleMessage(Unknown Source:1551)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:25:45.979 30377 30696 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:25:45.979 30377 30704 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+12-16 15:25:45.996 30377 30704 W MediaCodec: no metrics handle found
+12-16 15:25:46.003 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 6761
+12-16 15:25:46.014 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -6761
+12-16 15:25:46.180 30648 30799 W um.MoneyControl: ClassLoaderContext classpath size mismatch. expected=1, found=0 (DLC[];PCL[base.apk*630576034]{PCL[/system/framework/org.apache.http.legacy.jar*1157712065]#PCL[/system/framework/com.android.media.remotedisplay.jar*2114713712]#PCL[/system/framework/com.android.location.provider.jar*3994156537]#PCL[/system/framework/org.apache.http.legacy.jar*1157712065]} | DLC[];PCL[])
+12-16 15:25:46.204 30648 30799 W System  : ClassLoader referenced unknown path: 
+12-16 15:25:46.256 30648 30799 W um.MoneyControl: ClassLoaderContext classpath element checksum mismatch. expected=630576034, found=1152800617 (DLC[];PCL[base.apk*630576034]{PCL[/system/framework/org.apache.http.legacy.jar*1157712065]#PCL[/system/framework/com.android.media.remotedisplay.jar*2114713712]#PCL[/system/framework/com.android.location.provider.jar*3994156537]#PCL[/system/framework/org.apache.http.legacy.jar*1157712065]} | DLC[];PCL[/data/app/~~xVRHsm2tpFddqBa7U-iqzA==/com.divum.MoneyControl-nglaqpJUCDVb5Xf-NANkOQ==/base.apk*1152800617]{PCL[/system/framework/org.apache.http.legacy.jar*1157712065]})
+12-16 15:25:46.361  4926 24568 I PhenotypeResourceReader: unable to find any Phenotype resource metadata for com.divum.MoneyControl
+12-16 15:25:46.509 30648 30848 E um.MoneyControl: No package ID 6a found for resource ID 0x6a0b0013.
+12-16 15:25:46.510 30648 30848 I FA      : App measurement initialized, version: 148000
+12-16 15:25:46.511 30648 30848 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+12-16 15:25:46.511 30648 30848 I FA      : To enable faster debug mode event logging run:
+12-16 15:25:46.511 30648 30848 I FA      :   adb shell setprop debug.firebase.analytics.app com.divum.MoneyControl
+12-16 15:25:46.862  5241 30931 I AdvertisingIdClient: shouldSendLog 59205418
+12-16 15:25:46.862  5241 30931 I AdvertisingIdClient: GetInfoInternal elapse 9ms
+12-16 15:25:48.026 30377 31640 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 12493
+12-16 15:25:48.028 30377 31640 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -8397
+12-16 15:25:49.168 30377 30377 E fatal   : runForegroundReporters
+12-16 15:25:49.310 27034 12395 I cr_BindingManager: Release visible connections: 1
+12-16 15:25:51.718 30377 30780 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:51.718 30377 30780 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:51.718 30377 30780 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:51.718 30377 30780 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:51.719 30377 30780 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:51.719 30377 30780 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:53.103 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:53.106 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:53.107 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:53.110 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:53.110 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:53.113 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:53.114 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:53.117 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:53.117 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:53.120 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:53.165 30377 30377 W 8YJ     : Pos=57 holder=X.48n@ca1a01e
+12-16 15:25:53.171 30377 30986 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-16 15:25:53.173 30377 30987 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:53.173 30377 30987 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:53.173 30377 30987 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:53.173 30377 30987 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:53.173 30377 30987 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:53.173 30377 30987 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:53.175 30377 30377 E VideoPlayerImpl: IgBaseVideoPlayer Warning: AV1_INSTANTIATION AV1_INSTANTIATION AV1 decoding using Dav1d;meta.dav1d.av1.decoder
+12-16 15:25:53.184 30377 30987 E ExoDav1dDecoder_JNI: Dav1dDecoder::dav1dInit -- setup signal action
+12-16 15:25:53.185 30377 30987 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:53.190 30377 30987 W AString : ctor got NULL, using empty string instead
+12-16 15:25:53.195 30377 30987 I CCodecBufferChannel: mIsVivoLogEnable = 0
+12-16 15:25:53.198 30377 30993 I CCodec  : setting up 'default' as default (vendor) store
+12-16 15:25:53.200 30377 30993 I CCodec  : Created component [c2.android.aac.decoder]
+12-16 15:25:53.204 30377 30993 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:25:53.207 30377 30993 W Codec2Client: query -- param skipped: index = 1107298332.
+12-16 15:25:53.208 30377 30993 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:25:53.214 30377 30993 W Codec2Client: query -- param skipped: index = 1342179345.
+12-16 15:25:53.214 30377 30993 W Codec2Client: query -- param skipped: index = 2415921170.
+12-16 15:25:53.214 30377 30993 W Codec2Client: query -- param skipped: index = 1610614798.
+12-16 15:25:53.215 30377 30993 I CCodecBufferChannel: mIsVivoLogEnable = 0
+12-16 15:25:53.234 30377 30987 W AudioSystem: setParameters: PlaybackCaptureProtectSupport=com.instagram.android
+12-16 15:25:53.284 30377  4666 W AidlConversionCppNdk: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+12-16 15:25:53.407 30377 30792 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:25:53.407 30377 30792 W Codec2Client: query -- param skipped: index = 1342179345.
+12-16 15:25:53.407 30377 30792 W Codec2Client: query -- param skipped: index = 2415921170.
+12-16 15:25:53.407 30377 30792 W Codec2Client: query -- param skipped: index = 1610614798.
+12-16 15:25:53.408 30377 30792 I MediaCodec: ++kWhatRelease   mState :6
+12-16 15:25:53.411 30377 30792 I MediaCodec: ++kWhatRelease   mState :2
+12-16 15:25:53.412 30377 30779 W MessageQueue: Handler (android.os.Handler) {1321a1f} sending message to a Handler on a dead thread
+12-16 15:25:53.412 30377 30779 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {1321a1f} sending message to a Handler on a dead thread
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at android.os.Handler.sendMessageAtTime(Handler.java:737)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at android.os.Handler.sendMessageDelayed(Handler.java:707)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at android.os.Handler.sendMessage(Handler.java:645)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at android.os.Message.sendToTarget(Message.java:472)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at X.6zV.A01(Unknown Source:4)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at X.6yK.G0k(Unknown Source:20)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at X.6rH.A08(Unknown Source:126)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at X.6rH.handleMessage(Unknown Source:1551)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:25:53.412 30377 30779 W MessageQueue: Handler (android.os.Handler) {abd7335} sending message to a Handler on a dead thread
+12-16 15:25:53.412 30377 30779 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {abd7335} sending message to a Handler on a dead thread
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at android.os.Handler.sendMessageAtFrontOfQueue(Handler.java:760)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at X.7qn.Fjw(:8)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at X.7qk.A01(:29)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at X.6yK.G0k(Unknown Source:38)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at X.6rH.A08(Unknown Source:126)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at X.6rH.handleMessage(Unknown Source:1551)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:25:53.412 30377 30779 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:25:53.413 30377 30792 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+12-16 15:25:53.414 30377 30792 W MediaCodec: no metrics handle found
+12-16 15:25:55.466 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 159211
+12-16 15:25:55.478 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -159211
+12-16 15:25:57.916 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 125547
+12-16 15:25:57.924 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -125547
+--------- beginning of system
+12-16 15:25:59.751  1534  6341 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent
+12-16 15:25:59.796 30377 30377 E stagram.android: No package ID ff found for resource ID 0xffffffff.
+12-16 15:25:59.799 30377 30377 E stagram.android: No package ID ff found for resource ID 0xffffffff.
+12-16 15:25:59.799 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:59.803 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:59.803 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:59.806 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:59.806 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:59.809 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:59.810 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:59.813 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:25:59.856 30377 30377 W 8YJ     : Pos=58 holder=X.48n@5d1b7c2
+12-16 15:25:59.860 30377 31019 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-16 15:25:59.861 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:59.861 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:59.861 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:59.861 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:59.861 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:59.861 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:59.865 30377 30377 E VideoPlayerImpl: IgBaseVideoPlayer Warning: AV1_INSTANTIATION AV1_INSTANTIATION AV1 decoding using Dav1d;meta.dav1d.av1.decoder
+12-16 15:25:59.872 30377 31020 E ExoDav1dDecoder_JNI: Dav1dDecoder::dav1dInit -- setup signal action
+12-16 15:25:59.876 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:25:59.877 30377 31020 W AString : ctor got NULL, using empty string instead
+12-16 15:25:59.878 30377 31020 I CCodecBufferChannel: mIsVivoLogEnable = 0
+12-16 15:25:59.881 30377 31026 I CCodec  : setting up 'default' as default (vendor) store
+12-16 15:25:59.883 30377 31026 I CCodec  : Created component [c2.android.aac.decoder]
+12-16 15:25:59.892 30377 31026 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:25:59.895 30377 31026 W Codec2Client: query -- param skipped: index = 1107298332.
+12-16 15:25:59.895 30377 31026 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:25:59.896 30377 31026 W Codec2Client: query -- param skipped: index = 1342179345.
+12-16 15:25:59.896 30377 31026 W Codec2Client: query -- param skipped: index = 2415921170.
+12-16 15:25:59.896 30377 31026 W Codec2Client: query -- param skipped: index = 1610614798.
+12-16 15:25:59.896 30377 31026 I CCodecBufferChannel: mIsVivoLogEnable = 0
+12-16 15:25:59.926 30377 31020 W AudioSystem: setParameters: PlaybackCaptureProtectSupport=com.instagram.android
+12-16 15:25:59.965 30377 30394 W AidlConversionCppNdk: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+12-16 15:26:00.088 30377 30993 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:26:00.088 30377 30993 W Codec2Client: query -- param skipped: index = 1342179345.
+12-16 15:26:00.088 30377 30993 W Codec2Client: query -- param skipped: index = 2415921170.
+12-16 15:26:00.088 30377 30993 W Codec2Client: query -- param skipped: index = 1610614798.
+12-16 15:26:00.089 30377 30993 I MediaCodec: ++kWhatRelease   mState :6
+12-16 15:26:00.089 30377 30993 I MediaCodec: ++kWhatRelease   mState :2
+12-16 15:26:00.090 30377 30986 W MessageQueue: Handler (android.os.Handler) {d80373b} sending message to a Handler on a dead thread
+12-16 15:26:00.090 30377 30986 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {d80373b} sending message to a Handler on a dead thread
+12-16 15:26:00.090 30377 30986 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+12-16 15:26:00.090 30377 30986 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+12-16 15:26:00.090 30377 30986 W MessageQueue: 	at android.os.Handler.sendMessageAtTime(Handler.java:737)
+12-16 15:26:00.090 30377 30986 W MessageQueue: 	at android.os.Handler.sendMessageDelayed(Handler.java:707)
+12-16 15:26:00.090 30377 30986 W MessageQueue: 	at android.os.Handler.sendMessage(Handler.java:645)
+12-16 15:26:00.090 30377 30986 W MessageQueue: 	at android.os.Message.sendToTarget(Message.java:472)
+12-16 15:26:00.090 30377 30986 W MessageQueue: 	at X.6zV.A01(Unknown Source:4)
+12-16 15:26:00.090 30377 30986 W MessageQueue: 	at X.6yK.G0k(Unknown Source:20)
+12-16 15:26:00.090 30377 30986 W MessageQueue: 	at X.6rH.A08(Unknown Source:126)
+12-16 15:26:00.090 30377 30986 W MessageQueue: 	at X.6rH.handleMessage(Unknown Source:1551)
+12-16 15:26:00.090 30377 30986 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+12-16 15:26:00.090 30377 30986 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:26:00.090 30377 30986 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:26:00.090 30377 30986 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:26:00.090 30377 30993 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+12-16 15:26:00.091 30377 30986 W MessageQueue: Handler (android.os.Handler) {8023bb1} sending message to a Handler on a dead thread
+12-16 15:26:00.091 30377 30986 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {8023bb1} sending message to a Handler on a dead thread
+12-16 15:26:00.091 30377 30986 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+12-16 15:26:00.091 30377 30986 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+12-16 15:26:00.091 30377 30986 W MessageQueue: 	at android.os.Handler.sendMessageAtFrontOfQueue(Handler.java:760)
+12-16 15:26:00.091 30377 30986 W MessageQueue: 	at X.7qn.Fjw(:8)
+12-16 15:26:00.091 30377 30986 W MessageQueue: 	at X.7qk.A01(:29)
+12-16 15:26:00.091 30377 30986 W MessageQueue: 	at X.6yK.G0k(Unknown Source:38)
+12-16 15:26:00.091 30377 30986 W MessageQueue: 	at X.6rH.A08(Unknown Source:126)
+12-16 15:26:00.091 30377 30986 W MessageQueue: 	at X.6rH.handleMessage(Unknown Source:1551)
+12-16 15:26:00.091 30377 30986 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+12-16 15:26:00.091 30377 30986 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:26:00.091 30377 30986 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:26:00.091 30377 30986 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:26:00.091 30377 30993 W MediaCodec: no metrics handle found
+12-16 15:26:00.115 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 4341
+12-16 15:26:00.119 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -4341
+12-16 15:26:02.104 30377 31640 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 57918
+12-16 15:26:02.112 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -57918
+12-16 15:26:03.800 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:03.800 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:03.800 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:03.800 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:03.800 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:03.800 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:04.379 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 10464
+12-16 15:26:04.390 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 20406
+12-16 15:26:04.421 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -3805
+12-16 15:26:04.426 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 8020
+12-16 15:26:04.460 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 468
+12-16 15:26:04.462 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -35553
+12-16 15:26:04.494 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 40960
+12-16 15:26:04.500 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -40960
+12-16 15:26:04.585 30377 30388 I stagram.android: Background concurrent copying GC freed 9765KB AllocSpace bytes, 44(9416KB) LOS objects, 15% free, 133MB/157MB, paused 112us,100us total 243.527ms
+12-16 15:26:04.917 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:26:04.917 30377  6322 W HeroManager: 	Id: 3787370553079453171_61066202723
+12-16 15:26:04.917 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-3.fna.fbcdn.net/o1/v/t2/f2/m86/AQNRkrmnDjmbk1nNlhpuY-lLQ0syP5L_6i1gA81KEAmHagZCOJ9Jch04SzqOgvRmisfdgUs940b83TWHJ2fhKY3g5j42Te9BloNjJSU.mp4?_nc_cat=104&_nc_oc=Adm62E915JtmZoZ7sT52mphqdtf3XEW-w-E-aeBDz-8Ete-PT8Qvq0Of4s5psYaJhXrRMWvhr1uz7o0tFzzbuSiL&_nc_sid=5e9851&_nc_ht=instagram.fdel65-3.fna.fbcdn.net&_nc_ohc=AtXxC_Y_CVcQ7kNvwFJWOoe&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzE2LmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTIzMjg4OTgzODg5MzQ2MywiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo2MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=5FK5OkmOZtMJkxbWz9fkCA&_nc_zt=28&vs=7b3f43244e6e311b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xRjQ0MDhFRjUzOTUzNzUzRDE1ODY5RUU5OTJDRUY5Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HS084b1NOQjNsNlVhVWdFQU9IV2c5RVhtd2QxYnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmruanjtHTsAQVAigCQzMsF0BPqp--dsi0GBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_AfkTZctYAiaxzX19IqM5wGBj4MD2JguvE5cGfihUQ-DB1A&oe=69432069
+12-16 15:26:04.917 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:26:04.917 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:26:04.917 30377  6322 W HeroManager: 	DashMPD: 21132
+12-16 15:26:04.917 30377  6322 W HeroManager: 	Codec: av01.0.01M.08.0.111.01.01.01.0
+12-16 15:26:04.917 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:26:04.917 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:26:04.917 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:26:04.917 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:26:04.917 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:26:04.917 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:26:04.917 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:26:04.917 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:26:04.917 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:26:04.917 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:26:04.917 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:26:04.918 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:26:04.918 30377  6322 W HeroManager: 	Id: 3786132609823156843_29555776152
+12-16 15:26:04.918 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQNR0e2td1KWyj7Cvh1AJp0BwzEzMPRP3IcsuW8mUb2_MOgYtmqoAxCkS4HAojkpGWZ2Nhs9EDix-VoYzEPAoIQ4mzdlAvbhOu6DAeM.mp4?_nc_cat=107&_nc_oc=AdkYOpk4vuxdc3KEcnd3814yZcSu7B7kmb99iieQUhkblUAQPofWYWRY4gBIrKxObdd4j8KGWqYDHjSaYlUxHYuu&_nc_sid=5e9851&_nc_ht=instagram.fdel65-2.fna.fbcdn.net&_nc_ohc=ij9ADpFgk90Q7kNvwFg61GE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6ODAzNDY0NDA5NDA0NzI2LCJhc3NldF9hZ2VfZGF5cyI6MywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=5FK5OkmOZtMJkxbWz9fkCA&_nc_zt=28&vs=8b541a62100d34a5&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BQTQ4MEJBNkM3NzZFQzY0MDhDMTM2MkNBNDY2MkM5Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUFVucGlNMEQ3cWwzWGdGQVBMelpydy1EYk45YnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm7NSyq-Sv7QIVAigCQzMsF0BBEQYk3S8bGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_Afk2duFqVAX_TL7pJa53Ikjvypha9VofkSbIX4wgripj5w&oe=694324B8
+12-16 15:26:04.918 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:26:04.918 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:26:04.918 30377  6322 W HeroManager: 	DashMPD: 13524
+12-16 15:26:04.918 30377  6322 W HeroManager: 	Codec: av01.0.04M.08.0.111.01.01.01.0
+12-16 15:26:04.918 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:26:04.918 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:26:04.918 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:26:04.918 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:26:04.918 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:26:04.918 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:26:04.918 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:26:04.918 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:26:04.918 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:26:04.918 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:26:04.918 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:26:04.920 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:26:04.920 30377  6322 W HeroManager: 	Id: 3788184215372183560_64379358727
+12-16 15:26:04.920 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQPH0MQeATYEvEc2TWe9r1kE5sOilOKrhInifb3rmQZmtmN_NKz3TeG23t4tPKYVCKZ645188GEfbn9lBHLpsNFSyZA2ZPqJcl8wjWk.mp4?_nc_cat=108&_nc_oc=AdlsJdIFF3jOFt785Tof-9HEB4LaZ1RttmYu19V2zNW08J1TUMw-kZWBrF1G6AQfIXJNeLwSUzn0k4c1ksNIgdup&_nc_sid=5e9851&_nc_ht=instagram.fdel65-1.fna.fbcdn.net&_nc_ohc=SxteemK1FYMQ7kNvwHdqfAt&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTI3Ni5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ4cHZfYXNzZXRfaWQiOjg3NTA5NDQxODMxMjc3MiwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0MiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=5FK5OkmOZtMJkxbWz9fkCA&_nc_zt=28&vs=25bad4197fd1f583&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81MDRBNEQ0MURCNzYwQjdFN0ZGMDEyNUVEOTFGQzBBOF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQUM1blNPS3RYdjBDYkFPQU9Ca0I1bmduRkFiYnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmiLmWv5n5jQMVAigCQzMsF0BFap--dsi0GBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_Afm109C6H31bPLsDDE0zPOlFvEPeh1tLGgRXIecsvq-7zA&oe=6942F065
+12-16 15:26:04.920 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:26:04.920 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:26:04.920 30377  6322 W HeroManager: 	DashMPD: 22747
+12-16 15:26:04.920 30377  6322 W HeroManager: 	Codec: av01.0.04M.08.0.111.01.01.01.0
+12-16 15:26:04.920 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:26:04.920 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:26:04.920 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:26:04.920 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:26:04.920 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:26:04.920 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:26:04.920 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:26:04.920 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:26:04.920 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:26:04.920 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:26:04.920 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:26:04.921 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:26:04.921 30377  6322 W HeroManager: 	Id: 3787130153634158527_77957319008
+12-16 15:26:04.921 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-3.fna.fbcdn.net/o1/v/t2/f2/m86/AQMD90oaJurOgrgsGy_VTm-TQqelefztDLvgjyIxgz4INdMweZeMM2Hj-ZpoLHUQkbSkR7Ex_I3LJie5boGA1KvfqSd3mdI1YsXGjMA.mp4?_nc_cat=100&_nc_oc=Adl9E2-Qk9yDNye4OWBfsQ8KZrNqLfvl1xQXwUyJjQTf78wKspjtsI-2SVwToAfd2VZZf0QpWKaC7GXu9ZJ0xrui&_nc_sid=5e9851&_nc_ht=instagram.fdel65-3.fna.fbcdn.net&_nc_ohc=fGvgKCgOj6UQ7kNvwF0jfV8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTY2MTQzNjg5NTIxNDU1NSwiYXNzZXRfYWdlX2RheXMiOjIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=5FK5OkmOZtMJkxbWz9fkCA&_nc_zt=28&vs=760b0bf133f03fd0&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82MDREN0MzM0FGRjdBQUZGMjE4RTQwQzc5MzJFQjY5RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HT3ZTdWlOVHNybWZGNFFMQUlmTFhUQ0lJRVJ3YnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmtu-lv63E8wUVAigCQzMsF0AtEOVgQYk3GBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_AfkFzTIj4EbSnFZ-usfh8GtCI39c90l1SdElIk06nmCniw&oe=6942F5AD
+12-16 15:26:04.921 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:26:04.921 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:26:04.921 30377  6322 W HeroManager: 	DashMPD: 22855
+12-16 15:26:04.921 30377  6322 W HeroManager: 	Codec: av01.0.04M.08.0.111.01.01.01.0
+12-16 15:26:04.921 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:26:04.921 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:26:04.921 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:26:04.921 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:26:04.921 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:26:04.921 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:26:04.921 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:26:04.921 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:26:04.921 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:26:04.921 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:26:04.921 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:26:04.922 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:26:04.922 30377  6322 W HeroManager: 	Id: 3785230877689716974_76903188521
+12-16 15:26:04.922 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-3.fna.fbcdn.net/o1/v/t2/f2/m86/AQNxOVyL-e-jMPU3lzGFi4WI9A-RVRBxXSMWCXlgsqph-xM-s83a2F77dRJ8-eEjq1Y26zMU4T18RNOv4hlWIySG5akPAyO1kyKedIU.mp4?_nc_cat=104&_nc_oc=AdnSmWGG9nY88j0KUAXGEiq9_Sj6sJVLnob3Nt_juvY57RQyvnDLohhseFaIzOQUBTjLvPPwGhVz2b_KDJmlj6YD&_nc_sid=5e9851&_nc_ht=instagram.fdel65-3.fna.fbcdn.net&_nc_ohc=DcW33JJlhlgQ7kNvwHt9zHC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjMwNjUzOTI4OTc3MDEyNywiYXNzZXRfYWdlX2RheXMiOjQsInZpX3VzZWNhc2VfaWQiOjEwODI3LCJkdXJhdGlvbl9zIjo4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=5FK5OkmOZtMJkxbWz9fkCA&_nc_zt=28&vs=8977f7f5ffb193d3&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84ODRDOTYzNTlENDg4OURFNzlGM0NGMTY5OTgwN0E5Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRDAwbkNQX05STzZYVDRHQU9ZQXBYdnNSTzA3YnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmnuK38KDymAgVAigCQzMsF0AhKn752yLRGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2WWqQEA&oh=00_AflsihLeTsAfsbGmVOjWceq0NHGnH1RXQCwTZ8kGiOGVjQ&oe=694312DD
+12-16 15:26:04.922 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:26:04.922 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:26:04.922 30377  6322 W HeroManager: 	DashMPD: 9973
+12-16 15:26:04.922 30377  6322 W HeroManager: 	Codec: av01.0.05M.08.0.111.01.06.01.0
+12-16 15:26:04.922 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:26:04.922 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:26:04.922 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:26:04.922 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:26:04.922 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:26:04.922 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:26:04.922 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:26:04.922 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:26:04.922 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:26:04.922 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:26:04.922 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:26:04.925 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:26:04.925 30377  6322 W HeroManager: 	Id: 3787374609281163649_6123008940
+12-16 15:26:04.925 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-3.fna.fbcdn.net/o1/v/t2/f2/m86/AQMYnjkig6CaIEPirLG6TP5FZR4zfWoBtKUh7Kk6Qo8YM_KYcxWRGbI-P4cowPkuHrFGz0LTuiqgNkinyAMCOZTz_GK8SKrUOn401RU.mp4?_nc_cat=100&_nc_oc=Adnes-DweT_zjUwVCWKbIeMIjgUYZbgrWzodoev8X7T8Nf85Rtss5T6exK-hCNEDeSiw-BDojTd-PycBhQ7bAFFz&_nc_sid=5e9851&_nc_ht=instagram.fdel65-3.fna.fbcdn.net&_nc_ohc=nsOuEmWODq4Q7kNvwHXcAOd&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6Njc3NDU1MzI4NjM3NDk5LCJhc3NldF9hZ2VfZGF5cyI6MSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjUwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=5FK5OkmOZtMJkxbWz9fkCA&_nc_zt=28&vs=3c929465b75f08ed&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BQjQzMjZCREUyMTQzRTg5RjVDMjNBOENBOUYwNjlBRV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQ1lOamlObEF3MjF5LTBFQUtRWG5pSlNaN1ZLYnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm9si3w4uJtAIVAigCQzMsF0BJCj1wo9cKGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_Afl9wbZOvpW4QtKXJIRHmcGTQ-92IypN_5XnfGNG-BqtlA&oe=69430FFD
+12-16 15:26:04.925 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:26:04.925 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:26:04.925 30377  6322 W HeroManager: 	DashMPD: 22704
+12-16 15:26:04.925 30377  6322 W HeroManager: 	Codec: av01.0.04M.08.0.111.01.01.01.0
+12-16 15:26:04.925 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:26:04.925 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:26:04.925 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:26:04.925 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:26:04.925 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:26:04.925 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:26:04.925 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:26:04.925 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:26:04.925 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:26:04.925 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:26:04.925 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:26:04.926 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:26:04.926 30377  6322 W HeroManager: 	Id: 3787485211081704106_55002777974
+12-16 15:26:04.926 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQNPqBumGVt4vBSxP3sKYp0fVFXHtUpdreUFg3QzKNpBkjk8aveYvI3BlLutrJQXzkZSAUw0tt-g1N_52CNJU-lU4qcTJcx_GPcFZuk.mp4?_nc_cat=107&_nc_oc=Adk9og-iCaDWt5yfv2wqgs5Ai8Nu1cuj26G0CneEttRu8Y2CFtr4ORV-6abVvFvVDywMszecb9PbS9kyDKNz1oPO&_nc_sid=5e9851&_nc_ht=instagram.fdel65-2.fna.fbcdn.net&_nc_ohc=LByruQadoHQQ7kNvwEHqMur&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc2ODc2NTY4MzgwMjQwNywiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo1NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=5FK5OkmOZtMJkxbWz9fkCA&_nc_zt=28&vs=a4d9d40f3dc66fb7&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yRTQzRjUwNDM0RkFCNTFEOTRFNEM3QTU2QUM1OTg4N192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRWlPa3lQTmdMWHhsR2NFQUY1MkdqV2hSaFJ1YnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmzoSxpNurpAYVAigCQzMsF0BLiHKwIMScGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_Afkydjk0xvX7ou1jgAxc21W5q7vSHdgn-fdSrVsx_7zAWA&oe=6942F33C
+12-16 15:26:04.926 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:26:04.926 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:26:04.926 30377  6322 W HeroManager: 	DashMPD: 20824
+12-16 15:26:04.926 30377  6322 W HeroManager: 	Codec: av01.0.04M.08.0.111.01.01.01.0
+12-16 15:26:04.926 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:26:04.926 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:26:04.926 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:26:04.926 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:26:04.926 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:26:04.926 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:26:04.926 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:26:04.926 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:26:04.926 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:26:04.926 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:26:04.926 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:26:04.927 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:26:04.927 30377  6322 W HeroManager: 	Id: 3787994797895175430_74056889465
+12-16 15:26:04.927 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-3.fna.fbcdn.net/o1/v/t16/f2/m69/AQNWLB92yvStV9-wFJAi252GrJvfMaC7fojhujSD4IHJVUgNElGAWz7QzhX9OGgjWVqqfUc_HrEESNYP7QeJpSNW.mp4?strext=1&_nc_cat=105&_nc_oc=AdnwSW7YuKjTCtFxxFp_z4WxpQbO78mST6soe-VrkFXJnLKPWQ84n4BPUtYjqaUHoM637GcGCqMtJfxoM3YuwmNk&_nc_sid=5e9851&_nc_ht=instagram.fdel65-3.fna.fbcdn.net&_nc_ohc=AoQeR44ZW2AQ7kNvwHP_d4a&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MjMwNTk1NTY0NjU1NjczNywiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=5FK5OkmOZtMJkxbWz9fkCA&_nc_zt=28&vs=3cf9b5ede66c2140&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HT1ZhbHlPeTJNc1hZWVFOQUNNdmEyVk5scjVuYnNwVEFRQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUEVueFNQRWZlajJldklFQURfelIwZWRYb0VlYnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmgqnysqTQmAgVAigCQzMsF0Apqn752yLRGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_AflATEPrt89U7n9wtwCXm7_iAeboX3wSxOGGerCW9tTg5A&oe=6947059B
+12-16 15:26:04.927 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:26:04.927 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:26:04.927 30377  6322 W HeroManager: 	DashMPD: 20750
+12-16 15:26:04.927 30377  6322 W HeroManager: 	Codec: av01.0.01M.08.0.111.01.01.01.0
+12-16 15:26:04.927 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:26:04.927 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:26:04.927 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:26:04.927 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:26:04.927 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:26:04.927 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:26:04.927 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:26:04.927 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:26:04.927 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:26:04.927 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:26:04.927 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:26:04.928 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:26:04.928 30377  6322 W HeroManager: 	Id: 3787816338270941514_2908692483
+12-16 15:26:04.928 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-3.fna.fbcdn.net/o1/v/t2/f2/m86/AQMWJI4-Dth3JdIbAKaTp_LH69jPPZeBtd1ADLxu9eXfXIwkt51m4F72oxJtTLdU0hoHH6SNKKvU7iFolOJJMpvMclEGczEC5-cQ7WU.mp4?_nc_cat=102&_nc_oc=AdksCjL9FCbqI4DyGq8FhRVeapqCih-OLU61IXcfFwKFqZntltkTj2WqDbrOhQcUrQg8XGT1BDyvmgJzfreFYXY_&_nc_sid=5e9851&_nc_ht=instagram.fdel65-3.fna.fbcdn.net&_nc_ohc=AhnJEebbW9IQ7kNvwHEvy6B&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTIxMzE1OTUzNDAzODk0MiwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=5FK5OkmOZtMJkxbWz9fkCA&_nc_zt=28&vs=84ba3adfaec498aa&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80MzQ3MDc0OENDMTY2ODI2NjQzQ0NEOThCODNBREZBMV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRWlrcVNNMDEyOWdoajREQUhfdXAzU2F2aHhCYnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmvL6o8ZbXpwQVAigCQzMsF0AYAAAAAAAAGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_AfkHX-gkvVVA4Ibe-ByblYQwbblJRjstoLF9M4ZaHZGc9w&oe=6942F143
+12-16 15:26:04.928 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:26:04.928 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:26:04.928 30377  6322 W HeroManager: 	DashMPD: 11822
+12-16 15:26:04.928 30377  6322 W HeroManager: 	Codec: av01.0.05M.08.0.111.01.01.01.0
+12-16 15:26:04.928 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:26:04.928 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:26:04.928 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:26:04.928 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:26:04.928 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:26:04.928 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:26:04.928 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:26:04.928 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:26:04.928 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:26:04.928 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:26:04.928 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:26:04.930 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:26:04.930 30377  6322 W HeroManager: 	Id: 3787396193421523019_79030409654
+12-16 15:26:04.930 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-3.fna.fbcdn.net/o1/v/t2/f2/m86/AQNuNVu49VfC6_yOxWln2uU1YFHT-CPMlZ6-ptmheKtZ8YUuYGlx6Ff9R47nR49fSqFORzEP48QBSVpvpPToyUYn6g-mjwKloqUVvlg.mp4?_nc_cat=100&_nc_oc=AdmSfsHmOfGqoybAMX6WX0crVR3OJJP0Rp3sWhE0N4lo8ZrDcfWeUGyy6K6s74acXd3jg_8DNGeLZUNhH7sR-ABH&_nc_sid=5e9851&_nc_ht=instagram.fdel65-3.fna.fbcdn.net&_nc_ohc=K776Uqo7u3EQ7kNvwFcqa8E&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgzNjYwODM5Mzg4MjQ4OCwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoyNSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=5FK5OkmOZtMJkxbWz9fkCA&_nc_zt=28&vs=e5a0e9087b0a4334&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82NTRFMTIyQjg5MzZEQjI4Q0M2RDQzQjIwMzRFQzQ4MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUFZYeVNOSnIxMFhhTDBGQUZmOE96WWZ1VTl5YnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm8K3F7taYwwYVAigCQzMsF0A5ogxJul41GBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_Afl6me-Zp2swZaI3_KhYppJniWoCbbyoOgELik_gZcDyLg&oe=69430D55
+12-16 15:26:04.930 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:26:04.930 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:26:04.930 30377  6322 W HeroManager: 	DashMPD: 13337
+12-16 15:26:04.930 30377  6322 W HeroManager: 	Codec: vp09.00.21.08.00.01.01.01.00
+12-16 15:26:04.930 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:26:04.930 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:26:04.930 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:26:04.930 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:26:04.930 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:26:04.930 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:26:04.930 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:26:04.930 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:26:04.930 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:26:04.930 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:26:04.930 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:26:09.781  1534  6207 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent
+12-16 15:26:12.245 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:12.245 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:12.245 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:12.245 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:12.246 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:12.246 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:20.701 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:20.701 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:20.701 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:20.702 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:20.702 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:20.702 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:29.155 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:29.155 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:29.155 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:29.156 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:29.156 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:29.156 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:33.490  4926  4926 I SndPersonalSafety: (REDACTED) Peak of %f at %d, running m%d
+12-16 15:26:37.602 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:37.603 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:37.603 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:37.603 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:37.603 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:37.603 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:44.901 31127 31127 I oid.apps.photos: Using CollectorTypeCC GC.
+12-16 15:26:44.907 31127 31127 E oid.apps.photos: Not starting debugger since process cannot load the jdwp agent.
+12-16 15:26:44.953  4926  5820 I ActivityScheduler: nextTriggerTime: 60668307, in 240000ms, detectorType: 39, FULL_TYPE alarmWindowMillis: 30000
+12-16 15:26:44.953  4926  5820 W AlarmManager: alarm window unlikely to be respected [CONTEXT service_id=231 ]
+12-16 15:26:44.953  4926  5820 W AlarmManager: java.lang.IllegalArgumentException: alarm "NetworkLocationActivityDetection" has short window length
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at cnvs.c(:com.google.android.gms@254932029@25.49.32 (190400-843446962):38)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at cnvr.c(:com.google.android.gms@254932029@25.49.32 (190400-843446962):18)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at gdba.b(:com.google.android.gms@254932029@25.49.32 (190400-843446962):132)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at gbai.v(:com.google.android.gms@254932029@25.49.32 (190400-843446962):61)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at gbca.q(:com.google.android.gms@254932029@25.49.32 (190400-843446962):136)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at gbca.u(:com.google.android.gms@254932029@25.49.32 (190400-843446962):107)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at gbcg.L(:com.google.android.gms@254932029@25.49.32 (190400-843446962):74)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at gbbb.p(:com.google.android.gms@254932029@25.49.32 (190400-843446962):29)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at gbbi.q(:com.google.android.gms@254932029@25.49.32 (190400-843446962):23)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at gbbb.b(:com.google.android.gms@254932029@25.49.32 (190400-843446962):28)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at gbag.m(:com.google.android.gms@254932029@25.49.32 (190400-843446962):419)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at gbac.k(:com.google.android.gms@254932029@25.49.32 (190400-843446962):56)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at gbrt.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):7)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at android.os.Handler.handleCallback(Handler.java:1013)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at android.os.Handler.dispatchMessage(Handler.java:101)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at cppd.mv(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at cppd.dispatchMessage(:com.google.android.gms@254932029@25.49.32 (190400-843446962):140)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:26:44.953  4926  5820 W AlarmManager: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:26:45.105 31127 31127 W oid.apps.photos: Failed to find entry 'classes.dex': Entry not found
+12-16 15:26:45.107 31127 31127 W oid.apps.photos: Failed to find entry 'classes.dex': Entry not found
+12-16 15:26:45.108 31127 31127 W oid.apps.photos: Failed to find entry 'classes.dex': Entry not found
+12-16 15:26:46.061 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:46.061 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:46.062 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:46.062 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:46.062 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:46.062 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:54.510 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:54.510 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:54.510 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:54.510 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:54.510 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:26:54.510 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:02.964 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:02.964 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:02.964 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:02.964 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:02.964 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:02.964 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:11.419 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:11.419 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:11.419 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:11.419 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:11.419 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:11.419 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:19.865 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:19.866 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:19.866 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:19.866 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:19.866 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:19.866 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:28.316 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:28.316 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:28.316 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:28.316 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:28.316 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:28.316 30377 31020 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:27:31.178 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:27:31.184 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:27:31.184 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:27:31.188 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:27:31.188 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:27:31.191 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:27:31.191 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:27:31.194 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:27:31.195 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:27:31.198 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:27:32.446 26567  9728 E OpenGLRenderer: Unable to match the desired swap behavior.
+12-16 15:27:32.459 26567 26567 I booi    : onStart
+12-16 15:27:32.463 26567 26567 I bmea    : (REDACTED) [%s] onStart()
+12-16 15:27:32.463 26567 26567 I bmgh    : Reloading theme data
+12-16 15:27:32.465 26567 26567 I booi    : onResume
+12-16 15:27:32.675  4926  4926 I SndPersonalSafety: (REDACTED) Peak of %f at %d, running m%d
+12-16 15:27:33.221 30377 30377 W NonBlockingScreenshotDetectorImpl: Resigning active session
+12-16 15:27:33.221 30377 30377 W NonBlockingScreenshotDetectorImpl: Now handling 2 active screenshot sessions
+12-16 15:27:33.221 30377 30377 W NonBlockingScreenshotDetectorImpl: Resigning active session
+12-16 15:27:33.221 30377 30377 W NonBlockingScreenshotDetectorImpl: Now handling 1 active screenshot sessions
+12-16 15:27:33.221 30377 30377 W NonBlockingScreenshotDetectorImpl: Resigning active session
+12-16 15:27:33.221 30377 30377 W NonBlockingScreenshotDetectorImpl: Now handling 0 active screenshot sessions
+12-16 15:27:33.222 30377 30377 W RageShakeSensorHelper: onActivityPause
+12-16 15:27:33.222 30377 30377 W RageShakeSensorHelper: unregisterShakeListener started | mRegistered=false
+12-16 15:27:33.235  5205  5205 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2097 
+12-16 15:27:33.236  5205  5205 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+12-16 15:27:33.236  5205  5205 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1347 onStartInput(EditorInfo{EditorInfo{packageName=com.android.launcher3, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+12-16 15:27:33.237  5205  5205 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+12-16 15:27:33.250 30377 30532 W MultiSignalANRDetectorLacrima: Moving to background
+12-16 15:27:33.250 30377 30377 W BackgroundStartupDetector: bgMode=BACKGROUND
+12-16 15:27:33.257 30377 31026 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:27:33.257 30377 31026 W Codec2Client: query -- param skipped: index = 1342179345.
+12-16 15:27:33.257 30377 31026 W Codec2Client: query -- param skipped: index = 2415921170.
+12-16 15:27:33.257 30377 31026 W Codec2Client: query -- param skipped: index = 1610614798.
+12-16 15:27:33.257 30377 31026 I MediaCodec: ++kWhatRelease   mState :6
+12-16 15:27:33.259 30377 31026 I MediaCodec: ++kWhatRelease   mState :2
+12-16 15:27:33.260 30377 31026 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+12-16 15:27:33.260 30377 31019 W MessageQueue: Handler (android.os.Handler) {fdfb3bb} sending message to a Handler on a dead thread
+12-16 15:27:33.260 30377 31019 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {fdfb3bb} sending message to a Handler on a dead thread
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at android.os.Handler.sendMessageAtTime(Handler.java:737)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at android.os.Handler.sendMessageDelayed(Handler.java:707)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at android.os.Handler.sendMessage(Handler.java:645)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at android.os.Message.sendToTarget(Message.java:472)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at X.6zV.A01(Unknown Source:4)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at X.6yK.G0k(Unknown Source:20)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at X.6rH.A08(Unknown Source:126)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at X.6rH.handleMessage(Unknown Source:1551)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:27:33.260 30377 31019 W MessageQueue: Handler (android.os.Handler) {b114c31} sending message to a Handler on a dead thread
+12-16 15:27:33.260 30377 31019 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {b114c31} sending message to a Handler on a dead thread
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at android.os.Handler.sendMessageAtFrontOfQueue(Handler.java:760)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at X.7qn.Fjw(:8)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at X.7qk.A01(:29)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at X.6yK.G0k(Unknown Source:38)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at X.6rH.A08(Unknown Source:126)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at X.6rH.handleMessage(Unknown Source:1551)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:27:33.260 30377 31019 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:27:33.261 30377 31026 W MediaCodec: no metrics handle found
+12-16 15:27:33.740 27034 27043 W .android.chrome: Reducing the number of considered missed Gc histogram windows from 126 to 100
+12-16 15:27:33.743 27034 27044 W JavaBinder: BinderProxy is being destroyed but the application did not call unlinkToDeath to unlink all of its death recipients beforehand.  Releasing leaked death recipient: jql
+12-16 15:27:33.743 27034 27044 I BpBinder: onLastStrongRef automatically unlinking death recipients: 
+12-16 15:27:33.744 27034 27044 W JavaBinder: BinderProxy is being destroyed but the application did not call unlinkToDeath to unlink all of its death recipients beforehand.  Releasing leaked death recipient: jql
+12-16 15:27:33.745 27034 27044 I BpBinder: onLastStrongRef automatically unlinking death recipients: 
+12-16 15:27:33.745 27034 27044 W JavaBinder: BinderProxy is being destroyed but the application did not call unlinkToDeath to unlink all of its death recipients beforehand.  Releasing leaked death recipient: jql
+12-16 15:27:33.745 27034 27044 I BpBinder: onLastStrongRef automatically unlinking death recipients: 
+12-16 15:27:33.746 27034 27044 W JavaBinder: BinderProxy is being destroyed but the application did not call unlinkToDeath to unlink all of its death recipients beforehand.  Releasing leaked death recipient: jql
+12-16 15:27:33.746 27034 27044 I BpBinder: onLastStrongRef automatically unlinking death recipients: 
+12-16 15:27:33.747 27034 27044 W JavaBinder: BinderProxy is being destroyed but the application did not call unlinkToDeath to unlink all of its death recipients beforehand.  Releasing leaked death recipient: jql
+12-16 15:27:33.747 27034 27044 I BpBinder: onLastStrongRef automatically unlinking death recipients: 
+12-16 15:27:34.113 14527 14550 W android.vending: Reducing the number of considered missed Gc histogram windows from 230 to 100
+12-16 15:27:34.790  4926 28061 I FusedLocation: (REDACTED) location delivery to %s blocked - too close
+12-16 15:27:34.794  4926 28061 I FusedLocation: (REDACTED) location delivery to %s blocked - too close
+12-16 15:27:34.870  4926 31144 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:27:34.880  4926 31144 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:27:34.881  4926 31288 I NetworkScheduler: (REDACTED) Error inserting %s
+12-16 15:27:34.887  4926 31144 I SemanticLocation: (REDACTED) [Inferrer] %s%s
+12-16 15:27:34.968  4926 31144 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:27:34.973  4926 31144 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:27:34.978  4926 31144 I SemanticLocation: (REDACTED) [Inferrer] %s%s
+12-16 15:27:35.063  4926 31144 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:27:35.069  4926 31144 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:27:35.074  4926 31144 I SemanticLocation: (REDACTED) [Inferrer] %s%s
+12-16 15:27:35.151  4926 31144 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:27:35.156  4926 31144 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:27:35.161  4926 31144 I SemanticLocation: (REDACTED) [Inferrer] %s%s
+12-16 15:27:35.439 30377 30532 W MultiSignalANRDetectorLacrima: Pausing error state checks
+12-16 15:27:38.231  5409  7669 I dxni    : (REDACTED) appOpsListener %s %s
+12-16 15:27:38.231  5409  7669 I dxni    : (REDACTED) Ignoring irrelevant audio permission changes for package %s
+12-16 15:27:38.253 30377 30672 W IgMetaConfig: Could not obtain MC: not_user_session session=X.1F9@4ff94b8
+12-16 15:27:38.253 30377 30672 W IgMetaConfig: java.lang.RuntimeException: Could not obtain MC, call-site will receive default values
+12-16 15:27:38.253 30377 30672 W IgMetaConfig: 	at X.2cn.A06(:4)
+12-16 15:27:38.253 30377 30672 W IgMetaConfig: 	at X.2cn.A05(:7)
+12-16 15:27:38.253 30377 30672 W IgMetaConfig: 	at X.2cn.A02(:2)
+12-16 15:27:38.253 30377 30672 W IgMetaConfig: 	at X.2fe.A00(:8)
+12-16 15:27:38.253 30377 30672 W IgMetaConfig: 	at X.2fe.A03(:7)
+12-16 15:27:38.253 30377 30672 W IgMetaConfig: 	at X.7bu.A00(:6)
+12-16 15:27:38.253 30377 30672 W IgMetaConfig: 	at X.7ew.GDu(:93)
+12-16 15:27:38.253 30377 30672 W IgMetaConfig: 	at X.7lh.handleMessage(:76)
+12-16 15:27:38.253 30377 30672 W IgMetaConfig: 	at android.os.Handler.dispatchMessage(Handler.java:108)
+12-16 15:27:38.253 30377 30672 W IgMetaConfig: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:27:38.253 30377 30672 W IgMetaConfig: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:27:38.253 30377 30672 W IgMetaConfig: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:27:38.270 30377 30729 E AppStates.cpp: Event 2 is not expected in BACKGROUND_VOIPOFF
+12-16 15:27:38.436 30377 30100 W MobileModuleQPLObserver.cpp: Ignored unsupported key type: string
+12-16 15:27:41.046 30377 30388 I stagram.android: Background concurrent copying GC freed 38MB AllocSpace bytes, 85(7260KB) LOS objects, 15% free, 131MB/155MB, paused 320us,271us total 1.186s
+12-16 15:27:51.610 27034 27034 I cr_SUCFiltersObserver: setting=browser_content_filters_enabled discarding false
+12-16 15:27:51.610 27034 27034 I cr_SUCFiltersObserver: setting=search_content_filters_enabled discarding false
+12-16 15:27:51.615 27034 27034 I cr_OfflineDetector: Running updateState mConnectivityDetectorInitialized: true, mTimeWhenLastForegrounded: 60494970, getElapsedTime: 60494970, mTimeWhenLastOfflineNotificationReceived: 52847067, mTimeWhenLastOnline: 58627849, mTimeWhenAirplaneModeToggledOff: 0 mApplicationState: 1, mIsOfflineLastReportedByConnectivityDetector: false, mInAirplaneMode: false mIsEffectivelyOffline: false
+12-16 15:27:51.615 27034 27034 I cr_OfflineDetector: updateState(): timeSinceLastForeground: 0, timeSinceOfflineNotificationReceived: 7647903, timeSinceLastOnline: 1867121, timeNeededForForeground: 2000, timeNeededForOffline: -7645903 timeSinceAirplaneModeToggledOff: 60494970 timeNeededAfterConnectionChangeFromOnlineToOffline: -1857121 timeNeededAfterConnectionChangeFromAirplaneToOffline: 0
+12-16 15:27:51.619  5409  7669 I dxni    : (REDACTED) appOpsListener %s %s
+12-16 15:27:51.638  5409  7669 I dxni    : (REDACTED) Ignoring irrelevant audio permission changes for package %s
+12-16 15:27:51.658 27034 12426 I PlayCore: UID: [10178]  PID: [27034] AppUpdateService : requestUpdateInfo(com.android.chrome)
+12-16 15:27:51.658 27034 12444 I PlayCore: UID: [10178]  PID: [27034] AppUpdateService : Initiate binding to the service.
+12-16 15:27:51.660 27034 27034 W cr_ActivityDispatcher: CustomTabsIntent#shouldAlwaysUseBrowserUI() = false
+12-16 15:27:51.664 27034 27034 I cr_ChromeActivity: onNewIntentWithNative: exiting picture in picture if needed
+12-16 15:27:51.664 27034 27034 I cr_VideoPersist: Framework exited picture in picture
+12-16 15:27:51.664 27034 27034 I cr_VideoPersist: Exited picture in picture with reason: 0
+12-16 15:27:51.665 27034 27034 I cr_A11yState: Enabled accessibility services list updated. []
+12-16 15:27:51.669 27034 27034 I cr_A11yState: Informing listeners of changes.
+12-16 15:27:51.669 27034 27034 I cr_A11yState: New AccessibilityState: State{isComplexUserInteractionServiceEnabled=false, isTouchExplorationEnabled=false, isPerformGesturesEnabled=false, isAnyAccessibilityServiceEnabled=false, isAccessibilityToolPresent=false, isTextShowPasswordEnabled=true, isOnlyAutofillRunning=false, isOnlyPasswordManagersEnabled=false, isKnownScreenReaderEnabled=false}
+12-16 15:27:51.669 27034 12428 W cr_PartnerCustomize: Partner homepage must be HTTP(S) or NewTabPage. Got invalid URL ""
+12-16 15:27:51.675 27034 27034 I cr_InactivityTracker: Last background time read from the SharedPreference is:1765878938936.
+12-16 15:27:51.678 27034 27034 I cr_ChromeActivity: onResumeWithNative: exiting picture in picture if needed
+12-16 15:27:51.678 27034 27034 I cr_VideoPersist: Dismiss activity with reason 0
+12-16 15:27:51.679 27034 27034 I cr_InactivityTracker: Last visible time read from the SharedPreference is:1765878732582.
+12-16 15:27:51.688 27034 12392 E OpenGLRenderer: Unable to match the desired swap behavior.
+12-16 15:27:51.690 27034 27034 I cr_CompositorSurfaceMgr: surfaceCreated format: 0
+12-16 15:27:51.700 26567 26567 I booi    : onPause
+12-16 15:27:51.705 27034 27034 I PlayCore: UID: [10178]  PID: [27034] AppUpdateService : ServiceConnectionImpl.onServiceConnected(ComponentInfo{com.android.vending/com.google.android.finsky.installservice.DevTriggeredUpdateService})
+12-16 15:27:51.705 27034 12444 I PlayCore: UID: [10178]  PID: [27034] AppUpdateService : linkToDeath
+12-16 15:27:51.713  4926 28062 W PhBaseOp: Phenotype API error. Event: # htfw@67315f00, EventCode: GET_EXP [CONTEXT service_id=51 ]
+12-16 15:27:51.713  4926 28062 W PhBaseOp: entg: 29505: No config packages for log source, or config package not registered
+12-16 15:27:51.713  4926 28062 W PhBaseOp: 	at envx.f(:com.google.android.gms@254932029@25.49.32 (190400-843446962):77)
+12-16 15:27:51.713  4926 28062 W PhBaseOp: 	at envv.i(:com.google.android.gms@254932029@25.49.32 (190400-843446962):3)
+12-16 15:27:51.713  4926 28062 W PhBaseOp: 	at enuz.h(:com.google.android.gms@254932029@25.49.32 (190400-843446962):31)
+12-16 15:27:51.713  4926 28062 W PhBaseOp: 	at enuz.f(:com.google.android.gms@254932029@25.49.32 (190400-843446962):13)
+12-16 15:27:51.713  4926 28062 W PhBaseOp: 	at cobm.fB(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:27:51.713  4926 28062 W PhBaseOp: 	at cobq.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):118)
+12-16 15:27:51.713  4926 28062 W PhBaseOp: 	at gkgi.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):19)
+12-16 15:27:51.713  4926 28062 W PhBaseOp: 	at bdrm.c(:com.google.android.gms@254932029@25.49.32 (190400-843446962):50)
+12-16 15:27:51.713  4926 28062 W PhBaseOp: 	at bdrm.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):73)
+12-16 15:27:51.713  4926 28062 W PhBaseOp: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1156)
+12-16 15:27:51.713  4926 28062 W PhBaseOp: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:651)
+12-16 15:27:51.713  4926 28062 W PhBaseOp: 	at bdxd.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):8)
+12-16 15:27:51.713  4926 28062 W PhBaseOp: 	at java.lang.Thread.run(Thread.java:1119)
+12-16 15:27:51.713  5241  8706 I SyncManager: (REDACTED) Executing sync(type=%s%s)
+12-16 15:27:51.713  4926 28062 W AsyncOperation: operation=GetExperimentTokensOperationCall, opStatusCode=29505 [CONTEXT service_id=51 ]
+12-16 15:27:51.713  4926 28062 W AsyncOperation: OperationException[Status{statusCode=No config packages for log source, or config package not registered, resolution=null}]
+12-16 15:27:51.713  4926 28062 W AsyncOperation: 	at enuz.h(:com.google.android.gms@254932029@25.49.32 (190400-843446962):61)
+12-16 15:27:51.713  4926 28062 W AsyncOperation: 	at enuz.f(:com.google.android.gms@254932029@25.49.32 (190400-843446962):13)
+12-16 15:27:51.713  4926 28062 W AsyncOperation: 	at cobm.fB(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:27:51.713  4926 28062 W AsyncOperation: 	at cobq.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):118)
+12-16 15:27:51.713  4926 28062 W AsyncOperation: 	at gkgi.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):19)
+12-16 15:27:51.713  4926 28062 W AsyncOperation: 	at bdrm.c(:com.google.android.gms@254932029@25.49.32 (190400-843446962):50)
+12-16 15:27:51.713  4926 28062 W AsyncOperation: 	at bdrm.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):73)
+12-16 15:27:51.713  4926 28062 W AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1156)
+12-16 15:27:51.713  4926 28062 W AsyncOperation: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:651)
+12-16 15:27:51.713  4926 28062 W AsyncOperation: 	at bdxd.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):8)
+12-16 15:27:51.713  4926 28062 W AsyncOperation: 	at java.lang.Thread.run(Thread.java:1119)
+12-16 15:27:51.728 27034 20595 I PlayCore: UID: [10178]  PID: [27034] OnRequestInstallCallback : onRequestInfo
+12-16 15:27:51.728 27034 12444 I PlayCore: UID: [10178]  PID: [27034] AppUpdateService : Unbind from service.
+12-16 15:27:51.738  5241  8706 I SyncManager: (REDACTED) Executing sync(type=%s) finished in %s
+12-16 15:27:51.791  5205  5205 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2097 
+12-16 15:27:51.791  5205  5205 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 0, locked = false
+12-16 15:27:51.791  5205  5205 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1347 onStartInput(EditorInfo{EditorInfo{packageName=com.android.chrome, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=12000000, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+12-16 15:27:51.792  5205  5205 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():103 repeatCheckTimes = 1, locked = false
+12-16 15:27:51.857  5241  8706 I SyncManager: (REDACTED) Executing sync(type=%s%s)
+12-16 15:27:51.859  5241  8706 I SyncManager: (REDACTED) Executing sync(type=%s) finished in %s
+12-16 15:27:51.860  5241  8706 I SyncManager: (REDACTED) Executing sync(type=%s%s)
+12-16 15:27:51.862  5241  8706 I SyncManager: (REDACTED) Executing sync(type=%s) finished in %s
+12-16 15:27:52.357 26567 26567 I booi    : onStop
+12-16 15:27:54.244 26567 26578 W chbox:googleapp: Reducing the number of considered missed Gc histogram windows from 299 to 100
+12-16 15:27:58.849 27034 12426 W chromium: [WARNING:net/cert/ev_root_ca_metadata.cc:117] Not implemented
+12-16 15:28:00.129  1534  6327 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent
+12-16 15:28:04.285 26567 26799 E ehot    : (REDACTED) Trace %s timed out after %d ms. Complete trace: %s
+12-16 15:28:04.285 26567 26799 E ehot    : ehqb: 
+12-16 15:28:04.285 26567 26799 E ehot    : 	at tk_trace.TimedProcessReaper#scheduleReap()(Started After:0)
+12-16 15:28:09.768  4926 31372 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 62263123]
+12-16 15:28:09.777  4926 31523 I AlarmManager: setExactAndAllowWhileIdle [name: FcmRetry type: 2 triggerAtMillis: 60633131]
+12-16 15:28:09.791  4926 31597 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 62263145]
+12-16 15:28:10.162  1534  6327 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent
+12-16 15:28:13.114 29014 29187 I gle.android.gms: Explicit concurrent copying GC freed 381KB AllocSpace bytes, 6(184KB) LOS objects, 37% free, 3352KB/5400KB, paused 158us,66us total 146.251ms
+12-16 15:28:30.223  1534  6207 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent
+12-16 15:28:39.734 27034 12427 W chromium: [WARNING:net/cert/ev_root_ca_metadata.cc:117] Not implemented
+12-16 15:28:39.736 27034 12427 W chromium: [WARNING:net/cert/ev_root_ca_metadata.cc:117] Not implemented
+12-16 15:28:39.741 27034 12427 W chromium: [WARNING:net/cert/ev_root_ca_metadata.cc:117] Not implemented
+12-16 15:28:39.885 27034 12427 W chromium: [WARNING:net/cert/ev_root_ca_metadata.cc:117] Not implemented
+12-16 15:28:40.254  1534  6327 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent
+12-16 15:28:40.587 27034 12426 W chromium: [WARNING:net/cert/ev_root_ca_metadata.cc:117] Not implemented
+12-16 15:28:40.679 27034 12426 W chromium: [WARNING:net/cert/ev_root_ca_metadata.cc:117] Not implemented
+12-16 15:28:41.169 27034 27034 I cr_E2E_DCController: setSafeAreaConstraint: false
+12-16 15:28:41.178 27034 12427 I cr_OPArchivePublisher: ADM threw while trying to remove a download. java.lang.IllegalArgumentException: input param 'ids' can't be null
+12-16 15:28:41.180 27034 12426 W chromium: [WARNING:net/cert/ev_root_ca_metadata.cc:117] Not implemented
+12-16 15:28:41.420 27034 27034 W cr_SegmentationPlatform: Signal type not found: 16
+12-16 15:28:41.749 27034 12426 W chromium: [WARNING:net/cert/ev_root_ca_metadata.cc:117] Not implemented
+12-16 15:28:41.857 27034 12426 W chromium: [WARNING:net/cert/ev_root_ca_metadata.cc:117] Not implemented
+12-16 15:28:42.453 27034 12426 W chromium: [WARNING:net/cert/ev_root_ca_metadata.cc:117] Not implemented
+12-16 15:28:43.520 27034 12426 W chromium: [WARNING:net/cert/ev_root_ca_metadata.cc:117] Not implemented
+12-16 15:28:44.222 27034 12427 E AtomicFile: Failed to sync file output stream
+12-16 15:28:45.750  4926 28062 I NearbySharing: Network state changed: NetworkState(isRestricted=false, isOnline=true, isCongested=false, isMetered=true, isWifiConnected=false)
+12-16 15:28:51.768  4926 28062 I NearbySharing: Network state changed: NetworkState(isRestricted=false, isOnline=true, isCongested=false, isMetered=true, isWifiConnected=false)
+12-16 15:28:52.624 27034 12427 W chromium: [WARNING:net/cert/ev_root_ca_metadata.cc:117] Not implemented
+12-16 15:28:57.856  4926 28062 I NearbySharing: Network state changed: NetworkState(isRestricted=false, isOnline=true, isCongested=false, isMetered=true, isWifiConnected=false)
+12-16 15:28:59.883  5355 23256 I MediaProvider: Deleted 1 0 0 0 0 0 0 items on external_primary due to com.whatsapp
+12-16 15:28:59.914  5355 26134 I MediaProvider: Deleted 0 0 0 0 0 0 0 items on external due to com.whatsapp
+12-16 15:28:59.969  4926 31523 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+12-16 15:28:59.987  4926 31298 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+12-16 15:29:09.931 32036 32036 I .apps.nbu.files: Using CollectorTypeCC GC.
+12-16 15:29:09.936 32036 32036 E .apps.nbu.files: Not starting debugger since process cannot load the jdwp agent.
+12-16 15:29:10.021 32036 32036 W .apps.nbu.files: Failed to find entry 'classes.dex': Entry not found
+12-16 15:29:10.022 32036 32036 W .apps.nbu.files: Failed to find entry 'classes.dex': Entry not found
+12-16 15:29:10.023 32036 32036 W .apps.nbu.files: Failed to find entry 'classes.dex': Entry not found
+12-16 15:29:10.069 32036 32066 W .apps.nbu.files: ClassLoaderContext classpath size mismatch. expected=1, found=0 (DLC[];PCL[base.apk*630576034]{PCL[/system/framework/org.apache.http.legacy.jar*1157712065]#PCL[/system/framework/com.android.media.remotedisplay.jar*2114713712]#PCL[/system/framework/com.android.location.provider.jar*3994156537]#PCL[/system/framework/org.apache.http.legacy.jar*1157712065]} | DLC[];PCL[])
+12-16 15:29:10.089 32036 32066 W System  : ClassLoader referenced unknown path: 
+12-16 15:29:10.109 32036 32066 W .apps.nbu.files: ClassLoaderContext classpath element checksum mismatch. expected=630576034, found=2405074856 (DLC[];PCL[base.apk*630576034]{PCL[/system/framework/org.apache.http.legacy.jar*1157712065]#PCL[/system/framework/com.android.media.remotedisplay.jar*2114713712]#PCL[/system/framework/com.android.location.provider.jar*3994156537]#PCL[/system/framework/org.apache.http.legacy.jar*1157712065]} | DLC[];PCL[/data/app/~~ZVgpoXbiweASLnZfTU8Lrg==/com.google.android.apps.nbu.files-QU1HS65VBjeaN59dAJv8lA==/base.apk*2405074856]{PCL[/system/framework/org.apache.http.legacy.jar*1157712065]})
+12-16 15:29:10.206 32036 32088 E .apps.nbu.files: No package ID 6a found for resource ID 0x6a0b0013.
+12-16 15:29:10.208 32036 32088 I FA      : App measurement initialized, version: 148000
+12-16 15:29:10.208 32036 32088 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+12-16 15:29:10.209 32036 32088 I FA      : To enable faster debug mode event logging run:
+12-16 15:29:10.209 32036 32088 I FA      :   adb shell setprop debug.firebase.analytics.app com.google.android.apps.nbu.files
+12-16 15:29:10.251  5241 32100 W AdvertisingIdSettings: Package com.google.android.apps.nbu.files failed Ad Id permission check. Apps that target Android SDK 33 or higher should declare com.google.android.gms.permission.AD_ID in the app manifest to access Ad Id.
+12-16 15:29:10.252  5241 32100 I AdvertisingIdClient: shouldSendLog 59205418
+12-16 15:29:10.252  5241 32100 I AdvertisingIdClient: GetInfoInternal elapse 7ms
+12-16 15:29:29.987  5241 29001 I GmscoreIpa: Starting mediastore instant index [CONTEXT service_id=255 ]
+12-16 15:29:33.446 14527 14563 I Finsky  : [6737] Stats for Executor: BlockingExecutor uly@ed38797[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 51]
+12-16 15:29:33.448 14527 14563 I Finsky  : [6737] Stats for Executor: LightweightExecutor uly@92aed84[Running, pool size = 4, active threads = 0, queued tasks = 0, completed tasks = 233]
+12-16 15:29:33.448 14527 14563 I Finsky  : [6737] Stats for Executor: bgExecutor uly@3bd896d[Running, pool size = 4, active threads = 0, queued tasks = 0, completed tasks = 256]
+12-16 15:29:33.733 14527 14563 I Finsky  : [6737] Stats for Executor: GrpcBackgroundExecutor uly@ee0e9a2[Running, pool size = 1, active threads = 0, queued tasks = 0, completed tasks = 1]
+12-16 15:29:34.797  4926 28062 I FusedLocation: (REDACTED) location delivery to %s blocked - too close
+12-16 15:29:34.801  4926 28062 I FusedLocation: (REDACTED) location delivery to %s blocked - too close
+12-16 15:29:34.803  4926 28062 I FusedLocation: (REDACTED) location delivery to %s blocked - too fast
+12-16 15:29:34.902  4926 32144 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:29:34.928  4926 32144 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:29:34.950  4926 32144 I SemanticLocation: (REDACTED) [Inferrer] %s%s
+12-16 15:29:35.030  4926  4973 I .gms.persistent: Background concurrent copying GC freed 24MB AllocSpace bytes, 2(64KB) LOS objects, 46% free, 27MB/51MB, paused 64us,88us total 150.257ms
+12-16 15:29:35.195  4926 32144 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:29:35.216  4926 32144 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:29:35.238  4926 32144 I SemanticLocation: (REDACTED) [Inferrer] %s%s
+12-16 15:29:35.471  4926 32144 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:29:35.493  4926 32144 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:29:35.516  4926 32144 I SemanticLocation: (REDACTED) [Inferrer] %s%s
+12-16 15:29:35.762  4926 32144 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:29:35.784  4926 32144 I TFLite-in-PlayServices: Created interpreter.
+12-16 15:29:35.805  4926 32144 I SemanticLocation: (REDACTED) [Inferrer] %s%s
+12-16 15:29:38.472  4926  4926 I SndPersonalSafety: (REDACTED) Peak of %f at %d, running m%d
+12-16 15:29:42.460 30377 30521 E msys    : E[N mns]_CacheRefreshTimerCallback(454)=>Start active cache refresh DNS resolution
+12-16 15:29:42.461 30377 30521 E msys    : E[N mns]_CacheRefreshTimerCallback(454)=>Start active cache refresh DNS resolution
+12-16 15:29:42.462 30377 30521 E msys    : E[N mns]_CacheRefreshTimerCallback(454)=>Start active cache refresh DNS resolution
+12-16 15:29:42.466 30377 30521 E msys    : E[N mns]_CacheRefreshTimerCallback(454)=>Start active cache refresh DNS resolution
+12-16 15:29:42.467 30377 30521 E msys    : E[N mns]_CacheRefreshTimerCallback(454)=>Start active cache refresh DNS resolution
+12-16 15:29:42.468 30377 30521 E msys    : E[N mns]_CacheRefreshTimerCallback(454)=>Start active cache refresh DNS resolution

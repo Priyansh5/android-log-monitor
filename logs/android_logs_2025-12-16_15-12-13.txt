@@ -1,0 +1,1515 @@
+--------- beginning of main
+12-16 15:12:12.251 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 104465
+12-16 15:12:12.392 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -104465
+12-16 15:12:14.681 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:14.685 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:14.685 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:14.688 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:14.688 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:14.691 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:14.691 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:14.694 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:14.739 30377 30377 W 8YJ     : Pos=35 holder=X.48n@450b4dd
+12-16 15:12:14.744 30377 24624 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-16 15:12:14.746 30377 24625 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:14.746 30377 24625 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:14.746 30377 24625 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:14.746 30377 24625 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:14.746 30377 24625 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:14.746 30377 24625 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:14.749 30377 30377 E VideoPlayerImpl: IgBaseVideoPlayer Warning: AV1_INSTANTIATION AV1_INSTANTIATION AV1 decoding using Dav1d;meta.dav1d.av1.decoder
+12-16 15:12:14.758 30377 24625 E ExoDav1dDecoder_JNI: Dav1dDecoder::dav1dInit -- setup signal action
+12-16 15:12:14.768 30377 24625 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:14.773 30377 24625 W AString : ctor got NULL, using empty string instead
+12-16 15:12:14.774 30377 24625 I CCodecBufferChannel: mIsVivoLogEnable = 0
+12-16 15:12:14.777 30377 24635 I CCodec  : setting up 'default' as default (vendor) store
+12-16 15:12:14.779 30377 24635 I CCodec  : Created component [c2.android.aac.decoder]
+12-16 15:12:14.783 30377 24635 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:12:14.786 30377 24635 W Codec2Client: query -- param skipped: index = 1107298332.
+12-16 15:12:14.786 30377 24635 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:12:14.786 30377 24635 W Codec2Client: query -- param skipped: index = 1342179345.
+12-16 15:12:14.786 30377 24635 W Codec2Client: query -- param skipped: index = 2415921170.
+12-16 15:12:14.786 30377 24635 W Codec2Client: query -- param skipped: index = 1610614798.
+12-16 15:12:14.787 30377 24635 I CCodecBufferChannel: mIsVivoLogEnable = 0
+12-16 15:12:14.817 30377 24625 W AudioSystem: setParameters: PlaybackCaptureProtectSupport=com.instagram.android
+12-16 15:12:14.871 30377 30392 W AidlConversionCppNdk: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+12-16 15:12:14.950 30377 24513 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:12:14.951 30377 24513 W Codec2Client: query -- param skipped: index = 1342179345.
+12-16 15:12:14.951 30377 24513 W Codec2Client: query -- param skipped: index = 2415921170.
+12-16 15:12:14.951 30377 24513 W Codec2Client: query -- param skipped: index = 1610614798.
+12-16 15:12:14.953 30377 24513 I MediaCodec: ++kWhatRelease   mState :6
+12-16 15:12:14.962 30377 24513 I MediaCodec: ++kWhatRelease   mState :2
+12-16 15:12:14.963 30377 24502 W MessageQueue: Handler (android.os.Handler) {422f3bc} sending message to a Handler on a dead thread
+12-16 15:12:14.963 30377 24502 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {422f3bc} sending message to a Handler on a dead thread
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at android.os.Handler.sendMessageAtTime(Handler.java:737)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at android.os.Handler.sendMessageDelayed(Handler.java:707)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at android.os.Handler.sendMessage(Handler.java:645)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at android.os.Message.sendToTarget(Message.java:472)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at X.6zV.A01(Unknown Source:4)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at X.6yK.G0k(Unknown Source:20)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at X.6rH.A08(Unknown Source:126)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at X.6rH.handleMessage(Unknown Source:1551)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:12:14.963 30377 24502 W MessageQueue: Handler (android.os.Handler) {1c9269a} sending message to a Handler on a dead thread
+12-16 15:12:14.963 30377 24502 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {1c9269a} sending message to a Handler on a dead thread
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at android.os.Handler.sendMessageAtFrontOfQueue(Handler.java:760)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at X.7qn.Fjw(:8)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at X.7qk.A01(:29)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at X.6yK.G0k(Unknown Source:38)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at X.6rH.A08(Unknown Source:126)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at X.6rH.handleMessage(Unknown Source:1551)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:12:14.963 30377 24502 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:12:14.964 30377 24513 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+12-16 15:12:14.965 30377 24513 W MediaCodec: no metrics handle found
+--------- beginning of system
+12-16 15:12:16.619  1534  6112 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent
+12-16 15:12:17.044 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 70671
+12-16 15:12:17.052 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -70671
+12-16 15:12:19.477 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 26424
+12-16 15:12:19.487 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -26424
+12-16 15:12:27.764 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 9688
+12-16 15:12:27.765 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -9688
+12-16 15:12:29.489 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:29.493 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:29.493 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:29.496 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:29.496 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:29.499 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:29.500 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:29.503 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:29.577 30377 30377 W 8YJ     : Pos=36 holder=X.48n@c71cb8e
+12-16 15:12:29.583 30377 24667 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-16 15:12:29.588 30377 24668 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:29.588 30377 24668 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:29.588 30377 24668 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:29.588 30377 24668 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:29.588 30377 24668 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:29.589 30377 24668 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:29.591 30377 30377 E VideoPlayerImpl: IgBaseVideoPlayer Warning: AV1_INSTANTIATION AV1_INSTANTIATION AV1 decoding using Dav1d;meta.dav1d.av1.decoder
+12-16 15:12:29.600 30377 24668 E ExoDav1dDecoder_JNI: Dav1dDecoder::dav1dInit -- setup signal action
+12-16 15:12:29.612 30377 24668 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:29.613 30377 24668 W AString : ctor got NULL, using empty string instead
+12-16 15:12:29.614 30377 24668 I CCodecBufferChannel: mIsVivoLogEnable = 0
+12-16 15:12:29.626 30377 24678 I CCodec  : setting up 'default' as default (vendor) store
+12-16 15:12:29.628 30377 24678 I CCodec  : Created component [c2.android.aac.decoder]
+12-16 15:12:29.633 30377 24678 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:12:29.636 30377 24678 W Codec2Client: query -- param skipped: index = 1107298332.
+12-16 15:12:29.636 30377 24678 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:12:29.637 30377 24678 W Codec2Client: query -- param skipped: index = 1342179345.
+12-16 15:12:29.637 30377 24678 W Codec2Client: query -- param skipped: index = 2415921170.
+12-16 15:12:29.637 30377 24678 W Codec2Client: query -- param skipped: index = 1610614798.
+12-16 15:12:29.637 30377 24678 I CCodecBufferChannel: mIsVivoLogEnable = 0
+12-16 15:12:29.664 30377 24668 W AudioSystem: setParameters: PlaybackCaptureProtectSupport=com.instagram.android
+12-16 15:12:29.711 30377 30392 W AidlConversionCppNdk: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+12-16 15:12:29.790 30377 24635 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:12:29.790 30377 24635 W Codec2Client: query -- param skipped: index = 1342179345.
+12-16 15:12:29.790 30377 24635 W Codec2Client: query -- param skipped: index = 2415921170.
+12-16 15:12:29.790 30377 24635 W Codec2Client: query -- param skipped: index = 1610614798.
+12-16 15:12:29.791 30377 24635 I MediaCodec: ++kWhatRelease   mState :6
+12-16 15:12:29.797 30377 24635 I MediaCodec: ++kWhatRelease   mState :2
+12-16 15:12:29.799 30377 24624 W MessageQueue: Handler (android.os.Handler) {79aca68} sending message to a Handler on a dead thread
+12-16 15:12:29.799 30377 24624 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {79aca68} sending message to a Handler on a dead thread
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at android.os.Handler.sendMessageAtTime(Handler.java:737)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at android.os.Handler.sendMessageDelayed(Handler.java:707)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at android.os.Handler.sendMessage(Handler.java:645)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at android.os.Message.sendToTarget(Message.java:472)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at X.6zV.A01(Unknown Source:4)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at X.6yK.G0k(Unknown Source:20)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at X.6rH.A08(Unknown Source:126)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at X.6rH.handleMessage(Unknown Source:1551)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:12:29.799 30377 24624 W MessageQueue: Handler (android.os.Handler) {5ebab26} sending message to a Handler on a dead thread
+12-16 15:12:29.799 30377 24624 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {5ebab26} sending message to a Handler on a dead thread
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at android.os.Handler.sendMessageAtFrontOfQueue(Handler.java:760)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at X.7qn.Fjw(:8)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at X.7qk.A01(:29)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at X.6yK.G0k(Unknown Source:38)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at X.6rH.A08(Unknown Source:126)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at X.6rH.handleMessage(Unknown Source:1551)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:12:29.799 30377 24624 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:12:29.799 30377 24635 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+12-16 15:12:29.800 30377 24635 W MediaCodec: no metrics handle found
+12-16 15:12:30.424  8469  8478 W facebook.katana: Suspending all threads took: 8.399ms
+12-16 15:12:30.511 13196 24705 E awqt    : Sync subscriptions not available
+12-16 15:12:31.333 13196 13196 W kcl     : [Gmail] MailSyncAdapterService: MailSyncAdapterService is destroyed! [CONTEXT android_log_tag="MailSyncAdapterService" ]
+12-16 15:12:31.883 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 131211
+12-16 15:12:31.903 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -131211
+12-16 15:12:33.549 30377  6398 W soft_error.cpp: [pando::graphql::PandoGraphQLRequestHybrid::assertValid] : Using a PandoGraphQLRequest after it has been consumed. Query name is IGDirectGetPresenceQuery
+12-16 15:12:33.557 30377 30377 W PresenceStore: notify new presence state
+12-16 15:12:33.558 30377 30873 W DirectInboxStateStore: inboxStateUpdated - num_of_threads: 15
+12-16 15:12:34.350 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 101659
+12-16 15:12:34.379 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -101659
+12-16 15:12:36.455 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:36.458 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:36.459 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:36.462 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:36.462 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:36.465 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:36.466 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:36.469 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:12:36.565 30377 30377 W 8YJ     : Pos=37 holder=X.48n@ca1a01e
+12-16 15:12:36.571 30377 24750 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-16 15:12:36.573 30377 24751 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:36.573 30377 24751 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:36.573 30377 24751 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:36.573 30377 24751 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:36.573 30377 24751 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:36.573 30377 24751 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:36.575 30377 30377 E VideoPlayerImpl: IgBaseVideoPlayer Warning: AV1_INSTANTIATION AV1_INSTANTIATION AV1 decoding using Dav1d;meta.dav1d.av1.decoder
+12-16 15:12:36.584 30377 24751 E ExoDav1dDecoder_JNI: Dav1dDecoder::dav1dInit -- setup signal action
+12-16 15:12:36.585 30377 24751 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:12:36.590 30377 24751 W AString : ctor got NULL, using empty string instead
+12-16 15:12:36.594 30377 24751 I CCodecBufferChannel: mIsVivoLogEnable = 0
+12-16 15:12:36.597 30377 24761 I CCodec  : setting up 'default' as default (vendor) store
+12-16 15:12:36.599 30377 24761 I CCodec  : Created component [c2.android.aac.decoder]
+12-16 15:12:36.603 30377 24761 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:12:36.607 30377 24761 W Codec2Client: query -- param skipped: index = 1107298332.
+12-16 15:12:36.608 30377 24761 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:12:36.608 30377 24761 W Codec2Client: query -- param skipped: index = 1342179345.
+12-16 15:12:36.608 30377 24761 W Codec2Client: query -- param skipped: index = 2415921170.
+12-16 15:12:36.608 30377 24761 W Codec2Client: query -- param skipped: index = 1610614798.
+12-16 15:12:36.608 30377 24761 I CCodecBufferChannel: mIsVivoLogEnable = 0
+12-16 15:12:36.630 30377 24751 W AudioSystem: setParameters: PlaybackCaptureProtectSupport=com.instagram.android
+12-16 15:12:36.668 30377  4666 W AidlConversionCppNdk: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+12-16 15:12:36.779 30377 30395 I stagram.android: Waiting for a blocking GC ProfileSaver
+12-16 15:12:36.792 30377 24678 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:12:36.793 30377 24678 W Codec2Client: query -- param skipped: index = 1342179345.
+12-16 15:12:36.793 30377 24678 W Codec2Client: query -- param skipped: index = 2415921170.
+12-16 15:12:36.793 30377 24678 W Codec2Client: query -- param skipped: index = 1610614798.
+12-16 15:12:36.794 30377 24678 I MediaCodec: ++kWhatRelease   mState :6
+12-16 15:12:36.796 30377 24678 I MediaCodec: ++kWhatRelease   mState :2
+12-16 15:12:36.797 30377 24667 W MessageQueue: Handler (android.os.Handler) {adb6e17} sending message to a Handler on a dead thread
+12-16 15:12:36.797 30377 24667 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {adb6e17} sending message to a Handler on a dead thread
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at android.os.Handler.sendMessageAtTime(Handler.java:737)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at android.os.Handler.sendMessageDelayed(Handler.java:707)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at android.os.Handler.sendMessage(Handler.java:645)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at android.os.Message.sendToTarget(Message.java:472)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at X.6zV.A01(Unknown Source:4)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at X.6yK.G0k(Unknown Source:20)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at X.6rH.A08(Unknown Source:126)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at X.6rH.handleMessage(Unknown Source:1551)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:12:36.797 30377 24667 W MessageQueue: Handler (android.os.Handler) {a413ed} sending message to a Handler on a dead thread
+12-16 15:12:36.797 30377 24667 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {a413ed} sending message to a Handler on a dead thread
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at android.os.Handler.sendMessageAtFrontOfQueue(Handler.java:760)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at X.7qn.Fjw(:8)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at X.7qk.A01(:29)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at X.6yK.G0k(Unknown Source:38)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at X.6rH.A08(Unknown Source:126)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at X.6rH.handleMessage(Unknown Source:1551)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:12:36.797 30377 24667 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:12:36.798 30377 24678 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+12-16 15:12:36.799 30377 24678 W MediaCodec: no metrics handle found
+12-16 15:12:36.817 30377 30388 I stagram.android: Background concurrent copying GC freed 8501KB AllocSpace bytes, 66(13MB) LOS objects, 14% free, 136MB/160MB, paused 96us,87us total 231.343ms
+12-16 15:12:36.817 30377 30395 I stagram.android: WaitForGcToComplete blocked ProfileSaver on Background for 38.218ms
+12-16 15:12:38.840 30377 25372 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 188958
+12-16 15:12:38.884 30377 25372 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -188958
+12-16 15:12:41.691 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 114161
+12-16 15:12:41.707 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -114161
+12-16 15:12:44.917 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 293384
+12-16 15:12:44.982 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -293384
+12-16 15:12:49.567 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 263427
+12-16 15:12:49.600 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -263427
+12-16 15:12:54.188  4926 16511 I FusedLocation: stationary throttling disengaged [CONTEXT service_id=6 ]
+12-16 15:12:54.224  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:12:54.224  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:12:54.230  4926 24577 W SystemServiceRegistry: No service published for: wifirtt
+12-16 15:12:54.448 30377 25372 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 257617
+12-16 15:12:54.517 30377 25372 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -257617
+12-16 15:12:57.581  4926  5820 W AlarmManager: alarm window unlikely to be respected [CONTEXT service_id=231 ]
+12-16 15:12:57.581  4926  5820 W AlarmManager: java.lang.IllegalArgumentException: alarm "NetworkLocationActivityDetection" has short window length
+12-16 15:12:57.581  4926  5820 W AlarmManager: 	at cnvs.c(:com.google.android.gms@254932029@25.49.32 (190400-843446962):38)
+12-16 15:12:57.581  4926  5820 W AlarmManager: 	at cnvr.c(:com.google.android.gms@254932029@25.49.32 (190400-843446962):18)
+12-16 15:12:57.581  4926  5820 W AlarmManager: 	at gdba.b(:com.google.android.gms@254932029@25.49.32 (190400-843446962):132)
+12-16 15:12:57.581  4926  5820 W AlarmManager: 	at gbai.v(:com.google.android.gms@254932029@25.49.32 (190400-843446962):61)
+12-16 15:12:57.581  4926  5820 W AlarmManager: 	at gbai.u(:com.google.android.gms@254932029@25.49.32 (190400-843446962):8)
+12-16 15:12:57.581  4926  5820 W AlarmManager: 	at gbbh.q(:com.google.android.gms@254932029@25.49.32 (190400-843446962):26)
+12-16 15:12:57.581  4926  5820 W AlarmManager: 	at gbbb.b(:com.google.android.gms@254932029@25.49.32 (190400-843446962):28)
+12-16 15:12:57.581  4926  5820 W AlarmManager: 	at gbae.m(:com.google.android.gms@254932029@25.49.32 (190400-843446962):191)
+12-16 15:12:57.581  4926  5820 W AlarmManager: 	at gbac.k(:com.google.android.gms@254932029@25.49.32 (190400-843446962):56)
+12-16 15:12:57.581  4926  5820 W AlarmManager: 	at gbrt.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):7)
+12-16 15:12:57.581  4926  5820 W AlarmManager: 	at android.os.Handler.handleCallback(Handler.java:1013)
+12-16 15:12:57.581  4926  5820 W AlarmManager: 	at android.os.Handler.dispatchMessage(Handler.java:101)
+12-16 15:12:57.581  4926  5820 W AlarmManager: 	at cppd.mv(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:12:57.581  4926  5820 W AlarmManager: 	at cppd.dispatchMessage(:com.google.android.gms@254932029@25.49.32 (190400-843446962):140)
+12-16 15:12:57.581  4926  5820 W AlarmManager: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:12:57.581  4926  5820 W AlarmManager: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:12:57.581  4926  5820 W AlarmManager: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:12:59.372  4926  4926 I SndPersonalSafety: (REDACTED) Peak of %f at %d, running m%d
+12-16 15:12:59.387 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 104664
+12-16 15:12:59.411 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -104664
+12-16 15:13:00.982  4926  5820 W AlarmManager: alarm window unlikely to be respected [CONTEXT service_id=231 ]
+12-16 15:13:00.982  4926  5820 W AlarmManager: java.lang.IllegalArgumentException: alarm "NetworkLocationActivityDetection" has short window length
+12-16 15:13:00.982  4926  5820 W AlarmManager: 	at cnvs.c(:com.google.android.gms@254932029@25.49.32 (190400-843446962):38)
+12-16 15:13:00.982  4926  5820 W AlarmManager: 	at cnvr.c(:com.google.android.gms@254932029@25.49.32 (190400-843446962):18)
+12-16 15:13:00.982  4926  5820 W AlarmManager: 	at gdba.b(:com.google.android.gms@254932029@25.49.32 (190400-843446962):132)
+12-16 15:13:00.982  4926  5820 W AlarmManager: 	at gbai.v(:com.google.android.gms@254932029@25.49.32 (190400-843446962):61)
+12-16 15:13:00.982  4926  5820 W AlarmManager: 	at gbai.u(:com.google.android.gms@254932029@25.49.32 (190400-843446962):8)
+12-16 15:13:00.982  4926  5820 W AlarmManager: 	at gbbh.q(:com.google.android.gms@254932029@25.49.32 (190400-843446962):26)
+12-16 15:13:00.982  4926  5820 W AlarmManager: 	at gbbb.b(:com.google.android.gms@254932029@25.49.32 (190400-843446962):28)
+12-16 15:13:00.982  4926  5820 W AlarmManager: 	at gbae.m(:com.google.android.gms@254932029@25.49.32 (190400-843446962):191)
+12-16 15:13:00.982  4926  5820 W AlarmManager: 	at gbac.k(:com.google.android.gms@254932029@25.49.32 (190400-843446962):56)
+12-16 15:13:00.982  4926  5820 W AlarmManager: 	at gbrt.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):7)
+12-16 15:13:00.982  4926  5820 W AlarmManager: 	at android.os.Handler.handleCallback(Handler.java:1013)
+12-16 15:13:00.982  4926  5820 W AlarmManager: 	at android.os.Handler.dispatchMessage(Handler.java:101)
+12-16 15:13:00.982  4926  5820 W AlarmManager: 	at cppd.mv(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:13:00.982  4926  5820 W AlarmManager: 	at cppd.dispatchMessage(:com.google.android.gms@254932029@25.49.32 (190400-843446962):140)
+12-16 15:13:00.982  4926  5820 W AlarmManager: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:13:00.982  4926  5820 W AlarmManager: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:13:00.982  4926  5820 W AlarmManager: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:13:02.368 30377 24751 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:13:02.368 30377 24751 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:13:02.368 30377 24751 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:13:02.368 30377 24751 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:13:02.368 30377 24751 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:13:02.369 30377 24751 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:13:04.396  4926  5820 I ActivityScheduler: nextTriggerTime: 59847750, in 240000ms, detectorType: 39, FULL_TYPE alarmWindowMillis: 30000
+12-16 15:13:04.396  4926  5820 W AlarmManager: alarm window unlikely to be respected [CONTEXT service_id=231 ]
+12-16 15:13:04.396  4926  5820 W AlarmManager: java.lang.IllegalArgumentException: alarm "NetworkLocationActivityDetection" has short window length
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at cnvs.c(:com.google.android.gms@254932029@25.49.32 (190400-843446962):38)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at cnvr.c(:com.google.android.gms@254932029@25.49.32 (190400-843446962):18)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at gdba.b(:com.google.android.gms@254932029@25.49.32 (190400-843446962):132)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at gbai.v(:com.google.android.gms@254932029@25.49.32 (190400-843446962):61)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at gbca.q(:com.google.android.gms@254932029@25.49.32 (190400-843446962):136)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at gbca.u(:com.google.android.gms@254932029@25.49.32 (190400-843446962):107)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at gbcg.L(:com.google.android.gms@254932029@25.49.32 (190400-843446962):74)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at gbbb.p(:com.google.android.gms@254932029@25.49.32 (190400-843446962):29)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at gbbh.q(:com.google.android.gms@254932029@25.49.32 (190400-843446962):15)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at gbbb.b(:com.google.android.gms@254932029@25.49.32 (190400-843446962):28)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at gbae.m(:com.google.android.gms@254932029@25.49.32 (190400-843446962):191)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at gbac.k(:com.google.android.gms@254932029@25.49.32 (190400-843446962):56)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at gbrt.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):7)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at android.os.Handler.handleCallback(Handler.java:1013)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at android.os.Handler.dispatchMessage(Handler.java:101)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at cppd.mv(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at cppd.dispatchMessage(:com.google.android.gms@254932029@25.49.32 (190400-843446962):140)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:13:04.396  4926  5820 W AlarmManager: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:13:11.220  4926 24843 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 61364575]
+12-16 15:13:11.236  4926 24746 I AlarmManager: setExactAndAllowWhileIdle [name: FcmRetry type: 2 triggerAtMillis: 59734588]
+12-16 15:13:11.267 19531 19531 I eddit.frontpage: Using CollectorTypeCC GC.
+12-16 15:13:11.274 19531 19531 E eddit.frontpage: Not starting debugger since process cannot load the jdwp agent.
+12-16 15:13:11.504 19531 19531 W eddit.frontpage: Failed to find entry 'classes.dex': Entry not found
+12-16 15:13:11.506 19531 19531 W eddit.frontpage: Failed to find entry 'classes.dex': Entry not found
+12-16 15:13:11.508 19531 19531 W eddit.frontpage: Failed to find entry 'classes.dex': Entry not found
+12-16 15:13:11.536 19531 19531 I LoadedApk: No resource references to update in package com.reddit.frontpage.dynamic_vault
+12-16 15:13:11.606 19531 24953 E eddit.frontpage: Invalid resource ID 0x00000000.
+12-16 15:13:11.777 19893 20375 I WM-WorkerWrapper: Work [ id=0f034327-72dd-410c-a8f6-b7ad6f84f4dc, tags={ com.whatsapp.bizintegrity.logger.receiver.scheduler.ReceiverLoggingWorker } ] was cancelled
+12-16 15:13:11.777 19893 20375 I WM-WorkerWrapper: X.Fal
+12-16 15:13:11.777 19893 20375 I WM-WorkerWrapper: 	at X.1ch.A01(:6)
+12-16 15:13:11.777 19893 20375 I WM-WorkerWrapper: 	at X.FVO.run(:86)
+12-16 15:13:11.777 19893 20375 I WM-WorkerWrapper: 	at X.1dI.run(:2)
+12-16 15:13:11.777 19893 20375 I WM-WorkerWrapper: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1156)
+12-16 15:13:11.777 19893 20375 I WM-WorkerWrapper: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:651)
+12-16 15:13:11.777 19893 20375 I WM-WorkerWrapper: 	at java.lang.Thread.run(Thread.java:1119)
+12-16 15:13:11.895 19893 20793 E msys    : E[N mns]_OnDiskCacheGetData(632)=>Start post callback cache refresh DNS resolution
+12-16 15:13:11.911 19893 20809 W msys    : W[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(52)=>privatestats/wameta/transport/connection_unavailable - stopping timer
+12-16 15:13:12.390 19893 20809 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/credential/unavailable
+12-16 15:13:12.392 19893 20809 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/token/auth token invalid
+12-16 15:13:12.450 19893 20793 E msys    : E[N mns]_OnSystemDNSSuccessCallback(340)=>Cache refresh succeeded with system DNS resolver. IP count: 2
+12-16 15:13:12.461 19531 25044 I PlayCore: UID: [11794]  PID: [19531] AppEngageService : Initiate binding to the service.
+12-16 15:13:12.554 19531 24989 W MediaCodec-JNI: pid:19531,client name:com.reddit.frontpage
+12-16 15:13:12.573 19531 25081 W eddit.frontpage: ClassLoaderContext classpath size mismatch. expected=1, found=0 (DLC[];PCL[base.apk*630576034]{PCL[/system/framework/org.apache.http.legacy.jar*1157712065]#PCL[/system/framework/com.android.media.remotedisplay.jar*2114713712]#PCL[/system/framework/com.android.location.provider.jar*3994156537]#PCL[/system/framework/org.apache.http.legacy.jar*1157712065]} | DLC[];PCL[])
+12-16 15:13:12.593 19531 24989 W AudioCapabilities: Unsupported mime audio/x-ms-wma
+12-16 15:13:12.602 19531 24989 W AudioCapabilities: Unsupported mime audio/x-ms-wma
+12-16 15:13:12.603 19531 24989 W AudioCapabilities: Unsupported mime audio/mpeg-L1
+12-16 15:13:12.603 19531 24989 W AudioCapabilities: Unsupported mime audio/mpeg-L2
+12-16 15:13:12.603 19531 24989 W AudioCapabilities: Unsupported mime audio/mpeg-L1
+12-16 15:13:12.603 19531 24989 W AudioCapabilities: Unsupported mime audio/mpeg-L2
+12-16 15:13:12.605 19531 24989 W AudioCapabilities: Unsupported mime audio/ra
+12-16 15:13:12.605 19531 24989 W AudioCapabilities: Unsupported mime audio/ra
+12-16 15:13:12.606 19531 24989 W AudioCapabilities: Unsupported mime audio/alac
+12-16 15:13:12.606 19531 24989 W AudioCapabilities: Unsupported mime audio/alac
+12-16 15:13:12.606 19531 24989 W AudioCapabilities: Unsupported mime audio/ape
+12-16 15:13:12.607 19531 24989 W AudioCapabilities: Unsupported mime audio/x-ape
+12-16 15:13:12.607 19531 24989 W AudioCapabilities: Unsupported mime audio/ape
+12-16 15:13:12.607 19531 24989 W AudioCapabilities: Unsupported mime audio/x-ape
+12-16 15:13:12.611 19531 24989 W AudioCapabilities: Unsupported mime audio/adpcm
+12-16 15:13:12.612 19531 24989 W AudioCapabilities: Unsupported mime audio/x-ms-adpcm
+12-16 15:13:12.614 19531 24989 W AudioCapabilities: Unsupported mime audio/pcm
+12-16 15:13:12.617 19531 24989 W AudioCapabilities: Unsupported mime audio/pcm
+12-16 15:13:12.618 19531 24989 W AudioCapabilities: Unsupported mime audio/dsd
+12-16 15:13:12.619 19531 24989 W AudioCapabilities: Unsupported mime audio/dsd
+12-16 15:13:12.630 19531 24989 W VideoCapabilities: Unsupported mime video/rv
+12-16 15:13:12.630 19531 24989 W VideoCapabilities: Unsupported mime video/rv
+12-16 15:13:12.631 19531 24989 W VideoCapabilities: Unsupported mime video/x-ms-wmv
+12-16 15:13:12.631 19531 24989 W VideoCapabilities: Unsupported mime video/x-ms-wmv2
+12-16 15:13:12.631 19531 24989 W VideoCapabilities: Unsupported mime video/x-ms-wmv
+12-16 15:13:12.631 19531 24989 W VideoCapabilities: Unsupported mime video/x-ms-wmv2
+12-16 15:13:12.634 19531 24989 W VideoCapabilities: Unsupported mime video/divx3
+12-16 15:13:12.637 19531 24989 W VideoCapabilities: Unsupported mime video/divx3
+12-16 15:13:12.637 19531 24989 W VideoCapabilities: Unsupported mime video/flv1
+12-16 15:13:12.638 19531 24989 W VideoCapabilities: Unsupported mime video/x-flv
+12-16 15:13:12.638 19531 24989 W VideoCapabilities: Unsupported mime video/flv1
+12-16 15:13:12.639 19531 24989 W VideoCapabilities: Unsupported mime video/x-flv
+12-16 15:13:12.639 19531 24989 W VideoCapabilities: Unsupported mime video/mjpeg
+12-16 15:13:12.639 19531 24989 W VideoCapabilities: Unsupported mime video/x-motion-jpeg
+12-16 15:13:12.639 19531 24989 W VideoCapabilities: Unsupported mime video/mjpeg
+12-16 15:13:12.640 19531 24989 W VideoCapabilities: Unsupported mime video/x-motion-jpeg
+12-16 15:13:12.661 19531 24989 W VideoCapabilities: Unrecognized profile/level 0/3 for video/mpeg2
+12-16 15:13:12.664 19531 24989 W VideoCapabilities: Unrecognized profile/level 0/3 for video/mpeg2
+12-16 15:13:12.669 19531 24989 W VideoCapabilities: Unsupported mime image/vnd.android.heic
+12-16 15:13:12.669 19531 24989 W VideoCapabilities: Unsupported mime image/vnd.android.heic
+12-16 15:13:12.679 19531 25081 W System  : ClassLoader referenced unknown path: 
+12-16 15:13:12.724 19531 25081 W eddit.frontpage: ClassLoaderContext classpath element checksum mismatch. expected=630576034, found=2422563214 (DLC[];PCL[base.apk*630576034]{PCL[/system/framework/org.apache.http.legacy.jar*1157712065]#PCL[/system/framework/com.android.media.remotedisplay.jar*2114713712]#PCL[/system/framework/com.android.location.provider.jar*3994156537]#PCL[/system/framework/org.apache.http.legacy.jar*1157712065]} | DLC[];PCL[/data/app/~~GXWu32lg35lnoT9YjBGqww==/com.reddit.frontpage-96UfAiSlzcclO2DvO8lqVw==/base.apk*2422563214])
+12-16 15:13:12.784 19893 20809 E msys    : E[N WCIHTTPImplNetworkSession]WCIHTTPTaskImplCreateRegular(556)=>[I] http/task/regular/create/start
+12-16 15:13:12.791 19893 20809 E msys    : E[N WCIHTTPImplNetworkSession]WCIHTTPTaskImplCreateRegular(591)=>[I] http/task/regular/create/execute
+12-16 15:13:12.795 19893 20809 E msys    : E[N WCIHTTPImplNetworkSession]WCIHTTPTaskImplCreateRegular(614)=>[I] http/task/regular/create/success
+12-16 15:13:13.106 19531 25106 I HttpFlagsLoader: HTTP flags log line (Impl): Using live production flag values from Google
+12-16 15:13:13.152 19531 25105 I cn_CronetLibraryLoader: Cronet version: 144.0.7500.8, arch: aarch64
+12-16 15:13:13.316 19893 20375 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=0f034327-72dd-410c-a8f6-b7ad6f84f4dc, tags={ com.whatsapp.bizintegrity.logger.receiver.scheduler.ReceiverLoggingWorker } ]
+12-16 15:13:13.402 19893 20942 E msys    : E[N data-request]_HandleDataResponse(1984)=>Data request error for task DCE0DE4F-0AB0-44A5-AFF0-6C81839581D9 (response type 1): java.net.ConnectException: Failed to connect to dit.whatsapp.net/[::]:443
+12-16 15:13:13.405 19893 20809 E msys    : E[I wam]_WAMTransportPrivateLogUploadMessageWithDefaultLevel(55)=>privatestats/wameta/transport/buffer/send response failed, no more endpoints
+12-16 15:13:13.550 19531 19531 I PlayCore: UID: [11794]  PID: [19531] AppEngageService : ServiceConnectionImpl.onServiceConnected(ComponentInfo{com.android.vending/com.google.android.finsky.appcontentservice.engage.AppEngageServiceV2})
+12-16 15:13:13.551 19531 25044 I PlayCore: UID: [11794]  PID: [19531] AppEngageService : linkToDeath
+12-16 15:13:13.880 25199 25199 I GservicesProvider: Gservices pushing to system: true; secure/global: true
+12-16 15:13:13.897 25199 25254 E GmsClient: unable to connect to service: com.google.android.gms.gservices.START on com.google.android.gms
+12-16 15:13:14.240  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:13:14.240  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:13:14.247  4926 24903 W SystemServiceRegistry: No service published for: wifirtt
+12-16 15:13:14.304  4926  5820 I ActivityScheduler: nextTriggerTime: 59847750, in 230091ms, detectorType: 39, FULL_TYPE alarmWindowMillis: 30000
+12-16 15:13:14.896 25275 25275 I Safeboot: Checking safeboot...
+12-16 15:13:14.937 25275 25275 W ProviderHelper: Unknown dynamite feature providerinstaller.dynamite
+12-16 15:13:14.937 25275 25275 I DynamiteModule: Considering local module com.google.android.gms.providerinstaller.dynamite:1 and remote module com.google.android.gms.providerinstaller.dynamite:0
+12-16 15:13:14.937 25275 25275 I DynamiteModule: Selected local version of com.google.android.gms.providerinstaller.dynamite
+12-16 15:13:14.985 25275 25275 I ProviderInstaller: Installed default security provider GmsCore_OpenSSL
+12-16 15:13:14.998 25275 25312 I GmsApplication: Registering the BackgroundBroadcastReceiverSupport receiver.
+12-16 15:13:15.010 25275 25275 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+12-16 15:13:15.012 25275 25275 E ANDR-VIVO-PERF: IVPerf::tryGetService failed!
+12-16 15:13:15.019 25275 25312 I GmsReceiverSupport: Registered Receiver for 15+1 IntentFilters
+12-16 15:13:15.023 25275 25312 I Watchcat: Started
+12-16 15:13:15.027 25275 25312 I GMS_MM_Logger: (REDACTED) Start time: %s
+12-16 15:13:15.027 25275 25312 I GMS_MM_Logger: Started.
+12-16 15:13:15.055 25275 25275 I SystemMemoryMap: [activityrecognition] starting initialization [CONTEXT service_id=6 ]
+12-16 15:13:15.059 25275 25275 I SystemMemoryMap: (REDACTED) [activityrecognition] recovering %d entries
+12-16 15:13:15.060 25275 25275 I SystemMemoryMap: [activityrecognition] initialization complete [CONTEXT service_id=6 ]
+12-16 15:13:15.060 25275 25275 I SystemMemoryMap: [activitytransition] starting initialization [CONTEXT service_id=6 ]
+12-16 15:13:15.061 25275 25275 I SystemMemoryMap: (REDACTED) [activitytransition] recovering %d entries
+12-16 15:13:15.061 25275 25275 I SystemMemoryMap: [activitytransition] initialization complete [CONTEXT service_id=6 ]
+12-16 15:13:15.062 25275 25275 I SystemMemoryMap: [sleepsegment] starting initialization [CONTEXT service_id=6 ]
+12-16 15:13:15.062 25275 25275 I SystemMemoryMap: (REDACTED) [sleepsegment] recovering %d entries
+12-16 15:13:15.063 25275 25275 I SystemMemoryMap: [sleepsegment] initialization complete [CONTEXT service_id=6 ]
+12-16 15:13:15.063 25275 25323 W TracingHelper: No RequestContext found in the trace or trace not available. [CONTEXT service_id=259 ratelimit_count=100000 ]
+12-16 15:13:15.069 25275 25322 W TracingHelper: Mismatched RequestContext found for module LOCATION_BASE. Module id from RequestContext is MODULEID_UNKNOWN [CONTEXT service_id=259 ratelimit_count=100000 ]
+12-16 15:13:15.128 25275 25275 I SystemMemoryMap: [geofence] starting initialization [CONTEXT service_id=6 ]
+12-16 15:13:15.135 25275 25275 I SystemMemoryMap: (REDACTED) [geofence] recovering %d entries
+12-16 15:13:15.135 25275 25275 I SystemMemoryMap: [geofence] initialization complete [CONTEXT service_id=6 ]
+12-16 15:13:15.156 25275 25275 W ctxmgr  : [ContextManagerPersistentService]Received null intent [CONTEXT service_id=47 ]
+12-16 15:13:15.162 25275 25329 W SystemServiceRegistry: No service published for: contexthub
+12-16 15:13:15.163 25275 25329 I BluePixel: (REDACTED) Created Null for %s
+12-16 15:13:15.169 25275 25275 I DynamiteModule: Considering local module com.google.android.gms.googlecertificates:7 and remote module com.google.android.gms.googlecertificates:0
+12-16 15:13:15.169 25275 25275 I DynamiteModule: Selected local version of com.google.android.gms.googlecertificates
+12-16 15:13:15.187 25275 25312 I SystemMemoryMap: [flp] starting initialization [CONTEXT service_id=6 ]
+12-16 15:13:15.191 25275 25312 I SystemMemoryMap: (REDACTED) [flp] recovering %d entries
+12-16 15:13:15.192 25275 25312 I SystemMemoryMap: [flp] initialization complete [CONTEXT service_id=6 ]
+12-16 15:13:15.219 25275 25312 I BluePixel: (REDACTED) Created Null for %s
+12-16 15:13:15.317 19531 25044 I PlayCore: UID: [11794]  PID: [19531] AppEngageService : Unbind from service.
+12-16 15:13:15.332 25330 25352 I carui   : CarUi plugin is disabled
+12-16 15:13:15.389 25275 25307 I Wear_Controller: Wearable module requires a companion app to be installed.
+12-16 15:13:15.392 25275 25307 I WearableService: onCreate: Wearable Services not starting. Wear is not available on this device.
+12-16 15:13:15.452 25275 25303 I AlarmManager: set [name: SystemMemoryCache type: 2 triggerAtMillis: 315419618807 windowMillis: -1 intervalMillis: 0]
+12-16 15:13:15.464 25275 25275 W ctxmgr  : [ContextManagerPersistentService]Unable to start system_memory_cache. [CONTEXT service_id=47 ]
+12-16 15:13:15.466 25275 25304 W WearableService: onGetService: Wear is not available on this device.
+12-16 15:13:15.467 25275 25304 W GoogleApiManager: Not showing notification since connectionResult is not user-facing: ConnectionResult{statusCode=API_UNAVAILABLE, resolution=null, message=null, clientMethodKey=null}
+12-16 15:13:15.468 25275 25348 I WearableLocationShim: paired wearable location unsupported - wearable APIs unavailable [CONTEXT service_id=6 ]
+12-16 15:13:15.477 25275 25358 I AlarmManager: set [name: SystemMemoryCache type: 2 triggerAtMillis: 315419618832 windowMillis: -1 intervalMillis: 0]
+12-16 15:13:15.482 25275 25275 W ctxmgr  : [ContextManagerPersistentService]Unable to start system_memory_cache. [CONTEXT service_id=47 ]
+12-16 15:13:15.490 25275 25299 I fuzh    : (REDACTED) Shared storage file not found for %s
+12-16 15:13:15.498 25275 25358 W ctxmgr  : [FencePendingIntentCache]Sending CONTEXT_MANAGER_RESTARTED broadcast to com.google.android.apps.wellbeing [CONTEXT service_id=47 ]
+12-16 15:13:15.502 25275 25358 W ctxmgr  : [FencePendingIntentCache]Sending CONTEXT_MANAGER_RESTARTED broadcast to com.google.android.apps.wellbeing [CONTEXT service_id=47 ]
+12-16 15:13:15.511 25275 25318 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:13:15.536 25275 25318 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:13:15.541 25275 25318 W SystemServiceRegistry: No service published for: wifirtt
+12-16 15:13:15.611 25275 25318 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:13:15.615 25275 25318 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:13:15.624 25275 25322 I FrewleLevelDb: (REDACTED) Initialized LevelDB, usingInMemoryImpl=%s
+12-16 15:13:15.626 25275 25318 W SystemServiceRegistry: No service published for: wifirtt
+12-16 15:13:15.700 25275 25359 I AlarmManager: set [name: SystemMemoryCache type: 2 triggerAtMillis: 315419619054 windowMillis: -1 intervalMillis: 0]
+12-16 15:13:15.771 25275 25314 I GCoreUlr: Unbound from all signal providers.
+12-16 15:13:15.786 25275 25275 I GCoreUlr: Unbound from all signal providers.
+12-16 15:13:15.786 25275 25275 I GCoreUlr: Stopping handler for UlrDispSvcFast
+12-16 15:13:15.825 25275 25363 I SemanticLocation: [MDD] Loading embedded CSL model. [CONTEXT service_id=173 ]
+12-16 15:13:15.826 25275 25314 W DynamiteModule: Local module descriptor class for com.google.android.gms.tflite_dynamite not found.
+12-16 15:13:15.827 25275 25314 I DynamiteModule: Considering local module com.google.android.gms.tflite_dynamite:0 and remote module com.google.android.gms.tflite_dynamite:243930802
+12-16 15:13:15.827 25275 25314 I DynamiteModule: Selected remote version of com.google.android.gms.tflite_dynamite, version >= 243930802
+12-16 15:13:15.828 25275 25314 W System  : ClassLoader referenced unknown path: 
+12-16 15:13:15.833 25275 25314 W ProviderHelper: Unknown dynamite feature providerinstaller.dynamite
+12-16 15:13:15.833 25275 25314 I DynamiteModule: Considering local module com.google.android.gms.providerinstaller.dynamite:1 and remote module com.google.android.gms.providerinstaller.dynamite:0
+12-16 15:13:15.834 25275 25314 I DynamiteModule: Selected local version of com.google.android.gms.providerinstaller.dynamite
+12-16 15:13:15.920 25275 25314 I DynamiteModule: Considering local module com.google.android.gms.googlecertificates:7 and remote module com.google.android.gms.googlecertificates:7
+12-16 15:13:15.920 25275 25314 I DynamiteModule: Selected local version of com.google.android.gms.googlecertificates
+12-16 15:13:15.987 25275 25314 I TFLite-in-PlayServices: Initialized module.
+12-16 15:13:20.026 30377 30377 E stagram.android: No package ID ff found for resource ID 0xffffffff.
+12-16 15:13:20.030 30377 30377 E stagram.android: No package ID ff found for resource ID 0xffffffff.
+12-16 15:13:20.030 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:13:20.033 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:13:20.034 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:13:20.037 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:13:20.037 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:13:20.040 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:13:20.041 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:13:20.044 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:13:20.066 30377 30377 W 8YJ     : Pos=38 holder=X.48n@5d1b7c2
+12-16 15:13:20.072 30377 25394 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-16 15:13:20.073 30377 25395 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:13:20.073 30377 25395 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:13:20.073 30377 25395 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:13:20.073 30377 25395 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:13:20.073 30377 25395 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:13:20.073 30377 25395 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:13:20.077 30377 30377 E VideoPlayerImpl: IgBaseVideoPlayer Warning: AV1_INSTANTIATION AV1_INSTANTIATION AV1 decoding using Dav1d;meta.dav1d.av1.decoder
+12-16 15:13:20.088 30377 25395 E ExoDav1dDecoder_JNI: Dav1dDecoder::dav1dInit -- setup signal action
+12-16 15:13:20.098 30377 25395 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:13:20.099 30377 25395 W AString : ctor got NULL, using empty string instead
+12-16 15:13:20.100 30377 25395 I CCodecBufferChannel: mIsVivoLogEnable = 0
+12-16 15:13:20.104 30377 25405 I CCodec  : setting up 'default' as default (vendor) store
+12-16 15:13:20.106 30377 25405 I CCodec  : Created component [c2.android.aac.decoder]
+12-16 15:13:20.113 30377 25405 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:13:20.116 30377 25405 W Codec2Client: query -- param skipped: index = 1107298332.
+12-16 15:13:20.116 30377 25405 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:13:20.119 30377 25405 W Codec2Client: query -- param skipped: index = 1342179345.
+12-16 15:13:20.119 30377 25405 W Codec2Client: query -- param skipped: index = 2415921170.
+12-16 15:13:20.119 30377 25405 W Codec2Client: query -- param skipped: index = 1610614798.
+12-16 15:13:20.119 30377 25405 I CCodecBufferChannel: mIsVivoLogEnable = 0
+12-16 15:13:20.146 30377 25395 W AudioSystem: setParameters: PlaybackCaptureProtectSupport=com.instagram.android
+12-16 15:13:20.189 30377 14803 W AidlConversionCppNdk: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+12-16 15:13:20.268 30377 24761 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:13:20.268 30377 24761 W Codec2Client: query -- param skipped: index = 1342179345.
+12-16 15:13:20.268 30377 24761 W Codec2Client: query -- param skipped: index = 2415921170.
+12-16 15:13:20.268 30377 24761 W Codec2Client: query -- param skipped: index = 1610614798.
+12-16 15:13:20.271 30377 24761 I MediaCodec: ++kWhatRelease   mState :6
+12-16 15:13:20.278 30377 24761 I MediaCodec: ++kWhatRelease   mState :2
+12-16 15:13:20.280 30377 24750 W MessageQueue: Handler (android.os.Handler) {8c03bc8} sending message to a Handler on a dead thread
+12-16 15:13:20.280 30377 24750 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {8c03bc8} sending message to a Handler on a dead thread
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at android.os.Handler.sendMessageAtTime(Handler.java:737)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at android.os.Handler.sendMessageDelayed(Handler.java:707)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at android.os.Handler.sendMessage(Handler.java:645)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at android.os.Message.sendToTarget(Message.java:472)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at X.6zV.A01(Unknown Source:4)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at X.6yK.G0k(Unknown Source:20)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at X.6rH.A08(Unknown Source:126)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at X.6rH.handleMessage(Unknown Source:1551)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:13:20.280 30377 24750 W MessageQueue: Handler (android.os.Handler) {33aeb86} sending message to a Handler on a dead thread
+12-16 15:13:20.280 30377 24750 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {33aeb86} sending message to a Handler on a dead thread
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at android.os.Handler.sendMessageAtFrontOfQueue(Handler.java:760)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at X.7qn.Fjw(:8)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at X.7qk.A01(:29)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at X.6yK.G0k(Unknown Source:38)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at X.6rH.A08(Unknown Source:126)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at X.6rH.handleMessage(Unknown Source:1551)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:13:20.280 30377 24750 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:13:20.284 30377 24761 W MediaCodec: no metrics handle found
+12-16 15:13:20.285 30377 25409 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+12-16 15:13:22.326 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 46867
+12-16 15:13:22.334 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -46867
+12-16 15:13:22.914 19531 24908 I eddit.frontpage: Background concurrent copying GC freed 25MB AllocSpace bytes, 264(5960KB) LOS objects, 49% free, 10MB/20MB, paused 230us,114us total 336.064ms
+12-16 15:13:22.936 19531 24909 W JavaBinder: BinderProxy is being destroyed but the application did not call unlinkToDeath to unlink all of its death recipients beforehand.  Releasing leaked death recipient: com.google.android.gms.internal.engage.zzf
+12-16 15:13:22.939 19531 24909 I BpBinder: onLastStrongRef automatically unlinking death recipients: 
+12-16 15:13:22.950 19531 19531 W FinalizerDaemon: type=1400 audit(0.0:146452): avc:  denied  { getopt } for  path="/dev/socket/usap_pool_primary" scontext=u:r:untrusted_app:s0:c2,c263,c512,c768 tcontext=u:r:zygote:s0 tclass=unix_stream_socket permissive=0 app=com.reddit.frontpage
+12-16 15:13:23.247 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 11766
+12-16 15:13:23.250 30377 25372 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 30613
+12-16 15:13:23.290 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -23015
+12-16 15:13:23.296 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 8318
+12-16 15:13:23.317 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 15158
+12-16 15:13:23.333 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -7051
+12-16 15:13:23.354 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 15191
+12-16 15:13:23.376 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -7577
+12-16 15:13:23.390 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -4768
+12-16 15:13:23.414 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 14091
+12-16 15:13:23.419 30377 28503 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -40960
+12-16 15:13:23.761 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:13:23.761 30377  6322 W HeroManager: 	Id: 3787717155085171006_71876573511
+12-16 15:13:23.761 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-3.fna.fbcdn.net/o1/v/t2/f2/m86/AQPOSUhfZbaHaVa4SoEMocmWbTxwkfsBOHPzrS62_AI3lzn6nXkCXR4V3mk3JDaoVd_1WekenaHOorKYoA0eZMbmSH89FSGMIEJQkU8.mp4?_nc_cat=103&_nc_oc=Adkqgr2mrQ2qv6_7ixYeGFbk1laDBH2Ufw6-oO9-HbXgvGuqSDg9ErWzjIOK7jsFlNNOygYmpbhO2FE1h7VFnCq_&_nc_sid=5e9851&_nc_ht=instagram.fdel65-3.fna.fbcdn.net&_nc_ohc=bDlKChXXyOwQ7kNvwH2JKXL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTM2NDE1NjExODA2MTU5MSwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo1NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=0Ewrpf5bpR2_9dZtN8xJYA&_nc_zt=28&vs=f98c55ee97232e99&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BQzQwOUNDQTJFNkVBQjMxRENCNzYzQzkzNThFQ0JBNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTmJJMHlQbDMyU1JEdU1DQU5rSmRzbXF2bUpTYnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmrsiujaus7AQVAigCQzMsF0BL1T987ZFoGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_AfnDm20PKq7eBC8OfcSx37spEu9izeiDcQPpIguuPB4nbw&oe=694310A4
+12-16 15:13:23.761 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:13:23.761 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:13:23.761 30377  6322 W HeroManager: 	DashMPD: 20920
+12-16 15:13:23.761 30377  6322 W HeroManager: 	Codec: av01.0.00M.08.0.111.01.01.01.0
+12-16 15:13:23.761 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:13:23.761 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:13:23.761 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:13:23.761 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:13:23.761 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:13:23.761 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:13:23.761 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:13:23.761 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:13:23.761 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:13:23.761 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:13:23.761 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:13:23.765 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:13:23.765 30377  6322 W HeroManager: 	Id: 3786252089916151296_78981327427
+12-16 15:13:23.765 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-3.fna.fbcdn.net/o1/v/t2/f2/m86/AQNOqiNgxlPrhixF7ode86UoRuE9bWv1IEaqZu3ULuNQ-Y7Wu1aE3nX0HX_H1tPypqbOVWp27S_SlE9-0mZuphsTGURaxTdTxyseA08.mp4?_nc_cat=102&_nc_oc=Adnhcocg0tSRRVc9wGhSzF7w1y7pxwlyhNQnlQ3m3uXp-bYMxRGw5kwo9PzdHEmPa7W7P-8mGzFeImLvTZxewRVy&_nc_sid=5e9851&_nc_ht=instagram.fdel65-3.fna.fbcdn.net&_nc_ohc=KKABWVGeoAUQ7kNvwEnIxfx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzE2LmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6ODQyMDc5NDA4NjcxNDUzLCJhc3NldF9hZ2VfZGF5cyI6MywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjIzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=0Ewrpf5bpR2_9dZtN8xJYA&_nc_zt=28&vs=52b1d96a012989f0&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CQTRENUNEMEQwMURDMkE3M0VGNzI1NjRBMkZBODg5RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQTJsb1NQSXhmZXR4T0lHQUdlUDRpc0t1dXB2YnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmuqu2wLz3_gIVAigCQzMsF0A32NT987ZGGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_Afm9hcoctgLsVztSpw3rOpy1dN8gtKrrg_MsCF1L0lTB4g&oe=69431FCF
+12-16 15:13:23.765 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:13:23.765 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:13:23.765 30377  6322 W HeroManager: 	DashMPD: 15447
+12-16 15:13:23.765 30377  6322 W HeroManager: 	Codec: av01.0.04M.08.0.111.01.01.01.0
+12-16 15:13:23.765 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:13:23.765 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:13:23.765 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:13:23.765 30377  6322 W HeroManager: 	Id: 3786756803056986472_77736557621
+12-16 15:13:23.765 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQO2ziywbTaDBAkbZD36oRfLmCeQKFa8k9lPb7pqKhos2rr5D4A9CCMJ90ESCbJ8U1ho4jXG-utkeP5GT8S5jAlL_AnQ5wLC17ix7RU.mp4?_nc_cat=107&_nc_oc=AdlM95Q_IZugeV2ENseWg-V_TbLaxcmMkKEkoXNVVFG15beVPKC3U1PTL_WAZ25yU-bnQ6blE7k6EtVkBRnpIOxV&_nc_sid=5e9851&_nc_ht=instagram.fdel65-2.fna.fbcdn.net&_nc_ohc=Rn1Kl3wSYbAQ7kNvwFW-k6u&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTkyMDE5NzA1NTU4ODkwNiwiYXNzZXRfYWdlX2RheXMiOjIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxOSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=0Ewrpf5bpR2_9dZtN8xJYA&_nc_zt=28&vs=bf491ed60849f1bf&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85NDRFRTBGMDA1MUJEMTRGNzA3MUY2NzBGNTAwNDk4Q192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HTjVUcGlOWm1paFhpU2dFQU42Sy15bHpGamdfYnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm1Kit9paa6QYVAigCQzMsF0AzkOVgQYk3GBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_AfkvCcebJVw74Zpl7xmh446KIEULtr99NoqnNjhWjJ5QqA&oe=69430BCC
+12-16 15:13:23.765 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:13:23.765 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:13:23.765 30377  6322 W HeroManager: 	DashMPD: 20844
+12-16 15:13:23.765 30377  6322 W HeroManager: 	Codec: av01.0.04M.08.0.111.01.01.01.0
+12-16 15:13:23.765 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:13:23.765 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:13:23.765 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:13:23.765 30377  6322 W HeroManager: 	Id: 3766512952154480856_70853066965
+12-16 15:13:23.765 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQPQrGNpRmAfuk1Zk5DhapcYHGAqJol84T3TVbk0rNN_7CaRrFkH30_q-hx7D9j-_KcJyzZgXnG4mCuxiCeZnX1NRPBp9eZnCxE_8tA.mp4?_nc_cat=106&_nc_oc=Adk89bxe5OZUUR1gnYFdVZmga_rTNANzr59uW2TRJgjwFNfoAVmRqzsX71ZWTKX-nkEqwxfESJaagNLP9jjMt9Jm&_nc_sid=5e9851&_nc_ht=instagram.fdel65-1.fna.fbcdn.net&_nc_ohc=Ed9T4rnmISUQ7kNvwFJ1tpL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTUxMDc4ODkzMDAyNjU2NiwiYXNzZXRfYWdlX2RheXMiOjMxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTAzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b8e76961b4a327e4&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yMDQzQjc0QjYwRTZDRDVGMDMwOTA2QUZDM0FFRkRCRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HT3pfcXlLcjlfSnJ3cWdFQUZ6d0JEZXdTQmhHYnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmjPGJ2L6DrwUVAigCQzMsF0BZ2ZmZmZmaGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&_nc_gid=0Ewrpf5bpR2_9dZtN8xJYA&_nc_zt=28&oh=00_AfkVMTmNJkNY-uwUKrepo0LbOrtw2LKWDdvQURJf_qmpfg&oe=6942FA1F
+12-16 15:13:23.765 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:13:23.765 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:13:23.765 30377  6322 W HeroManager: 	DashMPD: 20875
+12-16 15:13:23.765 30377  6322 W HeroManager: 	Codec: av01.0.04M.08.0.111.01.01.01.0
+12-16 15:13:23.765 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:13:23.765 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:13:23.765 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:13:23.765 30377  6322 W HeroManager: 	Id: 3787617810093625401_50288582859
+12-16 15:13:23.765 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQPLW3UaiXrMdLWHJu2x5MSQlTwDSnpZqQ70Gzjp6mS-YbQzcKccAHbzkpzURCq1itWrcOxtwNGPKUFFYTgMN3iza1YY5sA06CctBJo.mp4?_nc_cat=109&_nc_oc=Adm6AuorxugQQDbQBZnEiCTdB72jZaKefUVjUUlAVaQDtknqZzbRq4suZPp_KFIXOigIxBbbJn5Ed-zKZts7OR8u&_nc_sid=5e9851&_nc_ht=instagram.fdel65-1.fna.fbcdn.net&_nc_ohc=UPGj2-kOpr8Q7kNvwGqgohP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTE1NDA3NjY2OTgwODU4NCwiYXNzZXRfYWdlX2RheXMiOjEsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo1MSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=0Ewrpf5bpR2_9dZtN8xJYA&_nc_zt=28&vs=807a73fa000a2c9b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81MTQ1OEU0ODFCQzdFNTE4Qzg5QzdEOUQ4N0E4NzQ5NF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRkxRenlOdlBEZHliZlFHQU5neXFMaUluWllfYnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmkL-Un43ojAQVAigCQzMsF0BJ-bpeNT99GBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_Aflm4acXQqQXjOCxmSsyRc27URg74wHI5jXC57_RN-GlZg&oe=69431E8E
+12-16 15:13:23.765 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:13:23.765 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:13:23.765 30377  6322 W HeroManager: 	DashMPD: 13499
+12-16 15:13:23.765 30377  6322 W HeroManager: 	Codec: av01.0.05M.08.0.111.01.01.01.0
+12-16 15:13:23.765 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:13:23.765 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:13:23.765 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:13:23.765 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:13:23.766 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:13:23.766 30377  6322 W HeroManager: 	Id: 3788220151306065522_54165219429
+12-16 15:13:23.766 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-3.fna.fbcdn.net/o1/v/t2/f2/m86/AQMcbL93WLhnilkdParjIxe_SQpo20LG2Lm8MP3N-yu5y4gJyAXKvAOhWlY91rS_8lrT3sihVTTEHLQWg5JeQhkrZbOpwPpWUSHU8Iw.mp4?_nc_cat=103&_nc_oc=AdnA3PmSBVHFFUy6Lcf3Qm4iI27H1ljWGowqDmt1gh9qzknuyCREd4eLE4RIp6eCUL6ugaR-I5_FgQX-OD4oVtHI&_nc_sid=5e9851&_nc_ht=instagram.fdel65-3.fna.fbcdn.net&_nc_ohc=yPEZygJp_PQQ7kNvwHC2SzW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgzMjUwNTI1NDA1MjYwNywiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo1NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=0Ewrpf5bpR2_9dZtN8xJYA&_nc_zt=28&vs=47783921c4c43379&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DMzQ3NjYxQzdCM0QzMTkxMzY3Qzk5OUEwMzMzM0JCNV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HR0RLeWlPQl83N2Rrb1FLQUFzc2Q0NGFldE1XYnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm_ou8i-ypwQYVAigCQzMsF0BMczMzMzMzGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_AflsnDTFM56RTz4C_C6rAawAR7sEK_PK6JBLlqxgTwl6Zw&oe=6942F7F0
+12-16 15:13:23.766 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:13:23.766 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:13:23.766 30377  6322 W HeroManager: 	DashMPD: 20971
+12-16 15:13:23.766 30377  6322 W HeroManager: 	Codec: av01.0.05M.08.0.111.01.01.01.0
+12-16 15:13:23.766 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:13:23.766 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:13:23.766 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:13:23.766 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:13:23.766 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:13:23.766 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:13:23.766 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:13:23.766 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:13:23.766 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:13:23.766 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:13:23.766 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:13:23.767 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:13:23.767 30377  6322 W HeroManager: 	Id: 3787146789200793421_2881362226
+12-16 15:13:23.767 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-3.fna.fbcdn.net/o1/v/t2/f2/m86/AQO9RQ-unc9eomMGB3Rn6g3HyrNMG1HjV9lAIIWzIBJ_cIOeO1l1kEnhPReyG4Ox6hTruNQ0I6fBFQLeKD5EPDDIdPRdbub-kZ9_K8U.mp4?_nc_cat=105&_nc_oc=AdkaaL5OrcTsf0TINs4Hr32JwmBG9vETVRKAZZ0YlTIBqSwQ-RMs0t_Pz93riLXZ2bEv1pQdVFhq91OhmwX71PT3&_nc_sid=5e9851&_nc_ht=instagram.fdel65-3.fna.fbcdn.net&_nc_ohc=dyyuxAAAMK4Q7kNvwHtvaYP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTg1NzQ1MTQzNTE0NTkyOSwiYXNzZXRfYWdlX2RheXMiOjIsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=0Ewrpf5bpR2_9dZtN8xJYA&_nc_zt=28&vs=5dd7db6f456391a2&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wOTQ2MTkzMDVDQTBCNzFDOEMwOUVDRTAwRTNDMkVBM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQmVReVNPWlY4Z3BHLUlFQUpqakpXTmtaZjhZYnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmkuvVz_PVzAYVAigCQzMsF0AZu2RaHKwIGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_AfnuYO36JJ5cd30HIRvx91-dFKtnh7vbAApOTNugHauM4g&oe=6942FA82
+12-16 15:13:23.767 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:13:23.767 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:13:23.767 30377  6322 W HeroManager: 	DashMPD: 13668
+12-16 15:13:23.767 30377  6322 W HeroManager: 	Codec: av01.0.05M.08.0.111.01.01.01.0
+12-16 15:13:23.767 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:13:23.767 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:13:23.767 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:13:23.767 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:13:23.767 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:13:23.767 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:13:23.767 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:13:23.767 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:13:23.767 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:13:23.767 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:13:23.767 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:13:23.768 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:13:23.768 30377  6322 W HeroManager: 	Id: 3785622643802269928_2197733002
+12-16 15:13:23.768 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQM0XP2AcBGOHcmBwZ1tUM0R4i4MWWjgAfW0qkDz5ytcB_XFE7gLbni8CtC84QGcjs3XF4SbkG7rILW4oFVTcB51gtAwgI-dRKPeBiY.mp4?_nc_cat=108&_nc_oc=Adn3hNjI6FPTNuZRXBJKFOZQ_vRjjnjW0gTRxLYt584YvH1cs57s4eYDpHqqQTBgOnuzCejyure8naU6u08g7RsQ&_nc_sid=5e9851&_nc_ht=instagram.fdel65-1.fna.fbcdn.net&_nc_ohc=EXWYjlvWmu4Q7kNvwFhTacT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTk2NTEzNjMwNDg4MzQyOSwiYXNzZXRfYWdlX2RheXMiOjQsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo0OCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=0Ewrpf5bpR2_9dZtN8xJYA&_nc_zt=28&vs=8d8ce94b568ebb3&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83QzREOUJGREEzRjRGRDc3MkFBM0FFMDAwNTMwQjU4NF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HUGs3cENPbjZ4bVVlU1VIQUVJQ2RGcUNCd2xCYnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmypuatv7R_QYVAigCQzMsF0BIAAAAAAAAGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&oh=00_Afmv0JAlnC16pnApDOX3ZJZ5W100dUW5CejO7SKxZFXm-g&oe=694312D5
+12-16 15:13:23.768 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:13:23.768 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:13:23.768 30377  6322 W HeroManager: 	DashMPD: 20892
+12-16 15:13:23.768 30377  6322 W HeroManager: 	Codec: av01.0.04M.08.0.111.01.01.01.0
+12-16 15:13:23.768 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:13:23.768 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:13:23.768 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:13:23.768 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:13:23.768 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:13:23.768 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:13:23.768 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:13:23.768 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:13:23.768 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:13:23.768 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:13:23.768 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:13:23.769 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:13:23.769 30377  6322 W HeroManager: 	Id: 3788224459954522249_32695468827
+12-16 15:13:23.769 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-3.fna.fbcdn.net/o1/v/t2/f2/m86/AQPjcrRJrCIuyJzGC-yJWOtrixH2jiz5cuQttegqZlJrJAg8WiXexXvcOb5psiPHJ8e9MHN8RgQu2M0UfBAC8j_ma5GUPDFA0Pbh4cc.mp4?_nc_cat=103&_nc_oc=AdkOSvGjSWMe_xeTZAdlomUsZCGrcXkuMPQfprlRxN3Kcgq6jYj_KH86KL2nGWl8xV3CqUOu5qIfceQbQvvIDbgc&_nc_sid=5e9851&_nc_ht=instagram.fdel65-3.fna.fbcdn.net&_nc_ohc=XxUQkpf-w5EQ7kNvwF3uRoP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6ODQ1NjcyODU0OTg0NDY4LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjc5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d26f0f2d1f64d89f&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zNDRENDM3QkU2NzM5OUQ0NkFCRTIwNTEwN0EyM0NBMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSHpGdGlOY2RtWXhlTDRHQUJFSFJvcWJyS3RzYnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmqNzw4dHIgAMVAigCQzMsF0BTyIMSbpeNGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&_nc_gid=0Ewrpf5bpR2_9dZtN8xJYA&_nc_zt=28&oh=00_AflpfEGLNucIogH2WwNfGQ4P-yVt7hRdrvbzDNVZG3wiow&oe=6943159C
+12-16 15:13:23.769 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:13:23.769 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:13:23.769 30377  6322 W HeroManager: 	DashMPD: 20969
+12-16 15:13:23.769 30377  6322 W HeroManager: 	Codec: av01.0.04M.08.0.111.01.01.01.0
+12-16 15:13:23.769 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:13:23.769 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:13:23.769 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:13:23.769 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:13:23.769 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:13:23.769 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:13:23.769 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:13:23.769 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:13:23.769 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:13:23.769 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:13:23.769 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:13:23.771 30377  6322 W HeroManager: mediaPreload.prefetchInternal : source: Type: DASH_VOD
+12-16 15:13:23.771 30377  6322 W HeroManager: 	Id: 3788180375479379722_5933068066
+12-16 15:13:23.771 30377  6322 W HeroManager: 	Uri: https://instagram.fdel65-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQNgVkM8KxGXlWKKzDt-3lPQrzbhB_K8JgOrJ7veZPL7NEV6oOhRNBry__1sPSVBVTySVS4MRLA_J6YIpGXHwUO4XVZFnZhYsTKO8rc.mp4?_nc_cat=101&_nc_oc=AdkQryg2BFknFHtBnLbyiV4uQyisXGrrFCo7tDcnUEgMIoOrnEnhQUOtm1MiIUvkYwuaQ8cDpYYyCVTV-vE47b8D&_nc_sid=5e9851&_nc_ht=instagram.fdel65-2.fna.fbcdn.net&_nc_ohc=WEY1cD_12QYQ7kNvwEM5xWR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTM0NzM4MjM1MDc2NzA0NSwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjo4NSwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=d44f1c1b8af4b42&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FODQ0MjkwRjg1MzQ3MjJCNkJFRTI0MDYwRDY4NEE5Q192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSXNneWlPck05S2xpVWNFQUNwVk85Qk1adDlMYnN0VEFRQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmio-n5vzb5AQVAigCQzMsF0BVRmZmZmZmGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHX-B2XmnQEA&_nc_gid=0Ewrpf5bpR2_9dZtN8xJYA&_nc_zt=28&oh=00_AfnCbJX_bEOKsrKqZP9hX9AVUd-uwYkcxKadmhUvMWSpxQ&oe=6942F046
+12-16 15:13:23.771 30377  6322 W HeroManager: 	Origin: clips_viewer_clips_blend
+12-16 15:13:23.771 30377  6322 W HeroManager: 	PrefetchOrigin: UNKNOWN
+12-16 15:13:23.771 30377  6322 W HeroManager: 	DashMPD: 20893
+12-16 15:13:23.771 30377  6322 W HeroManager: 	Codec: av01.0.04M.08.0.111.01.01.01.0
+12-16 15:13:23.771 30377  6322 W HeroManager: 	liveLatency: -1
+12-16 15:13:23.771 30377  6322 W HeroManager: 	liveLatencyTolerance: -1
+12-16 15:13:23.771 30377  6322 W HeroManager: 	isSpherical: false
+12-16 15:13:23.771 30377  6322 W HeroManager: 	isSponsored: false
+12-16 15:13:23.771 30377  6322 W HeroManager: 	isAdBreak: false
+12-16 15:13:23.771 30377  6322 W HeroManager: 	isLiveTraceEnabled: false
+12-16 15:13:23.771 30377  6322 W HeroManager: 	renderMode: AUDIO_VIDEO
+12-16 15:13:23.771 30377  6322 W HeroManager: 	isBroadcast: false
+12-16 15:13:23.771 30377  6322 W HeroManager: 	contentType: GENERAL
+12-16 15:13:23.771 30377  6322 W HeroManager: 	isAudioDataListenerEnabled: false
+12-16 15:13:23.771 30377  6322 W HeroManager: 	liveViewerCount: -1, type: DASH_VOD
+12-16 15:13:24.750 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 73295
+12-16 15:13:24.776 19531 19531 W JobService: onNetworkChanged() not implemented in androidx.work.impl.background.systemjob.SystemJobService. Must override in a subclass.
+12-16 15:13:24.793 30377 25372 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -20108
+12-16 15:13:24.800 30377 25372 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 66728
+12-16 15:13:24.802 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -3992
+12-16 15:13:24.848 30377 25372 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -115923
+12-16 15:13:25.543 25275 25284 I .gms.persistent: Background concurrent copying GC freed 11MB AllocSpace bytes, 286(6624KB) LOS objects, 50% free, 6039KB/11MB, paused 170us,73us total 218.354ms
+12-16 15:13:26.877  1534  6326 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent
+12-16 15:13:28.302 30377 25372 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 22836
+12-16 15:13:28.310 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -22836
+12-16 15:13:30.539 13196 13196 W auyh    : Failed to find local clusters.
+12-16 15:13:30.540 13196 13196 W auyh    : Failed to find local clusters.
+12-16 15:13:33.069 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 79483
+12-16 15:13:33.098 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -79483
+12-16 15:13:34.260  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:13:34.260  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:13:34.264  4926 24899 W SystemServiceRegistry: No service published for: wifirtt
+12-16 15:13:34.324 25330 25342 W e.process.gapps: ApkAssets: Deleting an ApkAssets object '/system/product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk' with 1 weak references
+12-16 15:13:34.325  4926  5820 I ActivityScheduler: nextTriggerTime: 59847750, in 210070ms, detectorType: 39, FULL_TYPE alarmWindowMillis: 30000
+12-16 15:13:36.920  1534  3218 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent
+12-16 15:13:38.016 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 58668
+12-16 15:13:38.019 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -58668
+12-16 15:13:42.910 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 92025
+12-16 15:13:42.947 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -92025
+12-16 15:13:47.845 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 56622
+12-16 15:13:47.852 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -56622
+12-16 15:13:52.773 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 177981
+12-16 15:13:52.813 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -177981
+12-16 15:13:54.279  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:13:54.279  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:13:54.287  4926 24899 W SystemServiceRegistry: No service published for: wifirtt
+12-16 15:13:54.341  4926  5820 I ActivityScheduler: nextTriggerTime: 59847750, in 190055ms, detectorType: 39, FULL_TYPE alarmWindowMillis: 30000
+12-16 15:13:57.666 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 169522
+12-16 15:13:57.715 30377 28894 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -169522
+12-16 15:14:02.602 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 89129
+12-16 15:14:02.613 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -89129
+12-16 15:14:06.610 30377 25395 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:06.611 30377 25395 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:06.611 30377 25395 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:06.611 30377 25395 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:06.611 30377 25395 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:06.611 30377 25395 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:07.012  1534  6418 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent
+12-16 15:14:14.298  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:14:14.300  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:14:14.304  4926 25552 W SystemServiceRegistry: No service published for: wifirtt
+12-16 15:14:14.445  4926  5820 I ActivityScheduler: nextTriggerTime: 59917800, in 240000ms, detectorType: 39, FULL_TYPE alarmWindowMillis: 30000
+12-16 15:14:14.446  4926  5820 W AlarmManager: alarm window unlikely to be respected [CONTEXT service_id=231 ]
+12-16 15:14:14.446  4926  5820 W AlarmManager: java.lang.IllegalArgumentException: alarm "NetworkLocationActivityDetection" has short window length
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at cnvs.c(:com.google.android.gms@254932029@25.49.32 (190400-843446962):38)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at cnvr.c(:com.google.android.gms@254932029@25.49.32 (190400-843446962):18)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at gdba.b(:com.google.android.gms@254932029@25.49.32 (190400-843446962):132)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at gbai.v(:com.google.android.gms@254932029@25.49.32 (190400-843446962):61)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at gbca.q(:com.google.android.gms@254932029@25.49.32 (190400-843446962):136)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at gbca.u(:com.google.android.gms@254932029@25.49.32 (190400-843446962):107)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at gbcg.L(:com.google.android.gms@254932029@25.49.32 (190400-843446962):74)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at gbbb.p(:com.google.android.gms@254932029@25.49.32 (190400-843446962):29)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at gbbi.q(:com.google.android.gms@254932029@25.49.32 (190400-843446962):23)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at gbbb.b(:com.google.android.gms@254932029@25.49.32 (190400-843446962):28)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at gbag.m(:com.google.android.gms@254932029@25.49.32 (190400-843446962):419)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at gbac.k(:com.google.android.gms@254932029@25.49.32 (190400-843446962):56)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at gbrt.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):7)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at android.os.Handler.handleCallback(Handler.java:1013)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at android.os.Handler.dispatchMessage(Handler.java:101)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at cppd.mv(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at cppd.dispatchMessage(:com.google.android.gms@254932029@25.49.32 (190400-843446962):140)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:14:14.446  4926  5820 W AlarmManager: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:14:14.519 21444 21485 I gle.android.gms: Explicit concurrent copying GC freed 336KB AllocSpace bytes, 0(0B) LOS objects, 36% free, 3581KB/5629KB, paused 269us,59us total 99.524ms
+12-16 15:14:17.040  1534  3710 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent
+12-16 15:14:23.265 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:14:23.268 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:14:23.268 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:14:23.271 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:14:23.272 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:14:23.275 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:14:23.275 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:14:23.278 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:14:23.278 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:14:23.282 30377 30377 E stagram.android: Invalid resource ID 0x0000001f.
+12-16 15:14:23.333 30377 30377 W 8YJ     : Pos=39 holder=X.48n@77562ce
+12-16 15:14:23.338 30377 25622 W DefaultTrackSelector: Audio channel count constraints cannot be applied without reference to Context. Build the track selector instance with one of the non-deprecated constructors that take a Context argument.
+12-16 15:14:23.340 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:23.340 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:23.340 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:23.340 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:23.340 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:23.340 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:23.342 30377 30377 E VideoPlayerImpl: IgBaseVideoPlayer Warning: AV1_INSTANTIATION AV1_INSTANTIATION AV1 decoding using Dav1d;meta.dav1d.av1.decoder
+12-16 15:14:23.353 30377 25623 E ExoDav1dDecoder_JNI: Dav1dDecoder::dav1dInit -- setup signal action
+12-16 15:14:23.354 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:23.355 30377 25623 W AString : ctor got NULL, using empty string instead
+12-16 15:14:23.356 30377 25623 I CCodecBufferChannel: mIsVivoLogEnable = 0
+12-16 15:14:23.359 30377 25630 I CCodec  : setting up 'default' as default (vendor) store
+12-16 15:14:23.362 30377 25630 I CCodec  : Created component [c2.android.aac.decoder]
+12-16 15:14:23.365 30377 25630 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:14:23.368 30377 25630 W Codec2Client: query -- param skipped: index = 1107298332.
+12-16 15:14:23.368 30377 25630 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:14:23.369 30377 25630 W Codec2Client: query -- param skipped: index = 1342179345.
+12-16 15:14:23.369 30377 25630 W Codec2Client: query -- param skipped: index = 2415921170.
+12-16 15:14:23.369 30377 25630 W Codec2Client: query -- param skipped: index = 1610614798.
+12-16 15:14:23.369 30377 25630 I CCodecBufferChannel: mIsVivoLogEnable = 0
+12-16 15:14:23.384 30377 25623 W AudioSystem: setParameters: PlaybackCaptureProtectSupport=com.instagram.android
+12-16 15:14:23.469 30377 30392 W AidlConversionCppNdk: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+12-16 15:14:23.590 30377 25405 I CCodecConfig: query failed after returning 20 values (BAD_INDEX)
+12-16 15:14:23.591 30377 25405 W Codec2Client: query -- param skipped: index = 1342179345.
+12-16 15:14:23.591 30377 25405 W Codec2Client: query -- param skipped: index = 2415921170.
+12-16 15:14:23.591 30377 25405 W Codec2Client: query -- param skipped: index = 1610614798.
+12-16 15:14:23.592 30377 25405 I MediaCodec: ++kWhatRelease   mState :6
+12-16 15:14:23.595 30377 25405 I MediaCodec: ++kWhatRelease   mState :2
+12-16 15:14:23.596 30377 25394 W MessageQueue: Handler (android.os.Handler) {c88e23e} sending message to a Handler on a dead thread
+12-16 15:14:23.596 30377 25394 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {c88e23e} sending message to a Handler on a dead thread
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at android.os.Handler.sendMessageAtTime(Handler.java:737)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at android.os.Handler.sendMessageDelayed(Handler.java:707)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at android.os.Handler.sendMessage(Handler.java:645)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at android.os.Message.sendToTarget(Message.java:472)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at X.6zV.A01(Unknown Source:4)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at X.6yK.G0k(Unknown Source:20)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at X.6rH.A08(Unknown Source:126)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at X.6rH.handleMessage(Unknown Source:1551)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:14:23.596 30377 25394 W MessageQueue: Handler (android.os.Handler) {7562dec} sending message to a Handler on a dead thread
+12-16 15:14:23.596 30377 25394 W MessageQueue: java.lang.IllegalStateException: Handler (android.os.Handler) {7562dec} sending message to a Handler on a dead thread
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at android.os.MessageQueue.enqueueMessage(MessageQueue.java:564)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at android.os.Handler.enqueueMessage(Handler.java:841)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at android.os.Handler.sendMessageAtFrontOfQueue(Handler.java:760)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at X.7qn.Fjw(:8)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at X.7qk.A01(:29)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at X.6yK.G0k(Unknown Source:38)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at X.6rH.A08(Unknown Source:126)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at X.6rH.handleMessage(Unknown Source:1551)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at android.os.Handler.dispatchMessage(Handler.java:104)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:14:23.596 30377 25394 W MessageQueue: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:14:23.599 30377 25405 I hw-BpHwBinder: onLastStrongRef automatically unlinking death recipients
+12-16 15:14:23.601 30377 25405 W MediaCodec: no metrics handle found
+12-16 15:14:25.599 30377 25372 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 27113
+12-16 15:14:25.604 30377 25372 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: -27113
+12-16 15:14:27.449 25655 25655 I droid.apps.docs: Using CollectorTypeCC GC.
+12-16 15:14:27.453 25655 25655 E droid.apps.docs: Not starting debugger since process cannot load the jdwp agent.
+12-16 15:14:27.568 25655 25655 W droid.apps.docs: Failed to find entry 'classes.dex': Entry not found
+12-16 15:14:27.572 25655 25655 W droid.apps.docs: Failed to find entry 'classes.dex': Entry not found
+12-16 15:14:27.574 25655 25655 W droid.apps.docs: Failed to find entry 'classes.dex': Entry not found
+12-16 15:14:27.632 25655 25655 W droid.apps.docs: Method void quj.c(android.app.Activity) failed lock verification and will run slower.
+12-16 15:14:27.632 25655 25655 W droid.apps.docs: Common causes for lock verification issues are non-optimized dex code
+12-16 15:14:27.632 25655 25655 W droid.apps.docs: and incorrect proguard optimizations.
+12-16 15:14:27.662 25655 25692 W CacheStorage: cache doesn't exist
+12-16 15:14:27.708  4926 14164 I FontLog : (REDACTED) Received query %s, URI %s
+12-16 15:14:27.708  4926 14164 I FontLog : (REDACTED) Query [%s] resolved to %s
+12-16 15:14:27.715  4926 14164 I FontLog : (REDACTED) Fetch %s end status %s
+12-16 15:14:27.721  4926 14164 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+12-16 15:14:27.744  4926  6058 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+12-16 15:14:27.749 25655 25697 E DocsApplication: from onCreate Completable for sending summary about blocked SyncRequests
+12-16 15:14:27.749 25655 25697 E DocsApplication: java.lang.IllegalStateException
+12-16 15:14:27.749 25655 25697 E DocsApplication: 	at hbq.i(PG:64)
+12-16 15:14:27.749 25655 25697 E DocsApplication: 	at gor.lambda$onCreate$2(PG:281)
+12-16 15:14:27.749 25655 25697 E DocsApplication: 	at gor.$r8$lambda$M-tqsz8QJK2QrqieVTlg-c3Lhbo(PG:1)
+12-16 15:14:27.749 25655 25697 E DocsApplication: 	at goo.run(PG:263)
+12-16 15:14:27.749 25655 25697 E DocsApplication: 	at zuc.d(PG:13)
+12-16 15:14:27.749 25655 25697 E DocsApplication: 	at zrq.e(PG:3)
+12-16 15:14:27.749 25655 25697 E DocsApplication: 	at zuk$a.run(PG:3)
+12-16 15:14:27.749 25655 25697 E DocsApplication: 	at zsa$a.run(PG:10)
+12-16 15:14:27.749 25655 25697 E DocsApplication: 	at zxz.run(PG:14)
+12-16 15:14:27.749 25655 25697 E DocsApplication: 	at zxz.call(PG:1)
+12-16 15:14:27.749 25655 25697 E DocsApplication: 	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+12-16 15:14:27.749 25655 25697 E DocsApplication: 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:348)
+12-16 15:14:27.749 25655 25697 E DocsApplication: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1156)
+12-16 15:14:27.749 25655 25697 E DocsApplication: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:651)
+12-16 15:14:27.749 25655 25697 E DocsApplication: 	at java.lang.Thread.run(Thread.java:1119)
+12-16 15:14:27.789 25655 25685 E FilePhenotypeFlags: Config package com.google.android.gms.gmscompliance cannot use FILE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+12-16 15:14:27.802 25655 25748 W SyncManagerImpl: Initiating sync for AccountId_105e3711 (com.google.android.apps.docs)
+12-16 15:14:27.815 25655 25685 E FilePhenotypeFlags: Config package com.google.android.gms.gmscompliance cannot use FILE backing without declarative registration. See go/phenotype-android-integration#phenotype for more information. This will lead to stale flags.
+12-16 15:14:27.848 25655 25748 W SyncManagerImpl: Started sync for AccountId_105e3711
+12-16 15:14:27.916 25655 25754 I Cello   : [25754:NonCelloThread] cello.cc:958:operator() got notified of network change to online
+12-16 15:14:27.928 25655 25754 I Cello   : [25754:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 268435456
+12-16 15:14:27.928 25655 25754 I Cello   : [25754:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:27.930 25655 25754 I Cello   : [25754:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/priyanshbhadoria5@gmail.com/content]
+12-16 15:14:27.931 25655 25754 I Cello   : [25754:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/priyanshbhadoria5@gmail.com/content/chunks.db
+12-16 15:14:28.012 25655 25754 I Cello   : [25754:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 1073741824
+12-16 15:14:28.012 25655 25754 I Cello   : [25754:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:28.014 25655 25754 I Cello   : [25754:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/priyanshbhadoria5@gmail.com/export]
+12-16 15:14:28.015 25655 25754 I Cello   : [25754:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/priyanshbhadoria5@gmail.com/export/chunks.db
+12-16 15:14:28.022  4926 25732 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+12-16 15:14:28.023  4926 25732 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@254932029@25.49.32 (190400-843446962):204)
+12-16 15:14:28.023  4926 25732 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@254932029@25.49.32 (190400-843446962):4)
+12-16 15:14:28.090  4926 25732 W Conscrypt: Could not set socket write timeout: java.net.SocketException: Socket closed
+12-16 15:14:28.090  4926 25732 W Conscrypt: 	at com.google.android.gms.org.conscrypt.Platform.setSocketWriteTimeout(:com.google.android.gms@254932029@25.49.32 (190400-843446962):204)
+12-16 15:14:28.090  4926 25732 W Conscrypt: 	at com.google.android.gms.org.conscrypt.ConscryptFileDescriptorSocket.setSoWriteTimeout(:com.google.android.gms@254932029@25.49.32 (190400-843446962):4)
+12-16 15:14:28.163 25655 25754 I Cello   : [25754:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:28.164 25655 25754 I Cello   : [25754:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:28.164 25655 25754 I Cello   : [25754:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:28.174 25655 25728 W DynamiteModule: Local module descriptor class for com.google.android.gms.providerinstaller.dynamite not found.
+12-16 15:14:28.178  4926  6058 W ProviderHelper: Unknown dynamite feature providerinstaller.dynamite
+12-16 15:14:28.180 25655 25728 W ProviderInstaller: Failed to load providerinstaller module: No acceptable module com.google.android.gms.providerinstaller.dynamite found. Local version is 0 and remote version is 0.
+12-16 15:14:28.244 25655 25754 I Cello   : [25754:NonCelloThread] init_helper.cc:532:MaybeResyncLocalState Detected no change in default fields or default team drive fields
+12-16 15:14:28.247 25655 25754 I Cello   : [25754:NonCelloThread] sync_engine.cc:2554:MaybeStartRepeatingPushTaskTimer Starting repeating push task timer with interval 30000ms
+12-16 15:14:28.300 25655 25781 I Cello   : [25781:NonCelloThread] cello.cc:958:operator() got notified of network change to online
+12-16 15:14:28.301 25655 25781 I Cello   : [25781:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 268435456
+12-16 15:14:28.301 25655 25781 I Cello   : [25781:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:28.317 25655 25781 I Cello   : [25781:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/priyanshbhadoria13@gmail.com/content]
+12-16 15:14:28.319 25655 25781 I Cello   : [25781:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/priyanshbhadoria13@gmail.com/content/chunks.db
+12-16 15:14:28.382 25655 25787 E GoogleApiManager: Failed to get service from broker. 
+12-16 15:14:28.382 25655 25787 E GoogleApiManager: java.lang.SecurityException: Unknown calling package name 'com.google.android.gms'.
+12-16 15:14:28.382 25655 25787 E GoogleApiManager: 	at android.os.Parcel.createExceptionOrNull(Parcel.java:3093)
+12-16 15:14:28.382 25655 25787 E GoogleApiManager: 	at android.os.Parcel.createException(Parcel.java:3077)
+12-16 15:14:28.382 25655 25787 E GoogleApiManager: 	at android.os.Parcel.readException(Parcel.java:3060)
+12-16 15:14:28.382 25655 25787 E GoogleApiManager: 	at android.os.Parcel.readException(Parcel.java:3002)
+12-16 15:14:28.382 25655 25787 E GoogleApiManager: 	at bcxv.a(:com.google.android.gms@254932029@25.49.32 (190400-843446962):36)
+12-16 15:14:28.382 25655 25787 E GoogleApiManager: 	at bcvw.z(:com.google.android.gms@254932029@25.49.32 (190400-843446962):143)
+12-16 15:14:28.382 25655 25787 E GoogleApiManager: 	at bcbx.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):42)
+12-16 15:14:28.382 25655 25787 E GoogleApiManager: 	at android.os.Handler.handleCallback(Handler.java:1013)
+12-16 15:14:28.382 25655 25787 E GoogleApiManager: 	at android.os.Handler.dispatchMessage(Handler.java:101)
+12-16 15:14:28.382 25655 25787 E GoogleApiManager: 	at cppd.mv(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:14:28.382 25655 25787 E GoogleApiManager: 	at cppd.dispatchMessage(:com.google.android.gms@254932029@25.49.32 (190400-843446962):5)
+12-16 15:14:28.382 25655 25787 E GoogleApiManager: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:14:28.382 25655 25787 E GoogleApiManager: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:14:28.382 25655 25787 E GoogleApiManager: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:14:28.394 25655 25754 I Cello   : [25754:NonCelloThread] post_init_task.cc:327:ResumePinnedExportDownloads Attempting to resume downloads for pinned exports that are not fully cached
+12-16 15:14:28.396 25655 25787 W GoogleApiManager: Not showing notification since connectionResult is not user-facing: ConnectionResult{statusCode=DEVELOPER_ERROR, resolution=null, message=null, clientMethodKey=null}
+12-16 15:14:28.397 25655 25754 I Cello   : [25754:NonCelloThread] fetch_task.cc:692:RunInternal Largest local change id for My Drive at startup: 62109
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: Failed to register com.google.android.gms.providerinstaller#com.google.android.apps.docs
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: fuzt: 17: 17: API: Phenotype.API is not available on this device. Connection failed with: ConnectionResult{statusCode=DEVELOPER_ERROR, resolution=null, message=null, clientMethodKey=null}
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at fuzv.a(:com.google.android.gms@254932029@25.49.32 (190400-843446962):13)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at gssu.d(:com.google.android.gms@254932029@25.49.32 (190400-843446962):3)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at gssw.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):130)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at gsvd.execute(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at gste.f(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at gste.m(:com.google.android.gms@254932029@25.49.32 (190400-843446962):99)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at gste.r(:com.google.android.gms@254932029@25.49.32 (190400-843446962):17)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at fnro.hz(:com.google.android.gms@254932029@25.49.32 (190400-843446962):35)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at fbcw.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):12)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at gsvd.execute(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at fbcx.b(:com.google.android.gms@254932029@25.49.32 (190400-843446962):18)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at fbdm.b(:com.google.android.gms@254932029@25.49.32 (190400-843446962):34)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at fbdo.d(:com.google.android.gms@254932029@25.49.32 (190400-843446962):25)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at bbzg.c(:com.google.android.gms@254932029@25.49.32 (190400-843446962):9)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at bcbv.q(:com.google.android.gms@254932029@25.49.32 (190400-843446962):48)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at bcbv.d(:com.google.android.gms@254932029@25.49.32 (190400-843446962):10)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at bcbv.g(:com.google.android.gms@254932029@25.49.32 (190400-843446962):191)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at bcbv.onConnectionFailed(:com.google.android.gms@254932029@25.49.32 (190400-843446962):2)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at bcbx.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):70)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at android.os.Handler.handleCallback(Handler.java:1013)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at android.os.Handler.dispatchMessage(Handler.java:101)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at cppd.mv(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at cppd.dispatchMessage(:com.google.android.gms@254932029@25.49.32 (190400-843446962):5)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: Caused by: bbxn: 17: API: Phenotype.API is not available on this device. Connection failed with: ConnectionResult{statusCode=DEVELOPER_ERROR, resolution=null, message=null, clientMethodKey=null}
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at bcvi.a(:com.google.android.gms@254932029@25.49.32 (190400-843446962):15)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at bbzj.a(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	at bbzg.c(:com.google.android.gms@254932029@25.49.32 (190400-843446962):5)
+12-16 15:14:28.403 25655 25786 W FlagRegistrar: 	... 12 more
+12-16 15:14:28.447 25655 25728 I ProviderInstaller: Installed default security provider GmsCore_OpenSSL
+12-16 15:14:28.451 25655 25781 I Cello   : [25781:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 1073741824
+12-16 15:14:28.451 25655 25781 I Cello   : [25781:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:28.455 25655 25781 I Cello   : [25781:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/priyanshbhadoria13@gmail.com/export]
+12-16 15:14:28.456 25655 25781 I Cello   : [25781:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/priyanshbhadoria13@gmail.com/export/chunks.db
+12-16 15:14:28.561 25655 25781 I Cello   : [25781:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:28.561 25655 25781 I Cello   : [25781:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:28.561 25655 25781 I Cello   : [25781:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:28.580 25655 25781 I Cello   : [25781:NonCelloThread] init_helper.cc:532:MaybeResyncLocalState Detected no change in default fields or default team drive fields
+12-16 15:14:28.580  4926 25661 I GCoreUlr: AutoEnableManager setIneligible for account#-6#
+12-16 15:14:28.582 25655 25781 I Cello   : [25781:NonCelloThread] sync_engine.cc:2554:MaybeStartRepeatingPushTaskTimer Starting repeating push task timer with interval 30000ms
+12-16 15:14:28.626 25655 25807 I Cello   : [25807:NonCelloThread] cello.cc:958:operator() got notified of network change to online
+12-16 15:14:28.626 25655 25807 I Cello   : [25807:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 268435456
+12-16 15:14:28.627 25655 25807 I Cello   : [25807:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:28.629 25655 25807 I Cello   : [25807:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/jsbs9720@gmail.com/content]
+12-16 15:14:28.641 25655 25807 I Cello   : [25807:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/jsbs9720@gmail.com/content/chunks.db
+12-16 15:14:28.649 25655 25781 I Cello   : [25781:NonCelloThread] post_init_task.cc:327:ResumePinnedExportDownloads Attempting to resume downloads for pinned exports that are not fully cached
+12-16 15:14:28.703  4926 25571 I GCoreUlr: Unbound from all signal providers.
+12-16 15:14:28.740  4926  4926 I GCoreUlr: Unbound from all signal providers.
+12-16 15:14:28.740  4926  4926 I GCoreUlr: Stopping handler for UlrDispSvcFast
+12-16 15:14:28.743  5205  5205 I PkDeviceHelper: PkDeviceHelper.refreshDevices():93 refreshing devices
+12-16 15:14:28.743  5205  5205 I PkDeviceHelper: PkDeviceHelper.refreshDevices():93 refreshing devices
+12-16 15:14:28.744  5205  5205 I PkDeviceHelper: PkDeviceHelper.refreshDevices():93 refreshing devices
+12-16 15:14:28.744  5205  5205 I PkDeviceHelper: PkDeviceHelper.refreshDevices():93 refreshing devices
+12-16 15:14:28.745  5205  5205 I PkDeviceHelper: PkDeviceHelper.refreshDevices():93 refreshing devices
+12-16 15:14:28.762  7615  7642 I PermissionControllerServiceImpl: Updating user sensitive for uid 10436
+12-16 15:14:28.781 25655 25781 I Cello   : [25781:NonCelloThread] fetch_task.cc:692:RunInternal Largest local change id for My Drive at startup: -2
+12-16 15:14:28.948 25655 25807 I Cello   : [25807:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 1073741824
+12-16 15:14:28.949 25655 25807 I Cello   : [25807:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:28.950 25655 25807 I Cello   : [25807:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/jsbs9720@gmail.com/export]
+12-16 15:14:28.951 25655 25807 I Cello   : [25807:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/jsbs9720@gmail.com/export/chunks.db
+12-16 15:14:29.132 25655 25807 I Cello   : [25807:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:29.132 25655 25807 I Cello   : [25807:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:29.133 25655 25807 I Cello   : [25807:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:29.148 25655 25807 I Cello   : [25807:NonCelloThread] init_helper.cc:532:MaybeResyncLocalState Detected no change in default fields or default team drive fields
+12-16 15:14:29.150 25655 25807 I Cello   : [25807:NonCelloThread] sync_engine.cc:2554:MaybeStartRepeatingPushTaskTimer Starting repeating push task timer with interval 30000ms
+12-16 15:14:29.181 25655 25835 I Cello   : [25835:NonCelloThread] cello.cc:958:operator() got notified of network change to online
+12-16 15:14:29.185 25655 25807 I Cello   : [25807:NonCelloThread] post_init_task.cc:327:ResumePinnedExportDownloads Attempting to resume downloads for pinned exports that are not fully cached
+12-16 15:14:29.187 25655 25835 I Cello   : [25835:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 268435456
+12-16 15:14:29.188 25655 25835 I Cello   : [25835:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:29.197 25655 25807 I Cello   : [25807:NonCelloThread] fetch_task.cc:692:RunInternal Largest local change id for My Drive at startup: -2
+12-16 15:14:29.199 25655 25835 I Cello   : [25835:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/artistrymakers36@gmail.com/content]
+12-16 15:14:29.200 25655 25835 I Cello   : [25835:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/artistrymakers36@gmail.com/content/chunks.db
+12-16 15:14:29.360 25655 25835 I Cello   : [25835:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 1073741824
+12-16 15:14:29.360 25655 25835 I Cello   : [25835:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:29.362 25655 25835 I Cello   : [25835:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/artistrymakers36@gmail.com/export]
+12-16 15:14:29.363 25655 25835 I Cello   : [25835:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/artistrymakers36@gmail.com/export/chunks.db
+12-16 15:14:29.498 25655 25835 I Cello   : [25835:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:29.499 25655 25835 I Cello   : [25835:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:29.499 25655 25835 I Cello   : [25835:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:29.515 25655 25835 I Cello   : [25835:NonCelloThread] init_helper.cc:532:MaybeResyncLocalState Detected no change in default fields or default team drive fields
+12-16 15:14:29.520 25655 25835 I Cello   : [25835:NonCelloThread] sync_engine.cc:2554:MaybeStartRepeatingPushTaskTimer Starting repeating push task timer with interval 30000ms
+12-16 15:14:29.576 25655 25844 I Cello   : [25844:NonCelloThread] cello.cc:958:operator() got notified of network change to online
+12-16 15:14:29.577 25655 25844 I Cello   : [25844:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 268435456
+12-16 15:14:29.577 25655 25844 I Cello   : [25844:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:29.580 25655 25844 I Cello   : [25844:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/deku4022@gmail.com/content]
+12-16 15:14:29.580 25655 25844 I Cello   : [25844:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/deku4022@gmail.com/content/chunks.db
+12-16 15:14:29.583 25655 25835 I Cello   : [25835:NonCelloThread] post_init_task.cc:327:ResumePinnedExportDownloads Attempting to resume downloads for pinned exports that are not fully cached
+12-16 15:14:29.595 25655 25835 I Cello   : [25835:NonCelloThread] fetch_task.cc:692:RunInternal Largest local change id for My Drive at startup: -2
+12-16 15:14:29.688 25655 25844 I Cello   : [25844:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 1073741824
+12-16 15:14:29.688 25655 25844 I Cello   : [25844:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:29.690 25655 25844 I Cello   : [25844:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/deku4022@gmail.com/export]
+12-16 15:14:29.690 25655 25844 I Cello   : [25844:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/deku4022@gmail.com/export/chunks.db
+12-16 15:14:29.798 25655 25844 I Cello   : [25844:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:29.799 25655 25844 I Cello   : [25844:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:29.799 25655 25844 I Cello   : [25844:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:29.810 25655 25844 I Cello   : [25844:NonCelloThread] init_helper.cc:532:MaybeResyncLocalState Detected no change in default fields or default team drive fields
+12-16 15:14:29.812 25655 25844 I Cello   : [25844:NonCelloThread] sync_engine.cc:2554:MaybeStartRepeatingPushTaskTimer Starting repeating push task timer with interval 30000ms
+12-16 15:14:29.843 25655 25859 I Cello   : [25859:NonCelloThread] cello.cc:958:operator() got notified of network change to online
+12-16 15:14:29.844 25655 25859 I Cello   : [25859:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 268435456
+12-16 15:14:29.844 25655 25859 I Cello   : [25859:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:29.846 25655 25844 I Cello   : [25844:NonCelloThread] post_init_task.cc:327:ResumePinnedExportDownloads Attempting to resume downloads for pinned exports that are not fully cached
+12-16 15:14:29.847 25655 25859 I Cello   : [25859:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/priyansh.tca2211024@tmu.ac.in/content]
+12-16 15:14:29.848 25655 25859 I Cello   : [25859:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/priyansh.tca2211024@tmu.ac.in/content/chunks.db
+12-16 15:14:29.854 25655 25844 I Cello   : [25844:NonCelloThread] fetch_task.cc:692:RunInternal Largest local change id for My Drive at startup: -2
+12-16 15:14:29.955 25655 25859 I Cello   : [25859:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 1073741824
+12-16 15:14:29.955 25655 25859 I Cello   : [25859:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:29.956 25655 25859 I Cello   : [25859:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/priyansh.tca2211024@tmu.ac.in/export]
+12-16 15:14:29.956 25655 25859 I Cello   : [25859:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/priyansh.tca2211024@tmu.ac.in/export/chunks.db
+12-16 15:14:30.091 25655 25859 I Cello   : [25859:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:30.091 25655 25859 I Cello   : [25859:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:30.091 25655 25859 I Cello   : [25859:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:30.097 25655 25859 I Cello   : [25859:NonCelloThread] init_helper.cc:532:MaybeResyncLocalState Detected no change in default fields or default team drive fields
+12-16 15:14:30.099 25655 25859 I Cello   : [25859:NonCelloThread] sync_engine.cc:2554:MaybeStartRepeatingPushTaskTimer Starting repeating push task timer with interval 30000ms
+12-16 15:14:30.130 25655 25859 I Cello   : [25859:NonCelloThread] post_init_task.cc:327:ResumePinnedExportDownloads Attempting to resume downloads for pinned exports that are not fully cached
+12-16 15:14:30.137 25655 25859 I Cello   : [25859:NonCelloThread] fetch_task.cc:692:RunInternal Largest local change id for My Drive at startup: 22
+12-16 15:14:30.143 25655 25873 I Cello   : [25873:NonCelloThread] cello.cc:958:operator() got notified of network change to online
+12-16 15:14:30.144 25655 25873 I Cello   : [25873:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 268435456
+12-16 15:14:30.144 25655 25873 I Cello   : [25873:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:30.166 25655 25873 I Cello   : [25873:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/g7581317@gmail.com/content]
+12-16 15:14:30.171 25655 25873 I Cello   : [25873:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/g7581317@gmail.com/content/chunks.db
+12-16 15:14:30.264 25655 25873 I Cello   : [25873:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 1073741824
+12-16 15:14:30.265 25655 25873 I Cello   : [25873:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:30.267 25655 25873 I Cello   : [25873:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/g7581317@gmail.com/export]
+12-16 15:14:30.268 25655 25873 I Cello   : [25873:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/g7581317@gmail.com/export/chunks.db
+12-16 15:14:30.425 25655 25873 I Cello   : [25873:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:30.426 25655 25873 I Cello   : [25873:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:30.426 25655 25873 I Cello   : [25873:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:30.440 25655 25873 I Cello   : [25873:NonCelloThread] init_helper.cc:532:MaybeResyncLocalState Detected no change in default fields or default team drive fields
+12-16 15:14:30.443 25655 25873 I Cello   : [25873:NonCelloThread] sync_engine.cc:2554:MaybeStartRepeatingPushTaskTimer Starting repeating push task timer with interval 30000ms
+12-16 15:14:30.471 25655 25873 I Cello   : [25873:NonCelloThread] post_init_task.cc:327:ResumePinnedExportDownloads Attempting to resume downloads for pinned exports that are not fully cached
+12-16 15:14:30.473 25655 25873 I Cello   : [25873:NonCelloThread] fetch_task.cc:692:RunInternal Largest local change id for My Drive at startup: -2
+12-16 15:14:30.477 25655 25881 I Cello   : [25881:NonCelloThread] cello.cc:958:operator() got notified of network change to online
+12-16 15:14:30.479 25655 25881 I Cello   : [25881:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 268435456
+12-16 15:14:30.479 25655 25881 I Cello   : [25881:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:30.488 25655 25881 I Cello   : [25881:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/cocwithpriyansh@gmail.com/content]
+12-16 15:14:30.489 25655 25881 I Cello   : [25881:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/cocwithpriyansh@gmail.com/content/chunks.db
+12-16 15:14:30.636 25655 25881 I Cello   : [25881:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 1073741824
+12-16 15:14:30.636 25655 25881 I Cello   : [25881:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:30.637 25655 25881 I Cello   : [25881:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/cocwithpriyansh@gmail.com/export]
+12-16 15:14:30.637 25655 25881 I Cello   : [25881:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/cocwithpriyansh@gmail.com/export/chunks.db
+12-16 15:14:30.798 25655 25881 I Cello   : [25881:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:30.799 25655 25881 I Cello   : [25881:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:30.799 25655 25881 I Cello   : [25881:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:30.811 25655 25881 I Cello   : [25881:NonCelloThread] init_helper.cc:532:MaybeResyncLocalState Detected no change in default fields or default team drive fields
+12-16 15:14:30.818 25655 25881 I Cello   : [25881:NonCelloThread] sync_engine.cc:2554:MaybeStartRepeatingPushTaskTimer Starting repeating push task timer with interval 30000ms
+12-16 15:14:30.842 25655 25890 I Cello   : [25890:NonCelloThread] cello.cc:958:operator() got notified of network change to online
+12-16 15:14:30.843 25655 25890 I Cello   : [25890:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 268435456
+12-16 15:14:30.844 25655 25890 I Cello   : [25890:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:30.845 25655 25890 I Cello   : [25890:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/dog193784@gmail.com/content]
+12-16 15:14:30.846 25655 25890 I Cello   : [25890:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/dog193784@gmail.com/content/chunks.db
+12-16 15:14:30.904 25655 25881 I Cello   : [25881:NonCelloThread] post_init_task.cc:327:ResumePinnedExportDownloads Attempting to resume downloads for pinned exports that are not fully cached
+12-16 15:14:30.920 25655 25881 I Cello   : [25881:NonCelloThread] fetch_task.cc:692:RunInternal Largest local change id for My Drive at startup: -2
+12-16 15:14:31.031 25655 25890 I Cello   : [25890:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 1073741824
+12-16 15:14:31.031 25655 25890 I Cello   : [25890:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:31.032 25655 25890 I Cello   : [25890:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/dog193784@gmail.com/export]
+12-16 15:14:31.032 25655 25890 I Cello   : [25890:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/dog193784@gmail.com/export/chunks.db
+12-16 15:14:31.176 25655 25890 I Cello   : [25890:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:31.176 25655 25890 I Cello   : [25890:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:31.176 25655 25890 I Cello   : [25890:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:31.214 25655 25890 I Cello   : [25890:NonCelloThread] init_helper.cc:532:MaybeResyncLocalState Detected no change in default fields or default team drive fields
+12-16 15:14:31.216 25655 25890 I Cello   : [25890:NonCelloThread] sync_engine.cc:2554:MaybeStartRepeatingPushTaskTimer Starting repeating push task timer with interval 30000ms
+12-16 15:14:31.262 25655 25907 I Cello   : [25907:NonCelloThread] cello.cc:958:operator() got notified of network change to online
+12-16 15:14:31.266 25655 25907 I Cello   : [25907:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 268435456
+12-16 15:14:31.269 25655 25907 I Cello   : [25907:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:31.271 25655 25907 I Cello   : [25907:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/imcoder63@gmail.com/content]
+12-16 15:14:31.272 25655 25907 I Cello   : [25907:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/imcoder63@gmail.com/content/chunks.db
+12-16 15:14:31.315 25655 25907 I Cello   : [25907:NonCelloThread] content_cache.cc:287:Initialize Content cache capacity (bytes): 1073741824
+12-16 15:14:31.317 25655 25907 I Cello   : [25907:NonCelloThread] content_cache.cc:303:Initialize Sparse files supported: true
+12-16 15:14:31.337 25655 25907 I Cello   : [25907:NonCelloThread] content_cache.cc:390:InitializeOnIOThread Created new content cache dir [/data/user/0/com.google.android.apps.docs/app_cello/imcoder63@gmail.com/export]
+12-16 15:14:31.358 25655 25907 I Cello   : [25907:NonCelloThread] content_cache.cc:425:InitializeOnIOThread Cache index at: /data/user/0/com.google.android.apps.docs/app_cello/imcoder63@gmail.com/export/chunks.db
+12-16 15:14:31.375 25655 25890 I Cello   : [25890:NonCelloThread] post_init_task.cc:327:ResumePinnedExportDownloads Attempting to resume downloads for pinned exports that are not fully cached
+12-16 15:14:31.384 25655 25890 I Cello   : [25890:NonCelloThread] fetch_task.cc:692:RunInternal Largest local change id for My Drive at startup: -2
+12-16 15:14:31.403 30377 28919 E IdleQueuePayloadBasedServiceLayer: Request empty, but still some servings left: 3020
+12-16 15:14:31.459 25655 25907 I Cello   : [25907:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:31.460 25655 25907 I Cello   : [25907:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:31.460 25655 25907 I Cello   : [25907:NonCelloThread] token_bucket.cc:221:Create TokenBucket initialized with max_bucket_size of 300, with each request requiring 10 tokens
+12-16 15:14:31.489 25655 25907 I Cello   : [25907:NonCelloThread] init_helper.cc:532:MaybeResyncLocalState Detected no change in default fields or default team drive fields
+12-16 15:14:31.492 25655 25907 I Cello   : [25907:NonCelloThread] sync_engine.cc:2554:MaybeStartRepeatingPushTaskTimer Starting repeating push task timer with interval 30000ms
+12-16 15:14:31.523 25655 25907 I Cello   : [25907:NonCelloThread] post_init_task.cc:327:ResumePinnedExportDownloads Attempting to resume downloads for pinned exports that are not fully cached
+12-16 15:14:31.531 25655 25907 I Cello   : [25907:NonCelloThread] fetch_task.cc:692:RunInternal Largest local change id for My Drive at startup: 3
+12-16 15:14:31.542 25655 25881 E Cello   : [25881:NonCelloThread] item_query_handler.cc:81:CheckQueryAgainstInternalItemLocalProperty Querying on internal item local property key: pinned
+12-16 15:14:31.574 25655 25907 E Cello   : [25907:NonCelloThread] item_query_handler.cc:81:CheckQueryAgainstInternalItemLocalProperty Querying on internal item local property key: pinned
+12-16 15:14:31.613 25655 25754 E Cello   : [25754:NonCelloThread] item_query_handler.cc:81:CheckQueryAgainstInternalItemLocalProperty Querying on internal item local property key: pinned
+12-16 15:14:31.701 25655 25873 E Cello   : [25873:NonCelloThread] item_query_handler.cc:81:CheckQueryAgainstInternalItemLocalProperty Querying on internal item local property key: pinned
+12-16 15:14:31.718 25655 25807 E Cello   : [25807:NonCelloThread] item_query_handler.cc:81:CheckQueryAgainstInternalItemLocalProperty Querying on internal item local property key: pinned
+12-16 15:14:31.751 25655 25844 E Cello   : [25844:NonCelloThread] item_query_handler.cc:81:CheckQueryAgainstInternalItemLocalProperty Querying on internal item local property key: pinned
+12-16 15:14:31.784 25655 25859 E Cello   : [25859:NonCelloThread] item_query_handler.cc:81:CheckQueryAgainstInternalItemLocalProperty Querying on internal item local property key: pinned
+12-16 15:14:31.802 25655 25781 E Cello   : [25781:NonCelloThread] item_query_handler.cc:81:CheckQueryAgainstInternalItemLocalProperty Querying on internal item local property key: pinned
+12-16 15:14:31.825 25655 25835 E Cello   : [25835:NonCelloThread] item_query_handler.cc:81:CheckQueryAgainstInternalItemLocalProperty Querying on internal item local property key: pinned
+12-16 15:14:31.851 25655 25890 E Cello   : [25890:NonCelloThread] item_query_handler.cc:81:CheckQueryAgainstInternalItemLocalProperty Querying on internal item local property key: pinned
+12-16 15:14:32.033  5241 15034 I gle.android.gms: Explicit concurrent copying GC freed 9470KB AllocSpace bytes, 11(772KB) LOS objects, 41% free, 34MB/58MB, paused 286us,891us total 821.793ms
+12-16 15:14:32.451 25932 25932 E cebook.services: Not starting debugger since process cannot load the jdwp agent.
+12-16 15:14:32.560 25932 25932 W SoLoader: Initializing SoLoader: 0
+12-16 15:14:32.560 25932 25932 W SoLoader: context.getApplicationContext returned null, holding reference to original context.ApplicationSoSource fallbacks to: /data/app/~~hpYIzG_wJZeIa2Z6UwqwVw==/com.facebook.services-TwcZO2YlN7ikf8nueT4ylw==/lib/arm64
+12-16 15:14:32.561 25932 25932 W SoLoader: Recording new base apk path: /data/app/~~hpYIzG_wJZeIa2Z6UwqwVw==/com.facebook.services-TwcZO2YlN7ikf8nueT4ylw==/base.apk
+12-16 15:14:32.561 25932 25932 W SoLoader: Previously recorded 0 base apk paths.
+12-16 15:14:32.562 25932 25932 I SoLoader: Preparing SO source: DirectorySoSource[root = /vendor/lib64 flags = 2]
+12-16 15:14:32.562 25932 25932 I SoLoader: Preparing SO source: DirectorySoSource[root = /system/lib64 flags = 2]
+12-16 15:14:32.562 25932 25932 I SoLoader: Preparing SO source: ApplicationSoSource[DirectorySoSource[root = /data/app/~~hpYIzG_wJZeIa2Z6UwqwVw==/com.facebook.services-TwcZO2YlN7ikf8nueT4ylw==/lib/arm64 flags = 1]]
+12-16 15:14:32.566 25932 25932 I SoLoader: Preparing SO source: BackupSoSource[root = /data/data/com.facebook.services/lib-main flags = 1 apks = [ExtractFromZipSoSource[/data/app/~~hpYIzG_wJZeIa2Z6UwqwVw==/com.facebook.services-TwcZO2YlN7ikf8nueT4ylw==/base.apk]]]
+12-16 15:14:32.566 25932 25932 I SoLoader: init finish: 4 SO sources prepared
+12-16 15:14:32.567 25932 25932 W SoLoader: SoLoader initialized: 0
+12-16 15:14:32.604 25932 25932 W fbservices-stub:InitStatus: Not blocking Service (226051222)
+12-16 15:14:32.605 25932 25932 W fbservices-stub:InitStatus: Not blocking Service (226051222)
+12-16 15:14:32.606 25932 25932 W fbservices-stub:InitStatus: Not blocking Service (226051222)
+12-16 15:14:32.657 25974 25974 I book.appmanager: Using CollectorTypeCC GC.
+12-16 15:14:32.661 25974 25974 E book.appmanager: Not starting debugger since process cannot load the jdwp agent.
+12-16 15:14:32.662 25932 25932 W fbservices-stub:InitStatus: Not blocking Service (226051222)
+12-16 15:14:32.663 25932 25932 W fbservices-stub:InitStatus: Not blocking Service (226051222)
+12-16 15:14:32.716 25932 25932 W fbservices-stub:InitStatus: Not blocking Service (226051222)
+12-16 15:14:32.717 25932 25932 W fbservices-stub:InitStatus: Not blocking Service (226051222)
+12-16 15:14:32.737 25932 25932 W SoLoader: Loading notifgateway-jni on the main thread
+12-16 15:14:32.739 25932 25932 W SoLoader[NativeDeps]: Falling back to custom ELF parsing when loading libnotifgateway.so, this can be slow
+12-16 15:14:32.743 25932 25932 W SoLoader[NativeDeps]: Falling back to custom ELF parsing when loading libc++_shared.so, this can be slow
+12-16 15:14:32.763 25932 25932 W SoLoader: Loading simplejni on the main thread
+12-16 15:14:32.764 25932 25932 W SoLoader: Loading simplejni on the main thread
+12-16 15:14:32.773 25932 25932 I DGW     : I[startConnection:430] ConnectivityManager start connection.
+12-16 15:14:32.776 25932 25964 I DGW     : I[sendRequest:85] StreamGroupConnectivityAwareNetworkLayer[notifgateway] buffering request with connection state: 0
+12-16 15:14:32.792 25974 25974 W SoLoader: Initializing SoLoader: 0
+12-16 15:14:32.793 25974 25974 W SoLoader: context.getApplicationContext returned null, holding reference to original context.ApplicationSoSource fallbacks to: /data/app/~~ocdizQJS1zzcSqCkDDJ7bQ==/com.facebook.appmanager-aJOqsABuBD9UOETSB51_GQ==/lib/arm64
+12-16 15:14:32.793 25974 25974 W SoLoader: Recording new base apk path: /data/app/~~ocdizQJS1zzcSqCkDDJ7bQ==/com.facebook.appmanager-aJOqsABuBD9UOETSB51_GQ==/base.apk
+12-16 15:14:32.793 25974 25974 W SoLoader: Previously recorded 0 base apk paths.
+12-16 15:14:32.794 25974 25974 I SoLoader: Preparing SO source: DirectorySoSource[root = /vendor/lib64 flags = 2]
+12-16 15:14:32.794 25974 25974 I SoLoader: Preparing SO source: DirectorySoSource[root = /system/lib64 flags = 2]
+12-16 15:14:32.794 25974 25974 I SoLoader: Preparing SO source: DirectApkSoSource[root = [/data/app/~~ocdizQJS1zzcSqCkDDJ7bQ==/com.facebook.appmanager-aJOqsABuBD9UOETSB51_GQ==/base.apk!/lib/arm64-v8a]]
+12-16 15:14:32.800 25974 25974 I SoLoader: Preparing SO source: ApplicationSoSource[DirectorySoSource[root = /data/app/~~ocdizQJS1zzcSqCkDDJ7bQ==/com.facebook.appmanager-aJOqsABuBD9UOETSB51_GQ==/lib/arm64 flags = 1]]
+12-16 15:14:32.800 25974 25974 I SoLoader: init finish: 4 SO sources prepared
+12-16 15:14:32.800 25974 25974 W SoLoader: SoLoader initialized: 8
+12-16 15:14:32.838 25974 25974 E SQLiteLog: (14) cannot open file at line 41711 of [698edb7753]
+12-16 15:14:32.838 25974 25974 E SQLiteLog: (14) os_unix.c:41711: (2) open(/data/data/com.facebook.appmanager/databases/androidx.work.workdb) - 
+12-16 15:14:32.838 25932 25932 W fbservices-stub:InitStatus: Not blocking Service (226051222)
+12-16 15:14:32.838 25932 25932 W fbservices-stub:InitStatus: Not blocking Service (226051222)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: Failed to open database '/data/user/0/com.facebook.appmanager/databases/androidx.work.workdb'.
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: android.database.sqlite.SQLiteCantOpenDatabaseException: Cannot open database '/data/user/0/com.facebook.appmanager/databases/androidx.work.workdb' with flags 0x0: File /data/user/0/com.facebook.appmanager/databases/androidx.work.workdb doesn't exist
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.open(SQLiteConnection.java:277)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.open(SQLiteConnection.java:220)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnectionPool.openConnectionLocked(SQLiteConnectionPool.java:528)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnectionPool.open(SQLiteConnectionPool.java:215)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnectionPool.open(SQLiteConnectionPool.java:207)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.database.sqlite.SQLiteDatabase.openInner(SQLiteDatabase.java:1087)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.database.sqlite.SQLiteDatabase.open(SQLiteDatabase.java:1067)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.database.sqlite.SQLiteDatabase.openDatabase(SQLiteDatabase.java:958)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.database.sqlite.SQLiteDatabase.openDatabase(SQLiteDatabase.java:905)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at com.facebook.oxygen.common.androidx.workmanager.initializer.b.a(WorkManagerDatabase.java:22)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at com.facebook.oxygen.appmanager.app.c.a(AppManagerApplicationImpl.java:21)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at com.facebook.oxygen.common.component.b.d.onCreate(OxpDelegatingApplication.java:84)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at com.facebook.oxygen.appmanager.app.AppManagerApplication.onCreate(AppManagerApplication.java:24)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.app.Instrumentation.callApplicationOnCreate(Instrumentation.java:1316)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:7857)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.app.ActivityThread.-$$Nest$mhandleBindApplication(Unknown Source:0)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2613)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.os.Handler.dispatchMessage(Handler.java:108)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.app.ActivityThread.main(ActivityThread.java:9164)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at java.lang.reflect.Method.invoke(Native Method)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:594)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: Caused by: android.database.sqlite.SQLiteCantOpenDatabaseException: unknown error (code 14 SQLITE_CANTOPEN): Could not open database
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.nativeOpen(Native Method)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	at android.database.sqlite.SQLiteConnection.open(SQLiteConnection.java:239)
+12-16 15:14:32.839 25974 25974 E SQLiteDatabase: 	... 23 more
+12-16 15:14:32.852 25932 25932 W fbservices-stub:InitStatus: Not blocking Service (226051222)
+12-16 15:14:32.864 25932 25932 W fbservices-stub:InitStatus: Not blocking Service (226051222)
+12-16 15:14:33.098 25974 26052 E ActivityThread: Failed to find provider info for com.facebook.appmanager.nekodirect
+12-16 15:14:33.453 25655 25835 I Cello   : [25835:NonCelloThread] merge_task.cc:1810:PerformCacheResets Cache must be reset.
+12-16 15:14:33.454 25655 25835 I Cello   : [25835:NonCelloThread] merge_task.cc:1820:PerformCacheResets Local store must be reset.
+12-16 15:14:33.456 25655 25841 I Cello   : [25841:AsyncLocalStore] sqlite_local_store.cc:2580:Reset SetCacheTypeInternal completed: drive::ds::Status::SUCCESS
+12-16 15:14:33.456 25655 25841 I Cello   : [25841:AsyncLocalStore] sqlite_local_store.cc:2591:Reset SetLargestChangeIdInternal completed: drive::ds::Status::SUCCESS
+12-16 15:14:33.457 25655 25841 I Cello   : [25841:AsyncLocalStore] sqlite_local_store.cc:2595:Reset SetTeamDrivesCacheStateSync completed: drive::ds::Status::SUCCESS
+12-16 15:14:33.457 25655 25841 I Cello   : [25841:AsyncLocalStore] sqlite_local_store.cc:2600:Reset SetMachineRootsCacheState completed: drive::ds::Status::SUCCESS
+12-16 15:14:33.457 25655 25841 I Cello   : [25841:AsyncLocalStore] sqlite_local_store.cc:2605:Reset SetArbitrarySyncFoldersCacheState completed: drive::ds::Status::SUCCESS
+12-16 15:14:33.460 25655 25841 I Cello   : [25841:AsyncLocalStore] sqlite_local_store.cc:2611:Reset kDropFolderFeaturesTable completed: drive::ds::Status::SUCCESS
+12-16 15:14:33.460 25655 25841 I Cello   : [25841:AsyncLocalStore] sqlite_local_store.cc:2621:Reset Num items to preserve: 0
+12-16 15:14:33.460 25655 25841 I Cello   : [25841:AsyncLocalStore] sqlite_local_store.cc:2630:Reset Num shared drives to re-insert: 0
+12-16 15:14:33.469 25655 25841 I Cello   : [25841:AsyncLocalStore] sqlite_local_store.cc:2639:Reset Recreated the items table: drive::ds::Status::SUCCESS
+12-16 15:14:33.470 25655 25841 I Cello   : [25841:AsyncLocalStore] sqlite_local_store.cc:2644:Reset kCreateFolderFeaturesTable completed: drive::ds::Status::SUCCESS
+12-16 15:14:33.470 25655 25841 I Cello   : [25841:AsyncLocalStore] sqlite_local_store.cc:2683:Reset PersistTeamDrives completed: drive::ds::Status::SUCCESS
+12-16 15:14:33.470 25655 25841 I Cello   : [25841:AsyncLocalStore] sqlite_local_store.cc:2699:Reset Persisting items completed: drive::ds::Status::SUCCESS
+12-16 15:14:33.471 25655 25841 I Cello   : [25841:AsyncLocalStore] sqlite_local_store.cc:2718:ResetQueryCacheInternal Successfully recreated query tables
+12-16 15:14:33.473 25655 25841 I Cello   : [25841:AsyncLocalStore] sqlite_local_store.cc:2705:Reset LocalStore::Reset() completed.
+12-16 15:14:33.473 25655 25841 I Cello   : [25841:AsyncLocalStore] sqlite_local_store.cc:2560:operator() Local store reset took 17.372344ms
+12-16 15:14:33.491 25655 25899 W StatsImpressionLogger: Cello local store reset cache contents
+12-16 15:14:33.921 25932 26021 I DGW     : I[onStateChanged:170] StreamGroupConnectivityAwareNetworkLayer processing buffered requests
+12-16 15:14:33.923 25932 26021 I DGW     : I[sendRequest:105] StreamGroupMNSNetworkLayer[notifgateway] DGW Connecting to https://z-m-gateway.facebook.com/notifgateway
+12-16 15:14:34.182  7615  7642 I PermissionControllerServiceImpl: Updating user sensitive for uid 10103
+12-16 15:14:34.192  5205  5205 I PkDeviceHelper: PkDeviceHelper.refreshDevices():93 refreshing devices
+12-16 15:14:34.193  5205  5205 I PkDeviceHelper: PkDeviceHelper.refreshDevices():93 refreshing devices
+12-16 15:14:34.194  5205  5205 I PkDeviceHelper: PkDeviceHelper.refreshDevices():93 refreshing devices
+12-16 15:14:34.195  5205  5205 I PkDeviceHelper: PkDeviceHelper.refreshDevices():93 refreshing devices
+12-16 15:14:34.196  5205  5205 I PkDeviceHelper: PkDeviceHelper.refreshDevices():93 refreshing devices
+12-16 15:14:34.298 25932 26022 W DGW     : W[onSuccessfulResponse:862] StreamGroupTransport[notifgateway] on successful response. DGW is now connected.
+12-16 15:14:34.315  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:14:34.316  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:14:34.320  4926 25732 W SystemServiceRegistry: No service published for: wifirtt
+12-16 15:14:34.369  4926  5820 I ActivityScheduler: nextTriggerTime: 59917800, in 220076ms, detectorType: 39, FULL_TYPE alarmWindowMillis: 30000
+12-16 15:14:34.451 25655 25748 W SyncManagerImpl: Sync for AccountId_105e3711 took 2544 ms
+12-16 15:14:34.469 25655 25748 W SyncManagerImpl: Sync completed for AccountId_105e3711 (com.google.android.apps.docs)
+12-16 15:14:38.405 25655 25787 E GoogleApiManager: Failed to get service from broker. 
+12-16 15:14:38.405 25655 25787 E GoogleApiManager: java.lang.SecurityException: Unknown calling package name 'com.google.android.gms'.
+12-16 15:14:38.405 25655 25787 E GoogleApiManager: 	at android.os.Parcel.createExceptionOrNull(Parcel.java:3093)
+12-16 15:14:38.405 25655 25787 E GoogleApiManager: 	at android.os.Parcel.createException(Parcel.java:3077)
+12-16 15:14:38.405 25655 25787 E GoogleApiManager: 	at android.os.Parcel.readException(Parcel.java:3060)
+12-16 15:14:38.405 25655 25787 E GoogleApiManager: 	at android.os.Parcel.readException(Parcel.java:3002)
+12-16 15:14:38.405 25655 25787 E GoogleApiManager: 	at bcxv.a(:com.google.android.gms@254932029@25.49.32 (190400-843446962):36)
+12-16 15:14:38.405 25655 25787 E GoogleApiManager: 	at bcvw.z(:com.google.android.gms@254932029@25.49.32 (190400-843446962):143)
+12-16 15:14:38.405 25655 25787 E GoogleApiManager: 	at bcbx.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):42)
+12-16 15:14:38.405 25655 25787 E GoogleApiManager: 	at android.os.Handler.handleCallback(Handler.java:1013)
+12-16 15:14:38.405 25655 25787 E GoogleApiManager: 	at android.os.Handler.dispatchMessage(Handler.java:101)
+12-16 15:14:38.405 25655 25787 E GoogleApiManager: 	at cppd.mv(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:14:38.405 25655 25787 E GoogleApiManager: 	at cppd.dispatchMessage(:com.google.android.gms@254932029@25.49.32 (190400-843446962):5)
+12-16 15:14:38.405 25655 25787 E GoogleApiManager: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:14:38.405 25655 25787 E GoogleApiManager: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:14:38.405 25655 25787 E GoogleApiManager: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:14:38.405 25655 25787 W GoogleApiManager: Not showing notification since connectionResult is not user-facing: ConnectionResult{statusCode=DEVELOPER_ERROR, resolution=null, message=null, clientMethodKey=null}
+12-16 15:14:41.274 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:41.274 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:41.274 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:41.274 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:41.274 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:41.275 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:14:42.453 30377 30521 E msys    : E[N mns]_CacheRefreshTimerCallback(454)=>Start active cache refresh DNS resolution
+12-16 15:14:42.453 30377 30521 E msys    : E[N mns]_CacheRefreshTimerCallback(454)=>Start active cache refresh DNS resolution
+12-16 15:14:42.453 30377 30521 E msys    : E[N mns]_CacheRefreshTimerCallback(454)=>Start active cache refresh DNS resolution
+12-16 15:14:42.453 30377 30521 E msys    : E[N mns]_CacheRefreshTimerCallback(454)=>Start active cache refresh DNS resolution
+12-16 15:14:42.454 30377 30521 E msys    : E[N mns]_CacheRefreshTimerCallback(454)=>Start active cache refresh DNS resolution
+12-16 15:14:42.454 30377 30521 E msys    : E[N mns]_CacheRefreshTimerCallback(454)=>Start active cache refresh DNS resolution
+12-16 15:14:43.928 30377 30521 E msys    : E[N mns]_OnSystemDNSSuccessCallback(340)=>Cache refresh succeeded with system DNS resolver. IP count: 2
+12-16 15:14:43.928 30377 30521 E msys    : E[N mns]_OnSystemDNSSuccessCallback(340)=>Cache refresh succeeded with system DNS resolver. IP count: 2
+12-16 15:14:43.928 30377 30521 E msys    : E[N mns]_OnSystemDNSSuccessCallback(340)=>Cache refresh succeeded with system DNS resolver. IP count: 2
+12-16 15:14:43.931 30377 30521 E msys    : E[N mns]_OnSystemDNSSuccessCallback(340)=>Cache refresh succeeded with system DNS resolver. IP count: 2
+12-16 15:14:45.002 30377 30521 E msys    : E[N mns]_OnSystemDNSSuccessCallback(340)=>Cache refresh succeeded with system DNS resolver. IP count: 2
+12-16 15:14:45.003 30377 30521 E msys    : E[N mns]_OnSystemDNSSuccessCallback(340)=>Cache refresh succeeded with system DNS resolver. IP count: 2
+12-16 15:14:54.333  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:14:54.334  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:14:54.339  4926 26157 W SystemServiceRegistry: No service published for: wifirtt
+12-16 15:14:54.401  4926  5820 I ActivityScheduler: nextTriggerTime: 59917800, in 200044ms, detectorType: 39, FULL_TYPE alarmWindowMillis: 30000
+12-16 15:15:05.871 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:15:05.871 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:15:05.871 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:15:05.871 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:15:05.871 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:15:05.871 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:15:07.294 24777 24797 I com.discord: Waiting for a blocking GC ProfileSaver
+12-16 15:15:07.399 24777 24797 I com.discord: WaitForGcToComplete blocked ProfileSaver on Background for 105.160ms
+12-16 15:15:10.065 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~roBDAgcJqkELkWgjfKVF-A==/com.whatsapp-fumRsRLK8Eq7XDemtzt1mQ==/base.apk' with 1 weak references
+12-16 15:15:10.068 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~roBDAgcJqkELkWgjfKVF-A==/com.whatsapp-fumRsRLK8Eq7XDemtzt1mQ==/split_config.arm64_v8a.apk' with 1 weak references
+12-16 15:15:10.068 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~roBDAgcJqkELkWgjfKVF-A==/com.whatsapp-fumRsRLK8Eq7XDemtzt1mQ==/split_config.xxhdpi.apk' with 1 weak references
+12-16 15:15:10.068 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~iVqkV6LsYToNAPMq9N74-Q==/com.instagram.android-4DtmS7UrAlk2HNHcok1JDg==/base.apk' with 1 weak references
+12-16 15:15:10.075 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~iVqkV6LsYToNAPMq9N74-Q==/com.instagram.android-4DtmS7UrAlk2HNHcok1JDg==/split_executorch.apk' with 1 weak references
+12-16 15:15:10.075 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~iVqkV6LsYToNAPMq9N74-Q==/com.instagram.android-4DtmS7UrAlk2HNHcok1JDg==/split_heliumcore.apk' with 1 weak references
+12-16 15:15:10.075 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~iVqkV6LsYToNAPMq9N74-Q==/com.instagram.android-4DtmS7UrAlk2HNHcok1JDg==/split_heliumiab.apk' with 1 weak references
+12-16 15:15:10.076 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~iVqkV6LsYToNAPMq9N74-Q==/com.instagram.android-4DtmS7UrAlk2HNHcok1JDg==/split_pytorch.apk' with 1 weak references
+12-16 15:15:10.076 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~iVqkV6LsYToNAPMq9N74-Q==/com.instagram.android-4DtmS7UrAlk2HNHcok1JDg==/split_spm.apk' with 1 weak references
+12-16 15:15:10.076 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/base.apk' with 1 weak references
+12-16 15:15:10.077 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_arservicesoptional.apk' with 1 weak references
+12-16 15:15:10.077 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_executorch.apk' with 1 weak references
+12-16 15:15:10.077 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_groupsadmin.apk' with 1 weak references
+12-16 15:15:10.077 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_heliumcore.apk' with 1 weak references
+12-16 15:15:10.078 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_heliumiab.apk' with 1 weak references
+12-16 15:15:10.078 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_heliumiabexp.apk' with 1 weak references
+12-16 15:15:10.078 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_instantgames.apk' with 1 weak references
+12-16 15:15:10.078 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_instantgamesads.apk' with 1 weak references
+12-16 15:15:10.078 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_papaya.apk' with 1 weak references
+12-16 15:15:10.078 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_papayaanalyticstorch.apk' with 1 weak references
+12-16 15:15:10.079 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_papayatorch.apk' with 1 weak references
+12-16 15:15:10.079 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_photo3djni.apk' with 1 weak references
+12-16 15:15:10.079 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_pytorch.apk' with 1 weak references
+12-16 15:15:10.079 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_s_arservicesoptional_slam.apk' with 1 weak references
+12-16 15:15:10.079 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_s_papayaanalyticstorch_papayatorch.apk' with 1 weak references
+12-16 15:15:10.079 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_s_papayaanalyticstorch_papayatorch_torchedlooper.apk' with 1 weak references
+12-16 15:15:10.079 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_s_papayatorch_torchedlooper.apk' with 1 weak references
+12-16 15:15:10.079 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_s_smartcropnative_smartplacementnative.apk' with 1 weak references
+12-16 15:15:10.080 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_s_smartcropnative_smartplacementnative_smarttrim.apk' with 1 weak references
+12-16 15:15:10.080 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_slam.apk' with 1 weak references
+12-16 15:15:10.080 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~HysItWZ9Ebps_nk8vOfUog==/com.facebook.katana-EMmc0aegQQq8zJWn-LDPxg==/split_smartcropnative.apk' with 1 weak references
+12-16 15:15:10.081 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~DdHdjPg2GDBXd0s52TnjCw==/com.facebook.orca-4Whrt-QL8B6-t9M_OpC14Q==/base.apk' with 1 weak references
+12-16 15:15:10.081 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~DdHdjPg2GDBXd0s52TnjCw==/com.facebook.orca-4Whrt-QL8B6-t9M_OpC14Q==/split_arsegmentation.apk' with 1 weak references
+12-16 15:15:10.081 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~DdHdjPg2GDBXd0s52TnjCw==/com.facebook.orca-4Whrt-QL8B6-t9M_OpC14Q==/split_arservicesforexpressionfitting.apk' with 1 weak references
+12-16 15:15:10.081 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~DdHdjPg2GDBXd0s52TnjCw==/com.facebook.orca-4Whrt-QL8B6-t9M_OpC14Q==/split_arservicesforruntimerigmapping.apk' with 1 weak references
+12-16 15:15:10.082 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~DdHdjPg2GDBXd0s52TnjCw==/com.facebook.orca-4Whrt-QL8B6-t9M_OpC14Q==/split_executorch.apk' with 1 weak references
+12-16 15:15:10.082 25974 26003 W book.appmanager: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~DdHdjPg2GDBXd0s52TnjCw==/com.facebook.orca-4Whrt-QL8B6-t9M_OpC14Q==/split_i18n_en_GB.apk' with 1 weak references
+12-16 15:15:14.347  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:15:14.348  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:15:14.353  4926 26190 W SystemServiceRegistry: No service published for: wifirtt
+12-16 15:15:14.398  4926  5820 I ActivityScheduler: nextTriggerTime: 59917800, in 180047ms, detectorType: 39, FULL_TYPE alarmWindowMillis: 30000
+12-16 15:15:19.936 26208 26208 I ndroid.calendar: Using CollectorTypeCC GC.
+12-16 15:15:19.944 26208 26208 E ndroid.calendar: Not starting debugger since process cannot load the jdwp agent.
+12-16 15:15:20.057 26208 26208 W ndroid.calendar: Failed to find entry 'classes.dex': Entry not found
+12-16 15:15:20.058 26208 26208 W ndroid.calendar: Failed to find entry 'classes.dex': Entry not found
+12-16 15:15:20.059 26208 26208 W ndroid.calendar: Failed to find entry 'classes.dex': Entry not found
+12-16 15:15:20.148 26208 26255 I SqliteTransaction: Started new WRITEABLE transaction writetx1 [SqliteDatabase.onStart]
+12-16 15:15:20.176 26208 26265 W AndroidLoggerBackend: AndroidLoggerBackend configured with enableAndroidLogger:false; no logs will be emitted.
+12-16 15:15:20.181  4926 14966 I Wear_Controller: Wearable module requires a companion app to be installed.
+12-16 15:15:20.181  4926 14966 I WearableService: onCreate: Wearable Services not starting. Wear is not available on this device.
+12-16 15:15:20.185  4926 14887 W WearableService: onGetService: Wear is not available on this device.
+12-16 15:15:20.193 26208 26257 I c.aphu  : Obtained writable database SQLiteDatabase/56616664 instance with path /data/user/0/com.google.android.calendar/databases/cal_v2a
+12-16 15:15:20.195 26208 26255 I c.apga  : The schema version is 23, the database version is 23, and there are 0 migrations
+12-16 15:15:20.232 26208 26312 W DynamiteModule: Local module descriptor class for com.google.android.gms.providerinstaller.dynamite not found.
+12-16 15:15:20.243  4926 14887 W ProviderHelper: Unknown dynamite feature providerinstaller.dynamite
+12-16 15:15:20.245 26208 26312 W ProviderInstaller: Failed to load providerinstaller module: No acceptable module com.google.android.gms.providerinstaller.dynamite found. Local version is 0 and remote version is 0.
+12-16 15:15:20.309  5241 14391 I Backup  : [GmsBackupAccountManager] Backup account not found in gmscore.
+12-16 15:15:20.318  4926 14966 W ChimeraUtils: Module com.google.android.gms.backup_base missing resource null(0)
+12-16 15:15:20.325  4926 14966 I AndroidBackupEventsLogg: (REDACTED) Logging with sampling event %s
+12-16 15:15:20.332  5241 15034 I Blockstore: (REDACTED) [BlockstoreImpl] Snapshot enabled. updateAccessPerSnapshotIfEligible for package: %s
+12-16 15:15:20.412 26208 26320 E GoogleApiManager: Failed to get service from broker. 
+12-16 15:15:20.412 26208 26320 E GoogleApiManager: java.lang.SecurityException: Unknown calling package name 'com.google.android.gms'.
+12-16 15:15:20.412 26208 26320 E GoogleApiManager: 	at android.os.Parcel.createExceptionOrNull(Parcel.java:3093)
+12-16 15:15:20.412 26208 26320 E GoogleApiManager: 	at android.os.Parcel.createException(Parcel.java:3077)
+12-16 15:15:20.412 26208 26320 E GoogleApiManager: 	at android.os.Parcel.readException(Parcel.java:3060)
+12-16 15:15:20.412 26208 26320 E GoogleApiManager: 	at android.os.Parcel.readException(Parcel.java:3002)
+12-16 15:15:20.412 26208 26320 E GoogleApiManager: 	at bcxv.a(:com.google.android.gms@254932029@25.49.32 (190400-843446962):36)
+12-16 15:15:20.412 26208 26320 E GoogleApiManager: 	at bcvw.z(:com.google.android.gms@254932029@25.49.32 (190400-843446962):143)
+12-16 15:15:20.412 26208 26320 E GoogleApiManager: 	at bcbx.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):42)
+12-16 15:15:20.412 26208 26320 E GoogleApiManager: 	at android.os.Handler.handleCallback(Handler.java:1013)
+12-16 15:15:20.412 26208 26320 E GoogleApiManager: 	at android.os.Handler.dispatchMessage(Handler.java:101)
+12-16 15:15:20.412 26208 26320 E GoogleApiManager: 	at cppd.mv(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:15:20.412 26208 26320 E GoogleApiManager: 	at cppd.dispatchMessage(:com.google.android.gms@254932029@25.49.32 (190400-843446962):5)
+12-16 15:15:20.412 26208 26320 E GoogleApiManager: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:15:20.412 26208 26320 E GoogleApiManager: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:15:20.412 26208 26320 E GoogleApiManager: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:15:20.413 26208 26320 W GoogleApiManager: Not showing notification since connectionResult is not user-facing: ConnectionResult{statusCode=DEVELOPER_ERROR, resolution=null, message=null, clientMethodKey=null}
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: Failed to register com.google.android.gms.providerinstaller#com.google.android.calendar
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: fuzt: 17: 17: API: Phenotype.API is not available on this device. Connection failed with: ConnectionResult{statusCode=DEVELOPER_ERROR, resolution=null, message=null, clientMethodKey=null}
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at fuzv.a(:com.google.android.gms@254932029@25.49.32 (190400-843446962):13)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at gssu.d(:com.google.android.gms@254932029@25.49.32 (190400-843446962):3)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at gssw.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):130)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at gsvd.execute(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at gste.f(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at gste.m(:com.google.android.gms@254932029@25.49.32 (190400-843446962):99)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at gste.r(:com.google.android.gms@254932029@25.49.32 (190400-843446962):17)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at fnro.hz(:com.google.android.gms@254932029@25.49.32 (190400-843446962):35)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at fbcw.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):12)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at gsvd.execute(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at fbcx.b(:com.google.android.gms@254932029@25.49.32 (190400-843446962):18)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at fbdm.b(:com.google.android.gms@254932029@25.49.32 (190400-843446962):34)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at fbdo.d(:com.google.android.gms@254932029@25.49.32 (190400-843446962):25)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at bbzg.c(:com.google.android.gms@254932029@25.49.32 (190400-843446962):9)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at bcbv.q(:com.google.android.gms@254932029@25.49.32 (190400-843446962):48)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at bcbv.d(:com.google.android.gms@254932029@25.49.32 (190400-843446962):10)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at bcbv.g(:com.google.android.gms@254932029@25.49.32 (190400-843446962):191)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at bcbv.onConnectionFailed(:com.google.android.gms@254932029@25.49.32 (190400-843446962):2)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at bcbx.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):70)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at android.os.Handler.handleCallback(Handler.java:1013)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at android.os.Handler.dispatchMessage(Handler.java:101)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at cppd.mv(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at cppd.dispatchMessage(:com.google.android.gms@254932029@25.49.32 (190400-843446962):5)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: Caused by: bbxn: 17: API: Phenotype.API is not available on this device. Connection failed with: ConnectionResult{statusCode=DEVELOPER_ERROR, resolution=null, message=null, clientMethodKey=null}
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at bcvi.a(:com.google.android.gms@254932029@25.49.32 (190400-843446962):15)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at bbzj.a(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	at bbzg.c(:com.google.android.gms@254932029@25.49.32 (190400-843446962):5)
+12-16 15:15:20.416 26208 26319 W FlagRegistrar: 	... 12 more
+12-16 15:15:20.452 26208 26312 I ProviderInstaller: Installed default security provider GmsCore_OpenSSL
+12-16 15:15:20.454 26208 26312 W cal.amdh: Application name is not set. Call Builder#setApplicationName.
+12-16 15:15:20.531 26208 26322 I HttpFlagsLoader: HTTP flags log line (Impl): Using live production flag values from Google
+12-16 15:15:20.536 26208 26312 I cn_CronetLibraryLoader: Cronet version: 139.0.7205.3, arch: aarch64
+12-16 15:15:20.580 26208 26312 W cal.aywt: Failed to create JWT helper. This is unexpected
+12-16 15:15:20.580 26208 26312 W cal.aywt: java.lang.NoSuchMethodException: cal.apsp.getScopes []
+12-16 15:15:20.580 26208 26312 W cal.aywt: 	at java.lang.Class.getMethod(Class.java:2940)
+12-16 15:15:20.580 26208 26312 W cal.aywt: 	at java.lang.Class.getMethod(Class.java:2440)
+12-16 15:15:20.580 26208 26312 W cal.aywt: 	at cal.aywr.<init>(PG:15)
+12-16 15:15:20.580 26208 26312 W cal.aywt: 	at cal.aywt.<clinit>(PG:27)
+12-16 15:15:20.580 26208 26312 W cal.aywt: 	at cal.ywm.h(PG:85)
+12-16 15:15:20.580 26208 26312 W cal.aywt: 	at cal.ywm.i(PG:92)
+12-16 15:15:20.580 26208 26312 W cal.aywt: 	at cal.ywm.e(PG:1)
+12-16 15:15:20.580 26208 26312 W cal.aywt: 	at cal.amby.a(PG:86)
+12-16 15:15:20.580 26208 26312 W cal.aywt: 	at cal.amca.e(PG:101)
+12-16 15:15:20.580 26208 26312 W cal.aywt: 	at cal.amca.b(PG:150)
+12-16 15:15:20.580 26208 26312 W cal.aywt: 	at cal.amah.v(PG:34)
+12-16 15:15:20.580 26208 26312 W cal.aywt: 	at cal.amah.q(PG:48)
+12-16 15:15:20.580 26208 26312 W cal.aywt: 	at cal.amah.p(PG:369)
+12-16 15:15:20.580 26208 26312 W cal.aywt: 	at cal.amah.c(PG:95)
+12-16 15:15:20.580 26208 26312 W cal.aywt: 	at cal.ambo.onPerformSync(PG:13)
+12-16 15:15:20.580 26208 26312 W cal.aywt: 	at android.content.AbstractThreadedSyncAdapter$SyncThread.run(AbstractThreadedSyncAdapter.java:354)
+12-16 15:15:21.759 26208 26326 I cn_CronetUrlRequestContext: destroyNativeStreamLocked android.net.connectivity.org.chromium.net.impl.CronetBidirectionalStream@3d0c0e9
+12-16 15:15:25.458 26208 26361 W cal.amdh: Application name is not set. Call Builder#setApplicationName.
+12-16 15:15:25.578 26208 26217 I ndroid.calendar: CollectorTransition concurrent copying GC freed 11MB AllocSpace bytes, 303(6880KB) LOS objects, 56% free, 4635KB/10MB, paused 431us,127us total 166.616ms
+12-16 15:15:30.435 26208 26320 E GoogleApiManager: Failed to get service from broker. 
+12-16 15:15:30.435 26208 26320 E GoogleApiManager: java.lang.SecurityException: Unknown calling package name 'com.google.android.gms'.
+12-16 15:15:30.435 26208 26320 E GoogleApiManager: 	at android.os.Parcel.createExceptionOrNull(Parcel.java:3093)
+12-16 15:15:30.435 26208 26320 E GoogleApiManager: 	at android.os.Parcel.createException(Parcel.java:3077)
+12-16 15:15:30.435 26208 26320 E GoogleApiManager: 	at android.os.Parcel.readException(Parcel.java:3060)
+12-16 15:15:30.435 26208 26320 E GoogleApiManager: 	at android.os.Parcel.readException(Parcel.java:3002)
+12-16 15:15:30.435 26208 26320 E GoogleApiManager: 	at bcxv.a(:com.google.android.gms@254932029@25.49.32 (190400-843446962):36)
+12-16 15:15:30.435 26208 26320 E GoogleApiManager: 	at bcvw.z(:com.google.android.gms@254932029@25.49.32 (190400-843446962):143)
+12-16 15:15:30.435 26208 26320 E GoogleApiManager: 	at bcbx.run(:com.google.android.gms@254932029@25.49.32 (190400-843446962):42)
+12-16 15:15:30.435 26208 26320 E GoogleApiManager: 	at android.os.Handler.handleCallback(Handler.java:1013)
+12-16 15:15:30.435 26208 26320 E GoogleApiManager: 	at android.os.Handler.dispatchMessage(Handler.java:101)
+12-16 15:15:30.435 26208 26320 E GoogleApiManager: 	at cppd.mv(:com.google.android.gms@254932029@25.49.32 (190400-843446962):1)
+12-16 15:15:30.435 26208 26320 E GoogleApiManager: 	at cppd.dispatchMessage(:com.google.android.gms@254932029@25.49.32 (190400-843446962):5)
+12-16 15:15:30.435 26208 26320 E GoogleApiManager: 	at android.os.Looper.loopOnce(Looper.java:226)
+12-16 15:15:30.435 26208 26320 E GoogleApiManager: 	at android.os.Looper.loop(Looper.java:328)
+12-16 15:15:30.435 26208 26320 E GoogleApiManager: 	at android.os.HandlerThread.run(HandlerThread.java:67)
+12-16 15:15:30.435 26208 26320 W GoogleApiManager: Not showing notification since connectionResult is not user-facing: ConnectionResult{statusCode=DEVELOPER_ERROR, resolution=null, message=null, clientMethodKey=null}
+12-16 15:15:30.530 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:15:30.531 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:15:30.531 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:15:30.531 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:15:30.531 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:15:30.531 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:15:33.648 30377  6398 W soft_error.cpp: [pando::graphql::PandoGraphQLRequestHybrid::assertValid] : Using a PandoGraphQLRequest after it has been consumed. Query name is IGDirectGetPresenceQuery
+12-16 15:15:33.660 30377 30377 W PresenceStore: notify new presence state
+12-16 15:15:33.661 30377 30873 W DirectInboxStateStore: inboxStateUpdated - num_of_threads: 15
+12-16 15:15:34.094 30377 30377 W PresenceStore: notify new presence state
+12-16 15:15:34.362  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:15:34.363  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:15:34.370  4926 26198 W SystemServiceRegistry: No service published for: wifirtt
+12-16 15:15:34.521  4926  5820 I ActivityScheduler: nextTriggerTime: 59917800, in 159924ms, detectorType: 39, FULL_TYPE alarmWindowMillis: 30000
+12-16 15:15:38.662 30377 30873 W DirectInboxStateStore: inboxStateUpdated - num_of_threads: 15
+12-16 15:15:41.295 26208 26404 I c.aphu  : Obtained writable database SQLiteDatabase/163844766 instance with path /data/user/0/com.google.android.calendar/files/tasks/3faa0484-fff8-3cca-8a69-c6e80734bb68/data.db
+12-16 15:15:41.297 26208 26402 I c.aphu  : Obtained writable database SQLiteDatabase/58153365 instance with path /data/user/0/com.google.android.calendar/files/tasks/be537baf-5c08-3946-908b-ada75647f54c/data.db
+12-16 15:15:41.300 26208 26403 I c.aphu  : Obtained writable database SQLiteDatabase/100497051 instance with path /data/user/0/com.google.android.calendar/files/tasks/15fbe1fe-f815-389d-a68c-8c6d26312797/data.db
+12-16 15:15:41.302 26208 26297 I c.apga  : The schema version is 10, the database version is 10, and there are 0 migrations
+12-16 15:15:41.303 26208 26297 I c.apga  : The schema version is 10, the database version is 10, and there are 0 migrations
+12-16 15:15:41.304 26208 26406 I c.aphu  : Obtained writable database SQLiteDatabase/173818239 instance with path /data/user/0/com.google.android.calendar/files/tasks/46dabc00-f3a0-3365-b253-b22710a12229/data.db
+12-16 15:15:41.305 26208 26401 I c.aphu  : Obtained writable database SQLiteDatabase/120694 instance with path /data/user/0/com.google.android.calendar/files/tasks/2bc4fe32-bd15-37b3-a6e6-2355ba7b4761/data.db
+12-16 15:15:41.306 26208 26405 I c.aphu  : Obtained writable database SQLiteDatabase/196272503 instance with path /data/user/0/com.google.android.calendar/files/tasks/1b50b9c3-ef60-34e2-aac0-85d12e1e2258/data.db
+12-16 15:15:41.307 26208 26408 I c.aphu  : Obtained writable database SQLiteDatabase/19657986 instance with path /data/user/0/com.google.android.calendar/files/tasks/6a5f66de-8855-3061-b3ad-611a070d5087/data.db
+12-16 15:15:41.309 26208 26400 I c.aphu  : Obtained writable database SQLiteDatabase/99229203 instance with path /data/user/0/com.google.android.calendar/files/tasks/05a27bd9-66b9-3bad-b047-01c2e9d0cde8/data.db
+12-16 15:15:41.309 26208 26352 I c.apga  : The schema version is 10, the database version is 10, and there are 0 migrations
+12-16 15:15:41.311 26208 26399 I c.aphu  : Obtained writable database SQLiteDatabase/83876425 instance with path /data/user/0/com.google.android.calendar/files/tasks/8ff2e692-438b-3c51-8a74-56317876f25f/data.db
+12-16 15:15:41.312 26208 26352 I c.apga  : The schema version is 10, the database version is 10, and there are 0 migrations
+12-16 15:15:41.315 26208 26262 I c.apga  : The schema version is 10, the database version is 10, and there are 0 migrations
+12-16 15:15:41.316 26208 26392 I c.apga  : The schema version is 10, the database version is 10, and there are 0 migrations
+12-16 15:15:41.320 26208 26297 I c.apga  : The schema version is 10, the database version is 10, and there are 0 migrations
+12-16 15:15:41.320 26208 26297 I c.apga  : The schema version is 10, the database version is 10, and there are 0 migrations
+12-16 15:15:41.328 26208 26392 I c.apga  : The schema version is 10, the database version is 10, and there are 0 migrations
+12-16 15:15:41.332 26208 26407 I c.aphu  : Obtained writable database SQLiteDatabase/165419388 instance with path /data/user/0/com.google.android.calendar/files/tasks/5d3c20d8-dee0-3715-bd48-ae45cb6d0e0c/data.db
+12-16 15:15:41.338 26208 26392 I c.apga  : The schema version is 10, the database version is 10, and there are 0 migrations
+12-16 15:15:54.380  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:15:54.382  4926  5820 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-16 15:15:54.389  4926 26445 W SystemServiceRegistry: No service published for: wifirtt
+12-16 15:15:54.442  4926  5820 I ActivityScheduler: nextTriggerTime: 59917800, in 140003ms, detectorType: 39, FULL_TYPE alarmWindowMillis: 30000
+12-16 15:15:55.223 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:15:55.223 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:15:55.223 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:15:55.223 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:15:55.223 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:15:55.223 30377 25623 W MediaCodecSelectorHelper: Unexpected mime type audio/mp4a-latm
+12-16 15:15:57.410  1534  6342 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent

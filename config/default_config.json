@@ -1,0 +1,19 @@
+{
+  "timer_interval": 30,
+  "max_display_lines": 5000,
+  "max_batch_size": 10000,
+  "auto_scroll": true,
+  "font_family": "Courier New",
+  "font_size": 10,
+  "color_scheme": {
+    "verbose": "#666666",
+    "debug": "#ADD8E6",
+    "info": "#FFFFFF",
+    "warning": "#FFA500",
+    "error": "#FF0000",
+    "fatal": "#8B0000"
+  },
+  "filter_profiles": {},
+  "export_directory": "logs",
+  "log_level": "INFO"
+}

@@ -1,0 +1,8 @@
+--------- beginning of main
+11-27 16:40:54.245 21250 10713 I JSWatchdogManager: updateStallTime: 68700381
+11-27 16:40:55.247 21250 10713 I JSWatchdogManager: updateStallTime: 68701384
+11-27 16:40:56.247 21250 10713 I JSWatchdogManager: updateStallTime: 68702384
+11-27 16:40:56.960 29731 30727 E KT      : Network error
+11-27 16:40:57.243 21250 10713 I JSWatchdogManager: updateStallTime: 68703380
+11-27 16:40:58.237 21250 10713 I JSWatchdogManager: updateStallTime: 68704374
+11-27 16:40:59.239 21250 10713 I JSWatchdogManager: updateStallTime: 68705376

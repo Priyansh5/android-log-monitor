@@ -1,0 +1,19 @@
+{
+  "levels": {
+    "ERROR": true,
+    "FATAL": true,
+    "WARN": true,
+    "INFO": true,
+    "DEBUG": true,
+    "VERBOSE": true
+  },
+  "tags": [
+    "OkHttp",
+    "Retrofit",
+    "Volley",
+    "NetworkSecurityConfig"
+  ],
+  "keywords": [],
+  "exclude_tags": [],
+  "regex_enabled": false
+}

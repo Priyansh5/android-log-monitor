@@ -1,0 +1,792 @@
+--------- beginning of main
+11-09 15:02:15.256  8279 10794 V SQLiteTime: /data/user/0/com.facebook.katana/databases/time_in_app_100005622995443.db: "SELECT
+11-09 15:02:15.256  8279 10794 V SQLiteTime:           seq_num,
+11-09 15:02:15.256  8279 10794 V SQLiteTime:           start_walltime,
+11-09 15:02:15.256  8279 10794 V SQLiteTime:           start_uptime,
+11-09 15:02:15.256  8279 10794 V SQLiteTime:           start_event,
+11-09 15:02:15.256  8279 10794 V SQLiteTime:           end_walltime,
+11-09 15:02:15.256  8279 10794 V SQLiteTime:           end_uptime,
+11-09 15:02:15.256  8279 10794 V SQLiteTime:           end_event
+11-09 15:02:15.256  8279 10794 V SQLiteTime:         FROM intervals WHERE start_walltime < ? AND end_walltime > ?" took 0.000 ms
+11-09 15:02:15.257  8279 10794 D SQLiteCursor: received count(*) from native_fill_window: 0
+11-09 15:02:15.359 25275 11177 V SQLiteTime: /data/user/0/com.discord/databases/exoplayer_internal.db: "INSERT OR REPLACE  INTO ExoPlayerCacheFileMetadata38912964b0f6f468(length,last_touch_timestamp,name) VALUES (?,?,?)" took 4.000 ms
+11-09 15:02:15.497 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1195, bufferIndex = 0.
+11-09 15:02:15.497 25275  9944 D BufferPoolAccessor2.0: bufferpool2 0xb400007d318dcac8 : 5(614400 size) total buffers - 5(614400 size) used buffers - 1195/1200 (recycle/alloc) - 5/1201 (fetch/transfer)
+11-09 15:02:15.498 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1196, bufferIndex = 0.
+11-09 15:02:15.500 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 12, generation 25881602.
+11-09 15:02:15.501 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:15.501 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:15.502 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1197, bufferIndex = 0.
+11-09 15:02:15.503 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1198, bufferIndex = 0.
+11-09 15:02:15.504 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 4, generation 25881602.
+11-09 15:02:15.505 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 8, generation 25881602.
+11-09 15:02:15.551 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1199, bufferIndex = 0.
+11-09 15:02:15.553 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 13, generation 25881602.
+11-09 15:02:15.553 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 7, generation 25881602.
+11-09 15:02:15.553 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 14, generation 25881602.
+11-09 15:02:15.555 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1200, bufferIndex = 0.
+11-09 15:02:15.555 26076  5522 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-579713256: "SELECT "write_sequence_id"."row_id" FROM "write_sequence_id" LIMIT CAST(? AS INT)" took 1.000 ms
+11-09 15:02:15.556 26076  5522 D SQLiteCursor: received count(*) from native_fill_window: 1
+11-09 15:02:15.557 26076  5229 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.91279015: "SELECT "write_sequence_id"."row_id" FROM "write_sequence_id" LIMIT CAST(? AS INT)" took 0.000 ms
+11-09 15:02:15.557 26076  5229 D SQLiteCursor: received count(*) from native_fill_window: 1
+11-09 15:02:15.558 26076  5480 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.415918005: "SELECT "write_sequence_id"."row_id" FROM "write_sequence_id" LIMIT CAST(? AS INT)" took 0.000 ms
+11-09 15:02:15.558 26076  5480 D SQLiteCursor: received count(*) from native_fill_window: 1
+11-09 15:02:15.558 26076  5345 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.274609937: "SELECT "write_sequence_id"."row_id" FROM "write_sequence_id" LIMIT CAST(? AS INT)" took 0.000 ms
+11-09 15:02:15.559 26076  5345 D SQLiteCursor: received count(*) from native_fill_window: 1
+11-09 15:02:15.562 26076  5362 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-281013406: "SELECT "write_sequence_id"."row_id" FROM "write_sequence_id" LIMIT CAST(? AS INT)" took 4.000 ms
+11-09 15:02:15.562 26076  5362 D SQLiteCursor: received count(*) from native_fill_window: 1
+11-09 15:02:15.562 26076  5504 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-69065319: "SELECT "write_sequence_id"."row_id" FROM "write_sequence_id" LIMIT CAST(? AS INT)" took 0.000 ms
+11-09 15:02:15.563 26076  5405 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.1973805278: "SELECT "write_sequence_id"."row_id" FROM "write_sequence_id" LIMIT CAST(? AS INT)" took 1.000 ms
+11-09 15:02:15.563 26076  5405 D SQLiteCursor: received count(*) from native_fill_window: 1
+11-09 15:02:15.563 26076  5504 D SQLiteCursor: received count(*) from native_fill_window: 1
+11-09 15:02:15.737 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1201, bufferIndex = 0.
+11-09 15:02:15.738 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 6, generation 25881602.
+11-09 15:02:15.738 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1202, bufferIndex = 0.
+11-09 15:02:15.740 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1203, bufferIndex = 0.
+11-09 15:02:15.740 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 5, generation 25881602.
+11-09 15:02:15.741 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1204, bufferIndex = 0.
+11-09 15:02:15.741 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 10, generation 25881602.
+11-09 15:02:15.742 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 11, generation 25881602.
+11-09 15:02:15.765 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1205, bufferIndex = 0.
+11-09 15:02:15.766 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 9, generation 25881602.
+11-09 15:02:15.767 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1206, bufferIndex = 0.
+11-09 15:02:15.794 26076  5527 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-1253410356: "SELECT "write_sequence_id"."row_id" FROM "write_sequence_id" LIMIT CAST(? AS INT)" took 0.000 ms
+11-09 15:02:15.795 26076  5527 D SQLiteCursor: received count(*) from native_fill_window: 1
+11-09 15:02:16.088 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1207, bufferIndex = 0.
+11-09 15:02:16.093 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 15, generation 25881602.
+11-09 15:02:16.093 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 17, generation 25881602.
+11-09 15:02:16.094 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 19, generation 25881602.
+11-09 15:02:16.094 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 1, generation 25881602.
+11-09 15:02:16.095 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1208, bufferIndex = 0.
+11-09 15:02:16.097 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1209, bufferIndex = 0.
+11-09 15:02:16.097 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1210, bufferIndex = 0.
+11-09 15:02:16.099 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1211, bufferIndex = 0.
+11-09 15:02:16.101 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 0, generation 25881602.
+11-09 15:02:16.107 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1212, bufferIndex = 0.
+11-09 15:02:16.110 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 2, generation 25881602.
+11-09 15:02:16.110 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 3, generation 25881602.
+11-09 15:02:16.325 10951 10951 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.common.telemetry.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.PersistentApiService }
+11-09 15:02:16.351 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1213, bufferIndex = 0.
+11-09 15:02:16.353 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 16, generation 25881602.
+11-09 15:02:16.354 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1214, bufferIndex = 0.
+11-09 15:02:16.355 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 4, generation 25881602.
+11-09 15:02:16.357 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1215, bufferIndex = 0.
+11-09 15:02:16.358 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1216, bufferIndex = 0.
+11-09 15:02:16.367 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1217, bufferIndex = 0.
+11-09 15:02:16.369 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 12, generation 25881602.
+11-09 15:02:16.369 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 8, generation 25881602.
+11-09 15:02:16.388 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1218, bufferIndex = 0.
+11-09 15:02:16.392 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 18, generation 25881602.
+11-09 15:02:16.392 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 7, generation 25881602.
+11-09 15:02:16.393 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 13, generation 25881602.
+11-09 15:02:16.413 11110 11189 D ProfileInstaller: Installing profile for com.google.android.gsf
+11-09 15:02:16.466 25275  9819 D okhttp.TaskRunner: Q10014 starting              : OkHttp ConnectionPool
+11-09 15:02:16.473 25275  6828 D okhttp.Http2: >> 0x00000000     8 GOAWAY        
+11-09 15:02:16.473 25275  9819 D okhttp.TaskRunner: Q10014 run again after   0 µs: OkHttp ConnectionPool
+11-09 15:02:16.473 25275  9819 D okhttp.TaskRunner: Q10014 finished run in   8 ms: OkHttp ConnectionPool
+11-09 15:02:16.474 25275  9819 D okhttp.TaskRunner: Q10014 starting              : OkHttp ConnectionPool
+11-09 15:02:16.474 25275  6828 D okhttp.TaskRunner: Q10423 finished run in 300 s : OkHttp latency.discord.media
+11-09 15:02:16.474 25275  9819 D okhttp.TaskRunner: Q10014 run again after 247 s : OkHttp ConnectionPool
+11-09 15:02:16.475 25275  9819 D okhttp.TaskRunner: Q10014 finished run in   1 ms: OkHttp ConnectionPool
+11-09 15:02:16.601 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1219, bufferIndex = 0.
+11-09 15:02:16.602 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1220, bufferIndex = 0.
+11-09 15:02:16.602 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 14, generation 25881602.
+11-09 15:02:16.604 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1221, bufferIndex = 0.
+11-09 15:02:16.604 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 10, generation 25881602.
+11-09 15:02:16.605 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1222, bufferIndex = 0.
+11-09 15:02:16.613 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1223, bufferIndex = 0.
+11-09 15:02:16.615 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 5, generation 25881602.
+11-09 15:02:16.615 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 11, generation 25881602.
+11-09 15:02:16.616 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 6, generation 25881602.
+11-09 15:02:16.617 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1224, bufferIndex = 0.
+11-09 15:02:16.654 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:16.654 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:16.982 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1225, bufferIndex = 0.
+11-09 15:02:16.983 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1226, bufferIndex = 0.
+11-09 15:02:16.984 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1227, bufferIndex = 0.
+11-09 15:02:16.988 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 17, generation 25881602.
+11-09 15:02:16.988 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 15, generation 25881602.
+11-09 15:02:16.988 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 19, generation 25881602.
+11-09 15:02:16.989 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 9, generation 25881602.
+11-09 15:02:16.989 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1228, bufferIndex = 0.
+11-09 15:02:17.005 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1229, bufferIndex = 0.
+11-09 15:02:17.006 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1230, bufferIndex = 0.
+11-09 15:02:17.008 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 2, generation 25881602.
+11-09 15:02:17.102 11060 11190 D ProfileInstaller: Installing profile for com.google.android.gsf
+11-09 15:02:17.200 25275 11191 V SQLiteTime: /data/user/0/com.discord/databases/exoplayer_internal.db: "INSERT OR REPLACE  INTO ExoPlayerCacheFileMetadata38912964b0f6f468(length,last_touch_timestamp,name) VALUES (?,?,?)" took 4.000 ms
+11-09 15:02:17.219 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1231, bufferIndex = 0.
+11-09 15:02:17.225 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 0, generation 25881602.
+11-09 15:02:17.225 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 3, generation 25881602.
+11-09 15:02:17.226 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 1, generation 25881602.
+11-09 15:02:17.231 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1232, bufferIndex = 0.
+11-09 15:02:17.233 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1233, bufferIndex = 0.
+11-09 15:02:17.234 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 12, generation 25881602.
+11-09 15:02:17.234 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1234, bufferIndex = 0.
+11-09 15:02:17.235 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1235, bufferIndex = 0.
+11-09 15:02:17.261 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1236, bufferIndex = 0.
+11-09 15:02:17.263 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 4, generation 25881602.
+11-09 15:02:17.263 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 8, generation 25881602.
+11-09 15:02:17.271 25275 11193 V SQLiteTime: /data/user/0/com.discord/databases/exoplayer_internal.db: "INSERT OR REPLACE  INTO ExoPlayerCacheFileMetadata38912964b0f6f468(length,last_touch_timestamp,name) VALUES (?,?,?)" took 9.000 ms
+11-09 15:02:17.299 25275 11196 V SQLiteTime: /data/user/0/com.discord/databases/exoplayer_internal.db: "INSERT OR REPLACE  INTO ExoPlayerCacheFileMetadata38912964b0f6f468(length,last_touch_timestamp,name) VALUES (?,?,?)" took 4.000 ms
+11-09 15:02:17.331 25275 11197 V SQLiteTime: /data/user/0/com.discord/databases/exoplayer_internal.db: "INSERT OR REPLACE  INTO ExoPlayerCacheFileMetadata38912964b0f6f468(length,last_touch_timestamp,name) VALUES (?,?,?)" took 5.000 ms
+11-09 15:02:17.364 25275 11198 V SQLiteTime: /data/user/0/com.discord/databases/exoplayer_internal.db: "INSERT OR REPLACE  INTO ExoPlayerCacheFileMetadata38912964b0f6f468(length,last_touch_timestamp,name) VALUES (?,?,?)" took 4.000 ms
+11-09 15:02:17.391 25275 11199 V SQLiteTime: /data/user/0/com.discord/databases/exoplayer_internal.db: "INSERT OR REPLACE  INTO ExoPlayerCacheFileMetadata38912964b0f6f468(length,last_touch_timestamp,name) VALUES (?,?,?)" took 5.000 ms
+11-09 15:02:17.415 25275 11200 V SQLiteTime: /data/user/0/com.discord/databases/exoplayer_internal.db: "INSERT OR REPLACE  INTO ExoPlayerCacheFileMetadata38912964b0f6f468(length,last_touch_timestamp,name) VALUES (?,?,?)" took 3.000 ms
+11-09 15:02:17.573 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1237, bufferIndex = 0.
+11-09 15:02:17.578 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 16, generation 25881602.
+11-09 15:02:17.578 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 7, generation 25881602.
+11-09 15:02:17.578 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 18, generation 25881602.
+11-09 15:02:17.579 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 13, generation 25881602.
+11-09 15:02:17.579 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1238, bufferIndex = 0.
+11-09 15:02:17.580 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1239, bufferIndex = 0.
+11-09 15:02:17.580 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1240, bufferIndex = 0.
+11-09 15:02:17.588 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1241, bufferIndex = 0.
+11-09 15:02:17.589 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 5, generation 25881602.
+11-09 15:02:17.590 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 10, generation 25881602.
+11-09 15:02:17.591 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 11, generation 25881602.
+11-09 15:02:17.591 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1242, bufferIndex = 0.
+11-09 15:02:17.673 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:17.674 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:17.674 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:17.675 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:17.836 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 14, generation 25881602.
+11-09 15:02:17.837 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1243, bufferIndex = 0.
+11-09 15:02:17.837 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1245, bufferIndex = 0.
+11-09 15:02:17.838 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 15, generation 25881602.
+11-09 15:02:17.840 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 17, generation 25881602.
+11-09 15:02:17.840 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 19, generation 25881602.
+11-09 15:02:17.840 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1246, bufferIndex = 0.
+11-09 15:02:17.856 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 6, generation 25881602.
+11-09 15:02:17.856 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1247, bufferIndex = 0.
+11-09 15:02:17.857 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1248, bufferIndex = 0.
+11-09 15:02:18.107 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1249, bufferIndex = 0.
+11-09 15:02:18.108 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 0, generation 25881602.
+11-09 15:02:18.109 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1250, bufferIndex = 0.
+11-09 15:02:18.111 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 2, generation 25881602.
+11-09 15:02:18.111 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 3, generation 25881602.
+11-09 15:02:18.112 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1251, bufferIndex = 0.
+11-09 15:02:18.113 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 9, generation 25881602.
+11-09 15:02:18.113 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1252, bufferIndex = 0.
+11-09 15:02:18.124 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1253, bufferIndex = 0.
+11-09 15:02:18.125 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 4, generation 25881602.
+11-09 15:02:18.126 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1254, bufferIndex = 0.
+11-09 15:02:18.468 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1255, bufferIndex = 0.
+11-09 15:02:18.474 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 12, generation 25881602.
+11-09 15:02:18.475 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 8, generation 25881602.
+11-09 15:02:18.475 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 1, generation 25881602.
+11-09 15:02:18.475 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 7, generation 25881602.
+11-09 15:02:18.475 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 16, generation 25881602.
+11-09 15:02:18.476 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1256, bufferIndex = 0.
+11-09 15:02:18.476 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 18, generation 25881602.
+11-09 15:02:18.477 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1257, bufferIndex = 0.
+11-09 15:02:18.477 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1258, bufferIndex = 0.
+11-09 15:02:18.479 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1259, bufferIndex = 0.
+11-09 15:02:18.494 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1260, bufferIndex = 0.
+11-09 15:02:18.495 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 10, generation 25881602.
+11-09 15:02:18.580 27148 27148 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.pay.service.BIND dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsApiService }
+11-09 15:02:18.741 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 5, generation 25881602.
+11-09 15:02:18.741 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 11, generation 25881602.
+11-09 15:02:18.742 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1261, bufferIndex = 0.
+11-09 15:02:18.742 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1262, bufferIndex = 0.
+11-09 15:02:18.744 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1263, bufferIndex = 0.
+11-09 15:02:18.744 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 13, generation 25881602.
+11-09 15:02:18.745 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1264, bufferIndex = 0.
+11-09 15:02:18.745 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 17, generation 25881602.
+11-09 15:02:18.754 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:18.755 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:18.761 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1265, bufferIndex = 0.
+11-09 15:02:18.763 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 15, generation 25881602.
+11-09 15:02:18.763 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 19, generation 25881602.
+11-09 15:02:18.765 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 14, generation 25881602.
+11-09 15:02:18.765 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1266, bufferIndex = 0.
+11-09 15:02:19.089 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1267, bufferIndex = 0.
+11-09 15:02:19.091 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1268, bufferIndex = 0.
+11-09 15:02:19.094 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 2, generation 25881602.
+11-09 15:02:19.095 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 0, generation 25881602.
+11-09 15:02:19.095 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 3, generation 25881602.
+11-09 15:02:19.095 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 6, generation 25881602.
+11-09 15:02:19.096 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1269, bufferIndex = 0.
+11-09 15:02:19.097 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1270, bufferIndex = 0.
+11-09 15:02:19.108 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1271, bufferIndex = 0.
+11-09 15:02:19.109 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1272, bufferIndex = 0.
+11-09 15:02:19.110 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 12, generation 25881602.
+11-09 15:02:19.348 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1273, bufferIndex = 0.
+11-09 15:02:19.350 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1274, bufferIndex = 0.
+11-09 15:02:19.351 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 4, generation 25881602.
+11-09 15:02:19.352 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 8, generation 25881602.
+11-09 15:02:19.353 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1275, bufferIndex = 0.
+11-09 15:02:19.355 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 9, generation 25881602.
+11-09 15:02:19.355 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 7, generation 25881602.
+11-09 15:02:19.355 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 1, generation 25881602.
+11-09 15:02:19.357 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1276, bufferIndex = 0.
+11-09 15:02:19.364 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 16, generation 25881602.
+11-09 15:02:19.365 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1277, bufferIndex = 0.
+11-09 15:02:19.367 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1278, bufferIndex = 0.
+11-09 15:02:19.610 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 5, generation 25881602.
+11-09 15:02:19.611 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1279, bufferIndex = 0.
+11-09 15:02:19.613 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 10, generation 25881602.
+11-09 15:02:19.614 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1280, bufferIndex = 0.
+11-09 15:02:19.615 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 11, generation 25881602.
+11-09 15:02:19.623 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 18, generation 25881602.
+11-09 15:02:19.624 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1281, bufferIndex = 0.
+11-09 15:02:19.625 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1282, bufferIndex = 0.
+11-09 15:02:19.625 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1283, bufferIndex = 0.
+11-09 15:02:19.626 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 15, generation 25881602.
+11-09 15:02:19.629 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 17, generation 25881602.
+11-09 15:02:19.629 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 19, generation 25881602.
+11-09 15:02:19.629 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1284, bufferIndex = 0.
+11-09 15:02:19.820 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:19.821 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:19.822 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:19.823 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:19.823 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:19.824 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:19.989 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 13, generation 25881602.
+11-09 15:02:19.989 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1285, bufferIndex = 0.
+11-09 15:02:19.990 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1286, bufferIndex = 0.
+11-09 15:02:19.991 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1287, bufferIndex = 0.
+11-09 15:02:19.992 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 0, generation 25881602.
+11-09 15:02:19.993 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 2, generation 25881602.
+11-09 15:02:19.993 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 3, generation 25881602.
+11-09 15:02:19.993 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1288, bufferIndex = 0.
+11-09 15:02:20.009 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1289, bufferIndex = 0.
+11-09 15:02:20.010 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 14, generation 25881602.
+11-09 15:02:20.011 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1290, bufferIndex = 0.
+11-09 15:02:20.225 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1291, bufferIndex = 0.
+11-09 15:02:20.226 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1292, bufferIndex = 0.
+11-09 15:02:20.227 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 4, generation 25881602.
+11-09 15:02:20.228 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1293, bufferIndex = 0.
+11-09 15:02:20.229 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 12, generation 25881602.
+11-09 15:02:20.229 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 8, generation 25881602.
+11-09 15:02:20.230 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1294, bufferIndex = 0.
+11-09 15:02:20.232 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 6, generation 25881602.
+11-09 15:02:20.233 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 7, generation 25881602.
+11-09 15:02:20.233 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 9, generation 25881602.
+11-09 15:02:20.244 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1295, bufferIndex = 0.
+11-09 15:02:20.246 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 1, generation 25881602.
+11-09 15:02:20.247 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1296, bufferIndex = 0.
+11-09 15:02:20.607 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1297, bufferIndex = 0.
+11-09 15:02:20.609 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1298, bufferIndex = 0.
+11-09 15:02:20.609 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 10, generation 25881602.
+11-09 15:02:20.610 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1299, bufferIndex = 0.
+11-09 15:02:20.613 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 5, generation 25881602.
+11-09 15:02:20.613 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 11, generation 25881602.
+11-09 15:02:20.613 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 16, generation 25881602.
+11-09 15:02:20.613 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1300, bufferIndex = 0.
+11-09 15:02:20.624 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1301, bufferIndex = 0.
+11-09 15:02:20.625 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1302, bufferIndex = 0.
+11-09 15:02:20.626 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 17, generation 25881602.
+11-09 15:02:20.840 26076  4986 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-255359189: "SELECT "write_sequence_id"."row_id" FROM "write_sequence_id" LIMIT CAST(? AS INT)" took 0.000 ms
+11-09 15:02:20.841 26076  4986 D SQLiteCursor: received count(*) from native_fill_window: 1
+11-09 15:02:20.857 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 15, generation 25881602.
+11-09 15:02:20.858 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 19, generation 25881602.
+11-09 15:02:20.858 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1303, bufferIndex = 0.
+11-09 15:02:20.858 25275  9944 D BufferPoolAccessor2.0: bufferpool2 0xb400007d318dcac8 : 5(614400 size) total buffers - 5(614400 size) used buffers - 1303/1308 (recycle/alloc) - 5/1309 (fetch/transfer)
+11-09 15:02:20.859 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 18, generation 25881602.
+11-09 15:02:20.860 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1304, bufferIndex = 0.
+11-09 15:02:20.860 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1305, bufferIndex = 0.
+11-09 15:02:20.861 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1306, bufferIndex = 0.
+11-09 15:02:20.861 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 2, generation 25881602.
+11-09 15:02:20.870 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1307, bufferIndex = 0.
+11-09 15:02:20.872 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 0, generation 25881602.
+11-09 15:02:20.872 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 3, generation 25881602.
+11-09 15:02:20.872 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1308, bufferIndex = 0.
+11-09 15:02:20.873 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 13, generation 25881602.
+11-09 15:02:20.896 10951 10974 I .gms.persistent: Background concurrent copying GC freed 11MB AllocSpace bytes, 112(3232KB) LOS objects, 49% free, 7295KB/14MB, paused 103us,34us total 115.390ms
+11-09 15:02:21.072 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:21.073 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:21.073 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:21.073 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:21.074 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:21.074 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:21.126 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1309, bufferIndex = 0.
+11-09 15:02:21.128 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1310, bufferIndex = 0.
+11-09 15:02:21.129 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 12, generation 25881602.
+11-09 15:02:21.130 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1311, bufferIndex = 0.
+11-09 15:02:21.132 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1312, bufferIndex = 0.
+11-09 15:02:21.133 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 4, generation 25881602.
+11-09 15:02:21.133 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 8, generation 25881602.
+11-09 15:02:21.161 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 14, generation 25881602.
+11-09 15:02:21.162 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 7, generation 25881602.
+11-09 15:02:21.162 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 6, generation 25881602.
+11-09 15:02:21.162 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1313, bufferIndex = 0.
+11-09 15:02:21.163 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1314, bufferIndex = 0.
+11-09 15:02:21.293 10951 11000 I NearbyConnections: Client (2937017) 0p:com.google.android.gms.magictether.nearby disconnecting
+11-09 15:02:21.294 10951 11000 I Nearby  : (REDACTED) Successfully shutdown executor %s.
+11-09 15:02:21.296 10951 11103 I NearbyConnections: Because they unbound from our service, all state for client 2937017 will now be cleaned up.
+11-09 15:02:21.303 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.306 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.309 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.310 10951 11103 I Nearby  : (REDACTED) Successfully shutdown executor %s.
+11-09 15:02:21.313 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.315 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.317 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.318 10951 11103 I Nearby  : (REDACTED) Successfully shutdown executor %s.
+11-09 15:02:21.319 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.321 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.323 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.324 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.325 10951 11103 I Nearby  : (REDACTED) Successfully shutdown executor %s.
+11-09 15:02:21.326 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.326 10951 11103 I Nearby  : (REDACTED) Successfully shutdown executor %s.
+11-09 15:02:21.327 10951 11103 I Nearby  : (REDACTED) Successfully shutdown executor %s.
+11-09 15:02:21.327 10951 11103 I Nearby  : (REDACTED) Successfully shutdown executor %s.
+11-09 15:02:21.327 10951 11103 I Nearby  : (REDACTED) Successfully shutdown executor %s.
+11-09 15:02:21.327 10951 11103 I Nearby  : (REDACTED) Successfully shutdown executor %s.
+11-09 15:02:21.327 10951 11103 I Nearby  : (REDACTED) Successfully shutdown executor %s.
+11-09 15:02:21.328 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.330 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.331 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.331 10951 11103 I Nearby  : (REDACTED) Successfully shutdown executor %s.
+11-09 15:02:21.332 10951 10979 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 99910156; state: ENABLED
+11-09 15:02:21.333 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.335 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.336 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.337 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.338 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.339 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.340 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.341 10951 11045 W LogErrorOperation: onLogError callback failed.
+11-09 15:02:21.341 11060 11076 D SQLiteQueryBuilder: SELECT value FROM partner WHERE ((name=?))
+11-09 15:02:21.345 11060 11076 V SQLiteTime: /data/user/999/com.google.android.gsf/databases/googlesettings.db: "SELECT value FROM partner WHERE ((name=?))" took 0.000 ms
+11-09 15:02:21.345 11060 11076 D SQLiteCursor: received count(*) from native_fill_window: 1
+11-09 15:02:21.345 11060 11076 D CursorWindow: Writing to parcel: CursorWindow{name=/data/user/999/com.google.android.gsf/databases/googlesettings.db, fd=-1, size=16384, inflatedSize=2097152, allocOffset=4, slotsOffset=16368, numRows=1, numColumns=1}
+11-09 15:02:21.346 10951 10979 D CursorWindow: Created from parcel: CursorWindow{name=/data/user/999/com.google.android.gsf/databases/googlesettings.db, fd=-1, size=20, inflatedSize=20, allocOffset=0, slotsOffset=0, numRows=1, numColumns=1}
+11-09 15:02:21.477 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1315, bufferIndex = 0.
+11-09 15:02:21.478 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 9, generation 25881602.
+11-09 15:02:21.478 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1316, bufferIndex = 0.
+11-09 15:02:21.479 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1317, bufferIndex = 0.
+11-09 15:02:21.480 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1318, bufferIndex = 0.
+11-09 15:02:21.482 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 5, generation 25881602.
+11-09 15:02:21.482 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 10, generation 25881602.
+11-09 15:02:21.483 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 11, generation 25881602.
+11-09 15:02:21.497 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 1, generation 25881602.
+11-09 15:02:21.497 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1319, bufferIndex = 0.
+11-09 15:02:21.498 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1320, bufferIndex = 0.
+11-09 15:02:21.681 10064 10288 W Binder  : Caught a RuntimeException from the binder stub implementation.
+11-09 15:02:21.681 10064 10288 W Binder  : java.lang.UnsupportedOperationException
+11-09 15:02:21.681 10064 10288 W Binder  : 	at bzxa.a(PG:3)
+11-09 15:02:21.681 10064 10288 W Binder  : 	at bzxa.dispatchTransaction(PG:33)
+11-09 15:02:21.681 10064 10288 W Binder  : 	at pxy.onTransact(PG:13)
+11-09 15:02:21.681 10064 10288 W Binder  : 	at android.os.Binder.execTransactInternal(Binder.java:1410)
+11-09 15:02:21.681 10064 10288 W Binder  : 	at android.os.Binder.execTransact(Binder.java:1341)
+11-09 15:02:21.687 27076 27076 D SQLiteConnectionPool: Closed idle connection /data/user/0/com.google.android.gms/databases/phenotype.db 204 after 30000
+11-09 15:02:21.688 27076 10582 V SQLiteTime: /data/user/0/com.google.android.gms/databases/phenotype.db: "BEGIN;" took 0.000 ms
+11-09 15:02:21.688 27076 10582 V SQLiteTime: /data/user/0/com.google.android.gms/databases/phenotype.db: "PRAGMA user_version;" took 0.000 ms
+11-09 15:02:21.689 27076 10582 V SQLiteTime: /data/user/0/com.google.android.gms/databases/phenotype.db: "SELECT EXISTS(
+11-09 15:02:21.689 27076 10582 V SQLiteTime:   SELECT NULL
+11-09 15:02:21.689 27076 10582 V SQLiteTime:   FROM experiment_states_to_overrides
+11-09 15:02:21.689 27076 10582 V SQLiteTime:   CROSS JOIN config_packages
+11-09 15:02:21.689 27076 10582 V SQLiteTime:     ON committed_experiment_state_id IS experiment_state_id
+11-09 15:02:21.689 27076 10582 V SQLiteTime:   CROSS JOIN flag_overrides
+11-09 15:02:21.689 27076 10582 V SQLiteTime:     USING (override_id)
+11-09 15:02:21.689 27076 10582 V SQLiteTime:   WHERE flag_overrides.active IS 1
+11-09 15:02:21.689 27076 10582 V SQLiteTime: );" took 0.000 ms
+11-09 15:02:21.689 27076 27076 D SQLiteConnectionPool: Closed idle connection /data/user/0/com.google.android.gms/databases/phenotype.db 205 after 30000
+11-09 15:02:21.690 27076 10582 V SQLiteTime: /data/user/0/com.google.android.gms/databases/phenotype.db: "SELECT EXISTS(SELECT NULL FROM sqlite_temp_master WHERE name = ? AND type = 'table');" took 0.000 ms
+11-09 15:02:21.691 27076 10582 V SQLiteTime: /data/user/0/com.google.android.gms/databases/phenotype.db: "CREATE TEMP TABLE GetExperimentsTokensTempExcludedNames(
+11-09 15:02:21.691 27076 10582 V SQLiteTime: excluded_name TEXT PRIMARY KEY
+11-09 15:02:21.691 27076 10582 V SQLiteTime: ) WITHOUT ROWID;" took 0.000 ms
+11-09 15:02:21.691 27076 10582 V SQLiteTime: /data/user/0/com.google.android.gms/databases/phenotype.db: "INSERT INTO GetExperimentsTokensTempExcludedNames VALUES (?)" took 0.000 ms
+11-09 15:02:21.691 27076 10582 V SQLiteTime: /data/user/0/com.google.android.gms/databases/phenotype.db: "INSERT INTO GetExperimentsTokensTempExcludedNames VALUES (?)" took 0.000 ms
+11-09 15:02:21.691 27076 10582 V SQLiteTime: /data/user/0/com.google.android.gms/databases/phenotype.db: "INSERT INTO GetExperimentsTokensTempExcludedNames VALUES (?)" took 0.000 ms
+11-09 15:02:21.692 27076 10582 V SQLiteTime: /data/user/0/com.google.android.gms/databases/phenotype.db: "INSERT INTO GetExperimentsTokensTempExcludedNames VALUES (?)" took 0.000 ms
+11-09 15:02:21.692 27076 10582 V SQLiteTime: /data/user/0/com.google.android.gms/databases/phenotype.db: "INSERT INTO GetExperimentsTokensTempExcludedNames VALUES (?)" took 0.000 ms
+11-09 15:02:21.710 27076 10582 V SQLiteTime: /data/user/0/com.google.android.gms/databases/phenotype.db: "SELECT DISTINCT
+11-09 15:02:21.710 27076 10582 V SQLiteTime:   -1 AS type,
+11-09 15:02:21.710 27076 10582 V SQLiteTime:   IFNULL(accounts.name, '') AS account,
+11-09 15:02:21.710 27076 10582 V SQLiteTime:   filtered_states.experiment_token AS token,
+11-09 15:02:21.710 27076 10582 V SQLiteTime:   NULL AS external_token,
+11-09 15:02:21.710 27076 10582 V SQLiteTime:   weak_packed_experiment_ids AS weak_ids
+11-09 15:02:21.710 27076 10582 V SQLiteTime: FROM config_packages
+11-09 15:02:21.710 27076 10582 V SQLiteTime: INNER JOIN android_packages USING (android_package_id)
+11-09 15:02:21.710 27076 10582 V SQLiteTime: INNER JOIN config_packages_to_log_sources USING (config_package_id)
+11-09 15:02:21.710 27076 10582 V SQLiteTime: INNER JOIN log_sources USING (log_source_id)
+11-09 15:02:21.710 27076 10582 V SQLiteTime: LEFT JOIN experiment_states ON
+11-09 15:02:21.710 27076 10582 V SQLiteTime:   committed_experiment_state_id IS experiment_states.experiment_state_id
+11-09 15:02:21.710 27076 10582 V SQLiteTime: LEFT JOIN accounts USING (account_id)
+11-09 15:02:21.710 27076 10582 V SQLiteTime: LEFT JOIN experiment_states AS filtered_states ON
+11-09 15:02:21.710 27076 10582 V SQLiteTime:   experiment_states.experiment_state_id = filtered_states.experiment_state_id
+11-09 15:02:21.710 27076 10582 V SQLiteTime:   AND
+11-09 15:02:21.710 27076 10582 V SQLiteTime:   config_packages.name NOT IN (SELECT excluded_name FROM GetExperimentsTokensTempExcludedNames)
+11-09 15:02:21.710 27076 10582 V SQLiteTime: WHERE log_sources.name = ?1 AND android_packages.name = ?2
+11-09 15:02:21.710 27076 10582 V SQLiteTime: 
+11-09 15:02:21.710 27076 10582 V SQLiteTime: UNION ALL
+11-09 15:02:21.710 27076 10582 V SQLiteTime: 
+11-09 15:02:21.710 27076 10582 V SQLiteTime: /* External IDs */
+11-09 15:02:21.710 27076 10582 V SQLiteTime: SELECT DISTINCT
+11-09 15:02:21.710 27076 10582 V SQLiteTime:   -2 AS type,
+11-09 15:02:21.710 27076 10582 V SQLiteTime:   '' AS account,
+11-09 15:02:21.710 27076 10582 V SQLiteTime:   NULL AS token,
+11-09 15:02:21.710 27076 10582 V SQLiteTime:   NULL AS external_token,
+11-09 15:02:21.710 27076 10582 V SQLiteTime:   packed_experiments AS weak_ids
+11-09 15:02:21.710 27076 10582 V SQLiteTime: FROM e
+11-09 15:02:21.710 27076 10582 D SQLiteCursor: received count(*) from native_fill_window: 39
+11-09 15:02:21.711 27076 10582 V SQLiteTime: /data/user/0/com.google.android.gms/databases/phenotype.db: "DELETE FROM temp.GetExperimentsTokensTempExcludedNames" took 0.000 ms
+11-09 15:02:21.711 27076 10582 V SQLiteTime: /data/user/0/com.google.android.gms/databases/phenotype.db: "COMMIT;" took 0.000 ms
+11-09 15:02:21.734 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1321, bufferIndex = 0.
+11-09 15:02:21.735 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 15, generation 25881602.
+11-09 15:02:21.735 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1322, bufferIndex = 0.
+11-09 15:02:21.736 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 17, generation 25881602.
+11-09 15:02:21.737 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 19, generation 25881602.
+11-09 15:02:21.737 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1323, bufferIndex = 0.
+11-09 15:02:21.738 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 16, generation 25881602.
+11-09 15:02:21.738 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1324, bufferIndex = 0.
+11-09 15:02:21.758 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1325, bufferIndex = 0.
+11-09 15:02:21.760 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 0, generation 25881602.
+11-09 15:02:21.761 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1326, bufferIndex = 0.
+11-09 15:02:21.763 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 2, generation 25881602.
+11-09 15:02:21.764 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 3, generation 25881602.
+11-09 15:02:22.084 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1327, bufferIndex = 0.
+11-09 15:02:22.086 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 18, generation 25881602.
+11-09 15:02:22.087 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1328, bufferIndex = 0.
+11-09 15:02:22.088 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 4, generation 25881602.
+11-09 15:02:22.088 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1329, bufferIndex = 0.
+11-09 15:02:22.089 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1330, bufferIndex = 0.
+11-09 15:02:22.101 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 12, generation 25881602.
+11-09 15:02:22.102 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 8, generation 25881602.
+11-09 15:02:22.102 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1331, bufferIndex = 0.
+11-09 15:02:22.113 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1332, bufferIndex = 0.
+11-09 15:02:22.117 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 13, generation 25881602.
+11-09 15:02:22.117 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 7, generation 25881602.
+11-09 15:02:22.118 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 14, generation 25881602.
+11-09 15:02:22.173 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:22.173 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:22.365 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1333, bufferIndex = 0.
+11-09 15:02:22.365 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1334, bufferIndex = 0.
+11-09 15:02:22.366 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 6, generation 25881602.
+11-09 15:02:22.367 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1335, bufferIndex = 0.
+11-09 15:02:22.368 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 10, generation 25881602.
+11-09 15:02:22.368 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1336, bufferIndex = 0.
+11-09 15:02:22.393 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 5, generation 25881602.
+11-09 15:02:22.393 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 11, generation 25881602.
+11-09 15:02:22.394 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1337, bufferIndex = 0.
+11-09 15:02:22.394 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 9, generation 25881602.
+11-09 15:02:22.395 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1338, bufferIndex = 0.
+11-09 15:02:22.715 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1339, bufferIndex = 0.
+11-09 15:02:22.715 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1340, bufferIndex = 0.
+11-09 15:02:22.716 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 17, generation 25881602.
+11-09 15:02:22.717 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1341, bufferIndex = 0.
+11-09 15:02:22.717 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 15, generation 25881602.
+11-09 15:02:22.719 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 19, generation 25881602.
+11-09 15:02:22.719 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1342, bufferIndex = 0.
+11-09 15:02:22.720 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 1, generation 25881602.
+11-09 15:02:22.737 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1343, bufferIndex = 0.
+11-09 15:02:22.738 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1344, bufferIndex = 0.
+11-09 15:02:22.740 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 2, generation 25881602.
+11-09 15:02:22.959 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1345, bufferIndex = 0.
+11-09 15:02:22.960 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 0, generation 25881602.
+11-09 15:02:22.961 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 3, generation 25881602.
+11-09 15:02:22.961 25275 11210 V SQLiteTime: /data/user/0/com.discord/databases/exoplayer_internal.db: "INSERT OR REPLACE  INTO ExoPlayerCacheFileMetadata38912964b0f6f468(length,last_touch_timestamp,name) VALUES (?,?,?)" took 5.000 ms
+11-09 15:02:22.963 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 16, generation 25881602.
+11-09 15:02:22.963 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1346, bufferIndex = 0.
+11-09 15:02:22.965 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1347, bufferIndex = 0.
+11-09 15:02:22.965 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1348, bufferIndex = 0.
+11-09 15:02:22.966 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 12, generation 25881602.
+11-09 15:02:22.975 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1349, bufferIndex = 0.
+11-09 15:02:22.977 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 4, generation 25881602.
+11-09 15:02:22.977 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 8, generation 25881602.
+11-09 15:02:22.977 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1350, bufferIndex = 0.
+11-09 15:02:22.988 25275 11211 V SQLiteTime: /data/user/0/com.discord/databases/exoplayer_internal.db: "INSERT OR REPLACE  INTO ExoPlayerCacheFileMetadata38912964b0f6f468(length,last_touch_timestamp,name) VALUES (?,?,?)" took 3.000 ms
+11-09 15:02:23.017 25275 11212 V SQLiteTime: /data/user/0/com.discord/databases/exoplayer_internal.db: "INSERT OR REPLACE  INTO ExoPlayerCacheFileMetadata38912964b0f6f468(length,last_touch_timestamp,name) VALUES (?,?,?)" took 4.000 ms
+11-09 15:02:23.047 25275 11214 V SQLiteTime: /data/user/0/com.discord/databases/exoplayer_internal.db: "INSERT OR REPLACE  INTO ExoPlayerCacheFileMetadata38912964b0f6f468(length,last_touch_timestamp,name) VALUES (?,?,?)" took 4.000 ms
+11-09 15:02:23.141 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:23.142 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:23.232 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1351, bufferIndex = 0.
+11-09 15:02:23.233 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 18, generation 25881602.
+11-09 15:02:23.234 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 7, generation 25881602.
+11-09 15:02:23.234 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 13, generation 25881602.
+11-09 15:02:23.234 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1352, bufferIndex = 0.
+11-09 15:02:23.235 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1353, bufferIndex = 0.
+11-09 15:02:23.236 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 14, generation 25881602.
+11-09 15:02:23.237 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1354, bufferIndex = 0.
+11-09 15:02:23.248 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1355, bufferIndex = 0.
+11-09 15:02:23.249 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 5, generation 25881602.
+11-09 15:02:23.251 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 10, generation 25881602.
+11-09 15:02:23.252 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 11, generation 25881602.
+11-09 15:02:23.252 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1356, bufferIndex = 0.
+11-09 15:02:23.420 27076  9154 I NearbyMediums: Found BLE GATT Advertisements :
+11-09 15:02:23.420 27076  9154 I NearbyMediums: BleAdvertisement { version=2, socketVersion=2, isFast=false, serviceIdHash=[ 0xfc 0x9f 0x5e ], data=[ 0x23 0xfc 0x9f 0x5e 0x44 0x52 0x59 0x50 0x1f 0x06 0xa2 0x7d 0x9c 0xd8 0xea 0xfe 0xc0 0xb1 0x61 0xfa 0x45 0x4f 0x2d 0x36 0xbf 0xf2 0x0d 0x50 0x72 0x69 0x79 0x61 0x6e 0x73 0x68 0x27 0x73 0x20 0x50 0x43 0xf4 0xc8 0x8a 0x3d 0x80 0xcd 0x00 0x00 ], deviceToken=[ 0x18 0x9c ], rxAdvertisement=null } : 4 times.
+11-09 15:02:23.420 27076  9154 I NearbyMediums: Total 4 GATT advertisements from 1 unique advertisers.
+11-09 15:02:23.420 27076  9154 I NearbyMediums: Current Tracked Scanning Clients are : {NearbyConnections.EnvironmentMonitor, NearbySharing, NearbyConnections.TxAdvertisement}
+11-09 15:02:23.499 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1357, bufferIndex = 0.
+11-09 15:02:23.500 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 6, generation 25881602.
+11-09 15:02:23.500 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1358, bufferIndex = 0.
+11-09 15:02:23.501 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 15, generation 25881602.
+11-09 15:02:23.501 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 17, generation 25881602.
+11-09 15:02:23.501 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1359, bufferIndex = 0.
+11-09 15:02:23.502 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 19, generation 25881602.
+11-09 15:02:23.503 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1360, bufferIndex = 0.
+11-09 15:02:23.514 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 9, generation 25881602.
+11-09 15:02:23.515 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1361, bufferIndex = 0.
+11-09 15:02:23.517 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1362, bufferIndex = 0.
+11-09 15:02:23.881 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1363, bufferIndex = 0.
+11-09 15:02:23.881 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1364, bufferIndex = 0.
+11-09 15:02:23.885 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 0, generation 25881602.
+11-09 15:02:23.885 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 2, generation 25881602.
+11-09 15:02:23.886 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 3, generation 25881602.
+11-09 15:02:23.886 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 1, generation 25881602.
+11-09 15:02:23.887 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1365, bufferIndex = 0.
+11-09 15:02:23.889 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1366, bufferIndex = 0.
+11-09 15:02:23.890 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1367, bufferIndex = 0.
+11-09 15:02:23.890 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 4, generation 25881602.
+11-09 15:02:23.892 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1368, bufferIndex = 0.
+11-09 15:02:24.163 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1369, bufferIndex = 0.
+11-09 15:02:24.164 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1370, bufferIndex = 0.
+11-09 15:02:24.169 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 12, generation 25881602.
+11-09 15:02:24.170 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 8, generation 25881602.
+11-09 15:02:24.171 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 16, generation 25881602.
+11-09 15:02:24.171 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 7, generation 25881602.
+11-09 15:02:24.172 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 18, generation 25881602.
+11-09 15:02:24.172 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 13, generation 25881602.
+11-09 15:02:24.174 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1371, bufferIndex = 0.
+11-09 15:02:24.175 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1372, bufferIndex = 0.
+11-09 15:02:24.179 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1373, bufferIndex = 0.
+11-09 15:02:24.180 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1374, bufferIndex = 0.
+11-09 15:02:24.180 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 10, generation 25881602.
+11-09 15:02:24.313 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:24.314 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:24.314 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:24.315 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:24.424 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1375, bufferIndex = 0.
+11-09 15:02:24.425 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1376, bufferIndex = 0.
+11-09 15:02:24.428 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 5, generation 25881602.
+11-09 15:02:24.428 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 11, generation 25881602.
+11-09 15:02:24.428 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 14, generation 25881602.
+11-09 15:02:24.429 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1377, bufferIndex = 0.
+11-09 15:02:24.430 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 17, generation 25881602.
+11-09 15:02:24.430 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1378, bufferIndex = 0.
+11-09 15:02:24.437 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 15, generation 25881602.
+11-09 15:02:24.438 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 19, generation 25881602.
+11-09 15:02:24.438 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1379, bufferIndex = 0.
+11-09 15:02:24.441 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 6, generation 25881602.
+11-09 15:02:24.441 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1380, bufferIndex = 0.
+11-09 15:02:24.796 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1381, bufferIndex = 0.
+11-09 15:02:24.796 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1382, bufferIndex = 0.
+11-09 15:02:24.797 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1383, bufferIndex = 0.
+11-09 15:02:24.800 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 2, generation 25881602.
+11-09 15:02:24.800 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 0, generation 25881602.
+11-09 15:02:24.800 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 3, generation 25881602.
+11-09 15:02:24.801 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 9, generation 25881602.
+11-09 15:02:24.801 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1384, bufferIndex = 0.
+11-09 15:02:24.805 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1385, bufferIndex = 0.
+11-09 15:02:24.807 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1386, bufferIndex = 0.
+11-09 15:02:24.808 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 12, generation 25881602.
+11-09 15:02:25.045 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1387, bufferIndex = 0.
+11-09 15:02:25.047 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1388, bufferIndex = 0.
+11-09 15:02:25.048 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 4, generation 25881602.
+11-09 15:02:25.048 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 8, generation 25881602.
+11-09 15:02:25.049 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1389, bufferIndex = 0.
+11-09 15:02:25.052 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 1, generation 25881602.
+11-09 15:02:25.052 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 7, generation 25881602.
+11-09 15:02:25.052 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 16, generation 25881602.
+11-09 15:02:25.052 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1390, bufferIndex = 0.
+11-09 15:02:25.063 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 18, generation 25881602.
+11-09 15:02:25.063 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1391, bufferIndex = 0.
+11-09 15:02:25.065 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1392, bufferIndex = 0.
+11-09 15:02:25.261  8279  9824 V SQLiteTime: /data/user/0/com.facebook.katana/databases/time_in_app_100005622995443.db: "SELECT
+11-09 15:02:25.261  8279  9824 V SQLiteTime:           seq_num,
+11-09 15:02:25.261  8279  9824 V SQLiteTime:           start_walltime,
+11-09 15:02:25.261  8279  9824 V SQLiteTime:           start_uptime,
+11-09 15:02:25.261  8279  9824 V SQLiteTime:           start_event,
+11-09 15:02:25.261  8279  9824 V SQLiteTime:           end_walltime,
+11-09 15:02:25.261  8279  9824 V SQLiteTime:           end_uptime,
+11-09 15:02:25.261  8279  9824 V SQLiteTime:           end_event
+11-09 15:02:25.261  8279  9824 V SQLiteTime:         FROM intervals WHERE start_walltime < ? AND end_walltime > ?" took 1.000 ms
+11-09 15:02:25.262  8279  9824 D SQLiteCursor: received count(*) from native_fill_window: 0
+11-09 15:02:25.324 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1393, bufferIndex = 0.
+11-09 15:02:25.325 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1394, bufferIndex = 0.
+11-09 15:02:25.326 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 5, generation 25881602.
+11-09 15:02:25.326 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 10, generation 25881602.
+11-09 15:02:25.326 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 11, generation 25881602.
+11-09 15:02:25.327 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 13, generation 25881602.
+11-09 15:02:25.328 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1395, bufferIndex = 0.
+11-09 15:02:25.328 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1396, bufferIndex = 0.
+11-09 15:02:25.344 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1397, bufferIndex = 0.
+11-09 15:02:25.344 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 15, generation 25881602.
+11-09 15:02:25.345 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 17, generation 25881602.
+11-09 15:02:25.345 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 19, generation 25881602.
+11-09 15:02:25.345 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1398, bufferIndex = 0.
+11-09 15:02:25.373 26076  4986 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-255359189: "BEGIN IMMEDIATE;" took 1.000 ms
+11-09 15:02:25.379 26076  4986 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-255359189: "DELETE FROM "local_bulk_op_work" WHERE (("local_bulk_op_work"."remaining_affected_item_count") = (CAST(? AS INT))) AND (("local_bulk_op_work"."has_items_to_create") = (CAST(? AS INT)))" took 5.000 ms
+11-09 15:02:25.381 26076  4986 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-255359189: "SELECT "item_changes"."row_id" FROM "item_changes" WHERE (("item_changes"."change_state") = (CAST(? AS INT))) AND (("item_changes"."local_apply_time_ms_2") < (CAST(? AS INT)))" took 1.000 ms
+11-09 15:02:25.381 26076  4986 D SQLiteCursor: received count(*) from native_fill_window: 0
+11-09 15:02:25.382 26076  4986 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-255359189: "SELECT "local_bulk_op_work"."item_changes_row_id" FROM "local_bulk_op_work"" took 0.000 ms
+11-09 15:02:25.383 26076  4986 D SQLiteCursor: received count(*) from native_fill_window: 0
+11-09 15:02:25.384 26076  4986 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-255359189: "COMMIT;" took 0.000 ms
+11-09 15:02:25.386 26076  4986 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-255359189: "BEGIN IMMEDIATE;" took 0.000 ms
+11-09 15:02:25.388 26076  4986 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-255359189: "SELECT "sync_reasons"."row_id", "sync_reasons"."view_type", "sync_reasons"."clusters_row_id", "sync_reasons"."items_row_id", "sync_reasons"."sync_reason_type", "sync_reasons"."page_id", "sync_reasons"."server_version", "sync_reasons"."server_version_2" FROM "sync_reasons"" took 1.000 ms
+11-09 15:02:25.389 26076  4986 D SQLiteCursor: received count(*) from native_fill_window: 1
+11-09 15:02:25.394 26076  4986 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-255359189: "SELECT "items"."row_id", "items"."server_perm_id" FROM "items" LEFT OUTER JOIN "item_changes" ON ("item_changes"."items_row_id") = ("items"."row_id") LEFT OUTER JOIN "item_sync_reasons" ON ("item_sync_reasons"."items_row_id") = ("items"."row_id") WHERE (("item_changes"."row_id") IS NULL) AND (("item_sync_reasons"."row_id") IS NULL)" took 4.000 ms
+11-09 15:02:25.395 26076  4986 D SQLiteCursor: received count(*) from native_fill_window: 0
+11-09 15:02:25.397 26076  4986 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-255359189: "COMMIT;" took 1.000 ms
+11-09 15:02:25.398 26076  4986 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-255359189: "BEGIN IMMEDIATE;" took 0.000 ms
+11-09 15:02:25.404 26076  4986 D CursorWindow: Inflated: CursorWindow{name=/data/user/0/com.google.android.gm/databases/bigTopDataDB.-255359189, fd=157, size=2097152, inflatedSize=2097152, allocOffset=3900, slotsOffset=2084672, numRows=195, numColumns=4}
+11-09 15:02:25.404 26076  4986 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-255359189: "SELECT "item_sync_reasons"."row_id", "item_sync_reasons"."items_row_id", "item_sync_reasons"."sync_reasons_row_id", "item_sync_reasons"."subscription_rank" FROM "item_sync_reasons" WHERE ("item_sync_reasons"."sync_reasons_row_id") = (CAST(? AS INT))" took 5.000 ms
+11-09 15:02:25.404 26076  4986 D SQLiteCursor: received count(*) from native_fill_window: 200
+11-09 15:02:25.412 26076  4986 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-255359189: "SELECT "items"."row_id", "items"."server_perm_id" FROM "items" LEFT OUTER JOIN "item_changes" ON ("item_changes"."items_row_id") = ("items"."row_id") LEFT OUTER JOIN "item_sync_reasons" ON ("item_sync_reasons"."items_row_id") = ("items"."row_id") WHERE (("item_changes"."row_id") IS NULL) AND (("item_sync_reasons"."row_id") IS NULL)" took 1.000 ms
+11-09 15:02:25.412 26076  4986 D SQLiteCursor: received count(*) from native_fill_window: 0
+11-09 15:02:25.413 26076  4986 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-255359189: "COMMIT;" took 0.000 ms
+11-09 15:02:25.416 26076  4986 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-255359189: "BEGIN IMMEDIATE;" took 0.000 ms
+11-09 15:02:25.419 26076  4986 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-255359189: "SELECT "clusters"."row_id", "clusters"."server_perm_id", "clusters"."cluster_config_proto", "clusters"."grouped_in_inbox", "clusters"."write_sequence_id", "clusters"."eviction_eligibility", "clusters"."server_version", "clusters"."type" FROM "clusters" LEFT OUTER JOIN "item_visibility" ON ("item_visibility"."clusters_row_id") = ("clusters"."row_id") WHERE (("clusters"."eviction_eligibility") = (CAST(? AS INT))) AND (("item_visibility"."row_id") IS NULL)" took 2.000 ms
+11-09 15:02:25.420 26076  4986 D SQLiteCursor: received count(*) from native_fill_window: 0
+11-09 15:02:25.421 26076  4986 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.-255359189: "COMMIT;" took 0.000 ms
+11-09 15:02:25.457 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:25.457 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:25.539  3568  3605 D CursorWindow: Writing to parcel: CursorWindow{name=com.google.android.gsf.gservices.GservicesProvider, fd=-1, size=16384, inflatedSize=2097152, allocOffset=60, slotsOffset=16352, numRows=1, numColumns=2}
+11-09 15:02:25.539 10064 10121 D CursorWindow: Created from parcel: CursorWindow{name=com.google.android.gsf.gservices.GservicesProvider, fd=-1, size=92, inflatedSize=92, allocOffset=0, slotsOffset=0, numRows=1, numColumns=2}
+11-09 15:02:25.545 10064 10288 W Binder  : Caught a RuntimeException from the binder stub implementation.
+11-09 15:02:25.545 10064 10288 W Binder  : java.lang.UnsupportedOperationException
+11-09 15:02:25.545 10064 10288 W Binder  : 	at bzxa.a(PG:3)
+11-09 15:02:25.545 10064 10288 W Binder  : 	at bzxa.dispatchTransaction(PG:33)
+11-09 15:02:25.545 10064 10288 W Binder  : 	at pxy.onTransact(PG:13)
+11-09 15:02:25.545 10064 10288 W Binder  : 	at android.os.Binder.execTransactInternal(Binder.java:1410)
+11-09 15:02:25.545 10064 10288 W Binder  : 	at android.os.Binder.execTransact(Binder.java:1341)
+11-09 15:02:25.669 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1399, bufferIndex = 0.
+11-09 15:02:25.670 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 14, generation 25881602.
+11-09 15:02:25.671 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1400, bufferIndex = 0.
+11-09 15:02:25.671 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1401, bufferIndex = 0.
+11-09 15:02:25.672 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 0, generation 25881602.
+11-09 15:02:25.672 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1402, bufferIndex = 0.
+11-09 15:02:25.673 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 2, generation 25881602.
+11-09 15:02:25.675 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 3, generation 25881602.
+11-09 15:02:25.682 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 6, generation 25881602.
+11-09 15:02:25.682 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1403, bufferIndex = 0.
+11-09 15:02:25.683 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1404, bufferIndex = 0.
+11-09 15:02:25.745 26076  5275 V SQLiteTime: /data/user/0/com.google.android.gm/databases/bigTopDataDB.14288718: "SELECT "write_sequence_id"."row_id" FROM "write_sequence_id" LIMIT CAST(? AS INT)" took 1.000 ms
+11-09 15:02:25.745 26076  5275 D SQLiteCursor: received count(*) from native_fill_window: 1
+11-09 15:02:25.921 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1405, bufferIndex = 0.
+11-09 15:02:25.922 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1406, bufferIndex = 0.
+11-09 15:02:25.923 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 4, generation 25881602.
+11-09 15:02:25.924 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1407, bufferIndex = 0.
+11-09 15:02:25.928 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 12, generation 25881602.
+11-09 15:02:25.928 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 8, generation 25881602.
+11-09 15:02:25.929 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 9, generation 25881602.
+11-09 15:02:25.929 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 7, generation 25881602.
+11-09 15:02:25.929 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 1, generation 25881602.
+11-09 15:02:25.930 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1408, bufferIndex = 0.
+11-09 15:02:25.932 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1409, bufferIndex = 0.
+11-09 15:02:25.935 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1410, bufferIndex = 0.
+11-09 15:02:25.936 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 16, generation 25881602.
+11-09 15:02:26.131 10951 10951 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.time.trustedtime.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.PersistentApiService }
+11-09 15:02:26.141 27076 27076 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.time.trustedtime.singleuserapi.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.PersistentSingleUserInternalApiService }
+11-09 15:02:26.293 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1411, bufferIndex = 0.
+11-09 15:02:26.293 25275  9944 D BufferPoolAccessor2.0: bufferpool2 0xb400007d318dcac8 : 5(614400 size) total buffers - 5(614400 size) used buffers - 1411/1416 (recycle/alloc) - 5/1417 (fetch/transfer)
+11-09 15:02:26.294 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1412, bufferIndex = 0.
+11-09 15:02:26.295 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1413, bufferIndex = 0.
+11-09 15:02:26.298 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 10, generation 25881602.
+11-09 15:02:26.298 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 5, generation 25881602.
+11-09 15:02:26.301 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 11, generation 25881602.
+11-09 15:02:26.302 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 18, generation 25881602.
+11-09 15:02:26.303 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1414, bufferIndex = 0.
+11-09 15:02:26.308 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1415, bufferIndex = 0.
+11-09 15:02:26.309 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1416, bufferIndex = 0.
+11-09 15:02:26.312 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 17, generation 25881602.
+11-09 15:02:26.312 10951 10951 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.auth.proximity.devicesyncservice.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.PersistentBoundBrokerService }
+11-09 15:02:26.320 10951 10951 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.clearcut.bootcount.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.PersistentBoundBrokerService }
+11-09 15:02:26.350 10951 10951 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.nearby.presence.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.PersistentApiServiceNoInstantApps }
+11-09 15:02:26.492 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:26.493 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:26.493 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:26.494 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:26.494 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:26.495 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:26.497 10768 10768 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.mobstore.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+11-09 15:02:26.504 10951 10951 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.scheduler.ACTION_PROXY_SCHEDULE dat=chimera-action:/... cmp=com.google.android.gms/.chimera.PersistentDirectBootAwareApiService }
+11-09 15:02:26.514 27983 11222 V SQLiteTime: /data/user/0/com.android.vending/databases/cache_performance_summary.db: "BEGIN EXCLUSIVE;" took 4.000 ms
+11-09 15:02:26.515 27983 11222 V SQLiteTime: /data/user/0/com.android.vending/databases/cache_performance_summary.db: "INSERT OR REPLACE  INTO cache_performance_summary(pk,data) VALUES (?,?)" took 0.000 ms
+11-09 15:02:26.527 27983 11222 V SQLiteTime: /data/user/0/com.android.vending/databases/cache_performance_summary.db: "COMMIT;" took 12.000 ms
+11-09 15:02:26.544 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1417, bufferIndex = 0.
+11-09 15:02:26.545 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1418, bufferIndex = 0.
+11-09 15:02:26.547 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 15, generation 25881602.
+11-09 15:02:26.548 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 19, generation 25881602.
+11-09 15:02:26.548 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 13, generation 25881602.
+11-09 15:02:26.549 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1419, bufferIndex = 0.
+11-09 15:02:26.551 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 2, generation 25881602.
+11-09 15:02:26.552 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1420, bufferIndex = 0.
+11-09 15:02:26.559 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 0, generation 25881602.
+11-09 15:02:26.560 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 3, generation 25881602.
+11-09 15:02:26.560 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1421, bufferIndex = 0.
+11-09 15:02:26.561 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 14, generation 25881602.
+11-09 15:02:26.562 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1422, bufferIndex = 0.
+11-09 15:02:26.653 10768 10768 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.mdd.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+11-09 15:02:26.669 10951 10951 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.auth.aang.events.services.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.PersistentApiService }
+11-09 15:02:26.748 10768 10768 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.chimera.container.moduleinstall.ModuleInstallService.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsApiService }
+11-09 15:02:26.748 25275 11224 V SQLiteTime: /data/user/0/com.discord/databases/exoplayer_internal.db: "INSERT OR REPLACE  INTO ExoPlayerCacheFileMetadata38912964b0f6f468(length,last_touch_timestamp,name) VALUES (?,?,?)" took 5.000 ms
+11-09 15:02:26.769 25275 11225 V SQLiteTime: /data/user/0/com.discord/databases/exoplayer_internal.db: "INSERT OR REPLACE  INTO ExoPlayerCacheFileMetadata38912964b0f6f468(length,last_touch_timestamp,name) VALUES (?,?,?)" took 3.000 ms
+11-09 15:02:26.803 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1423, bufferIndex = 0.
+11-09 15:02:26.804 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1424, bufferIndex = 0.
+11-09 15:02:26.805 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 12, generation 25881602.
+11-09 15:02:26.805 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1425, bufferIndex = 0.
+11-09 15:02:26.807 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 4, generation 25881602.
+11-09 15:02:26.816 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 8, generation 25881602.
+11-09 15:02:26.817 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1426, bufferIndex = 0.
+11-09 15:02:26.836 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1427, bufferIndex = 0.
+11-09 15:02:26.838 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 6, generation 25881602.
+11-09 15:02:26.839 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 7, generation 25881602.
+11-09 15:02:26.839 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 9, generation 25881602.
+11-09 15:02:26.839 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1428, bufferIndex = 0.
+11-09 15:02:27.068 10951 10951 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.clearcut.service.START pkg=com.google.android.gms }
+11-09 15:02:27.158 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1429, bufferIndex = 0.
+11-09 15:02:27.160 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 1, generation 25881602.
+11-09 15:02:27.161 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1430, bufferIndex = 0.
+11-09 15:02:27.161 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1431, bufferIndex = 0.
+11-09 15:02:27.162 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 5, generation 25881602.
+11-09 15:02:27.163 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 10, generation 25881602.
+11-09 15:02:27.163 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 11, generation 25881602.
+11-09 15:02:27.164 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1432, bufferIndex = 0.
+11-09 15:02:27.179 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 16, generation 25881602.
+11-09 15:02:27.179 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1433, bufferIndex = 0.
+11-09 15:02:27.181 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1434, bufferIndex = 0.
+11-09 15:02:27.435 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1435, bufferIndex = 0.
+11-09 15:02:27.436 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 15, generation 25881602.
+11-09 15:02:27.436 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1436, bufferIndex = 0.
+11-09 15:02:27.442 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 17, generation 25881602.
+11-09 15:02:27.442 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 19, generation 25881602.
+11-09 15:02:27.443 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 18, generation 25881602.
+11-09 15:02:27.444 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1437, bufferIndex = 0.
+11-09 15:02:27.444 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1438, bufferIndex = 0.
+11-09 15:02:27.451 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1439, bufferIndex = 0.
+11-09 15:02:27.451 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 0, generation 25881602.
+11-09 15:02:27.453 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 2, generation 25881602.
+11-09 15:02:27.453 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 3, generation 25881602.
+11-09 15:02:27.453 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1440, bufferIndex = 0.
+11-09 15:02:27.582 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:27.583 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:27.583 27076  7876 D BluetoothLeScanner: onScanResult() - mScannerId=8
+11-09 15:02:27.583 27076 27076 D BluetoothLeScanner: onScanResult() - handler run
+11-09 15:02:27.778 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1441, bufferIndex = 0.
+11-09 15:02:27.778 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 13, generation 25881602.
+11-09 15:02:27.779 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1442, bufferIndex = 0.
+11-09 15:02:27.780 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1443, bufferIndex = 0.
+11-09 15:02:27.780 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 4, generation 25881602.
+11-09 15:02:27.780 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1444, bufferIndex = 0.
+11-09 15:02:27.792 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1445, bufferIndex = 0.
+11-09 15:02:27.793 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 12, generation 25881602.
+11-09 15:02:27.794 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 8, generation 25881602.
+11-09 15:02:27.818 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1446, bufferIndex = 0.
+11-09 15:02:27.821 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 14, generation 25881602.
+11-09 15:02:27.821 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 7, generation 25881602.
+11-09 15:02:27.822 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 6, generation 25881602.
+11-09 15:02:28.019 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1447, bufferIndex = 0.
+11-09 15:02:28.020 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 9, generation 25881602.
+11-09 15:02:28.021 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1448, bufferIndex = 0.
+11-09 15:02:28.021 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1449, bufferIndex = 0.
+11-09 15:02:28.021 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 10, generation 25881602.
+11-09 15:02:28.022 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1450, bufferIndex = 0.
+11-09 15:02:28.038 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1451, bufferIndex = 0.
+11-09 15:02:28.040 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 5, generation 25881602.
+11-09 15:02:28.040 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 11, generation 25881602.
+11-09 15:02:28.046 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 1, generation 25881602.
+11-09 15:02:28.046 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1452, bufferIndex = 0.
+11-09 15:02:28.397 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1453, bufferIndex = 0.
+11-09 15:02:28.397 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1454, bufferIndex = 0.
+11-09 15:02:28.398 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 17, generation 25881602.
+11-09 15:02:28.399 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 15, generation 25881602.
+11-09 15:02:28.399 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 19, generation 25881602.
+11-09 15:02:28.400 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 16, generation 25881602.
+11-09 15:02:28.401 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1455, bufferIndex = 0.
+11-09 15:02:28.401 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1456, bufferIndex = 0.
+11-09 15:02:28.404 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1457, bufferIndex = 0.
+11-09 15:02:28.405 25275  9944 V Codec2-OutputBufferQueue: holdBufferQueueBlock -- import without attaching: bqId 108555298406405, bqSlot 2, generation 25881602.
+11-09 15:02:28.405 25275  9944 V Codec2Client: onInputBuffersReleased -- received death notification of input buffer: frameIndex = 1458, bufferIndex = 0.

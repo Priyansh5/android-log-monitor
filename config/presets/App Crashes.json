@@ -1,0 +1,19 @@
+{
+  "levels": {
+    "ERROR": true,
+    "FATAL": true,
+    "WARN": false,
+    "INFO": false,
+    "DEBUG": false,
+    "VERBOSE": false
+  },
+  "tags": [
+    "AndroidRuntime"
+  ],
+  "keywords": [
+    "FATAL EXCEPTION",
+    "Force finishing"
+  ],
+  "exclude_tags": [],
+  "regex_enabled": false
+}

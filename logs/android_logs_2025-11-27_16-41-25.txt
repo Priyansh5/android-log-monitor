@@ -1,0 +1,302 @@
+--------- beginning of main
+11-27 16:41:26.247 21250 10713 I JSWatchdogManager: updateStallTime: 68732383
+11-27 16:41:27.002 29731 30727 E KT      : Network error
+11-27 16:41:27.243 21250 10713 I JSWatchdogManager: updateStallTime: 68733380
+11-27 16:41:28.247 21250 10713 I JSWatchdogManager: updateStallTime: 68734384
+11-27 16:41:28.756 30154 30612 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:41:28.757 30154 30612 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:41:29.246 21250 10713 I JSWatchdogManager: updateStallTime: 68735383
+11-27 16:41:30.247 21250 10713 I JSWatchdogManager: updateStallTime: 68736384
+11-27 16:41:31.244 21250 10713 I JSWatchdogManager: updateStallTime: 68737381
+11-27 16:41:32.246 21250 10713 I JSWatchdogManager: updateStallTime: 68738383
+11-27 16:41:32.283  5250   637 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 83651909]
+11-27 16:41:32.297  5250  1744 I AlarmManager: setExactAndAllowWhileIdle [name: FcmRetry type: 2 triggerAtMillis: 82021922]
+11-27 16:41:32.304  5250   637 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: 2 triggerAtMillis: 83651931]
+11-27 16:41:32.308  5250   637 W LogErrorOperation: onLogError callback failed.
+11-27 16:41:32.311  5250   637 W LogErrorOperation: onLogError callback failed.
+11-27 16:41:32.322  5250   352 W LogErrorOperation: onLogError callback failed.
+11-27 16:41:32.351   604   650 I TRuntime.CctTransportBackend: Making request to: https://firebaselogging.googleapis.com/v0cc/log/batch?format=json_proto3
+11-27 16:41:32.366  5250   637 W LogErrorOperation: onLogError callback failed.
+11-27 16:41:33.247 21250 10713 I JSWatchdogManager: updateStallTime: 68739384
+11-27 16:41:33.789 30154 30677 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:41:33.789 30154 30677 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:41:33.855   604   650 I TRuntime.CctTransportBackend: Status Code: 200
+11-27 16:41:34.245 21250 10713 I JSWatchdogManager: updateStallTime: 68740382
+11-27 16:41:35.238 21250 10713 I JSWatchdogManager: updateStallTime: 68741374
+11-27 16:41:36.247 21250 10713 I JSWatchdogManager: updateStallTime: 68742384
+11-27 16:41:37.243 21250 10713 I JSWatchdogManager: updateStallTime: 68743380
+11-27 16:41:38.245 21250 10713 I JSWatchdogManager: updateStallTime: 68744382
+11-27 16:41:38.409 31557 31566 W android.vending: Reducing the number of considered missed Gc histogram windows from 113 to 100
+11-27 16:41:38.820 30154 31141 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:41:38.820 30154 31141 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:41:39.244 21250 10713 I JSWatchdogManager: updateStallTime: 68745381
+11-27 16:41:40.245 21250 10713 I JSWatchdogManager: updateStallTime: 68746382
+11-27 16:41:41.247 21250 10713 I JSWatchdogManager: updateStallTime: 68747384
+11-27 16:41:42.247 21250 10713 I JSWatchdogManager: updateStallTime: 68748384
+11-27 16:41:43.239 21250 10713 I JSWatchdogManager: updateStallTime: 68749376
+11-27 16:41:43.854 30154 31189 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:41:43.854 30154 31189 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:41:44.245 21250 10713 I JSWatchdogManager: updateStallTime: 68750381
+--------- beginning of system
+11-27 16:41:45.203  1552  7448 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent
+11-27 16:41:45.238 21250 10713 I JSWatchdogManager: updateStallTime: 68751375
+11-27 16:41:46.239 21250 10713 I JSWatchdogManager: updateStallTime: 68752376
+11-27 16:41:47.244 21250 10713 I JSWatchdogManager: updateStallTime: 68753381
+11-27 16:41:48.245 21250 10713 I JSWatchdogManager: updateStallTime: 68754382
+11-27 16:41:48.870 30154 31218 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:41:48.870 30154 31218 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:41:49.245 21250 10713 I JSWatchdogManager: updateStallTime: 68755382
+11-27 16:41:50.250 21250 10713 I JSWatchdogManager: updateStallTime: 68756386
+11-27 16:41:51.245 21250 10713 I JSWatchdogManager: updateStallTime: 68757382
+11-27 16:41:52.244 21250 10713 I JSWatchdogManager: updateStallTime: 68758381
+11-27 16:41:53.247 21250 10713 I JSWatchdogManager: updateStallTime: 68759384
+11-27 16:41:53.894 30154 31237 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:41:53.894 30154 31237 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:41:54.246 21250 10713 I JSWatchdogManager: updateStallTime: 68760383
+11-27 16:41:55.219  1552  3824 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent
+11-27 16:41:55.245 21250 10713 I JSWatchdogManager: updateStallTime: 68761382
+11-27 16:41:56.238 21250 10713 I JSWatchdogManager: updateStallTime: 68762375
+11-27 16:41:57.036 29731 30727 E KT      : Network error
+11-27 16:41:57.245 21250 10713 I JSWatchdogManager: updateStallTime: 68763382
+11-27 16:41:58.244 21250 10713 I JSWatchdogManager: updateStallTime: 68764381
+11-27 16:41:59.245 21250 10713 I JSWatchdogManager: updateStallTime: 68765382
+11-27 16:42:00.244 21250 10713 I JSWatchdogManager: updateStallTime: 68766381
+11-27 16:42:01.241 21250 10713 I JSWatchdogManager: updateStallTime: 68767378
+11-27 16:42:02.241 21250 10713 I JSWatchdogManager: updateStallTime: 68768378
+11-27 16:42:03.247 21250 10713 I JSWatchdogManager: updateStallTime: 68769384
+11-27 16:42:04.247 21250 10713 I JSWatchdogManager: updateStallTime: 68770384
+11-27 16:42:05.247 21250 10713 I JSWatchdogManager: updateStallTime: 68771383
+11-27 16:42:06.246 21250 10713 I JSWatchdogManager: updateStallTime: 68772383
+11-27 16:42:06.476 31509 31895 I newrelic: Harvester: connected
+11-27 16:42:06.477 31509 31895 I newrelic: Harvester: Sending [1] HTTP transactions.
+11-27 16:42:06.477 31509 31895 I newrelic: Harvester: Sending [0] activity traces.
+11-27 16:42:06.477 31509 31895 I newrelic: Harvester: Sending [0] session attributes.
+11-27 16:42:06.477 31509 31895 I newrelic: Harvester: Sending [0] analytics events.
+11-27 16:42:06.491 31509 31895 E newrelic: Failed to retrieve collector response: Unable to resolve host "mobile-collector.newrelic.com": No address associated with hostname
+11-27 16:42:06.491 31509 31895 E newrelic: HarvestConnection: Attempting to convert network exception java.net.UnknownHostException to error code.
+11-27 16:42:07.237 21250 10713 I JSWatchdogManager: updateStallTime: 68773374
+11-27 16:42:08.246 21250 10713 I JSWatchdogManager: updateStallTime: 68774383
+11-27 16:42:09.243 21250 10713 I JSWatchdogManager: updateStallTime: 68775380
+11-27 16:42:10.246 21250 10713 I JSWatchdogManager: updateStallTime: 68776383
+11-27 16:42:11.247 21250 10713 I JSWatchdogManager: updateStallTime: 68777383
+11-27 16:42:12.247 21250 10713 I JSWatchdogManager: updateStallTime: 68778384
+11-27 16:42:13.239 21250 10713 I JSWatchdogManager: updateStallTime: 68779376
+11-27 16:42:14.246 21250 10713 I JSWatchdogManager: updateStallTime: 68780383
+11-27 16:42:15.247 21250 10713 I JSWatchdogManager: updateStallTime: 68781383
+11-27 16:42:15.296  1552  3192 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent
+11-27 16:42:16.245 21250 10713 I JSWatchdogManager: updateStallTime: 68782382
+11-27 16:42:17.238 21250 10713 I JSWatchdogManager: updateStallTime: 68783374
+11-27 16:42:18.246 21250 10713 I JSWatchdogManager: updateStallTime: 68784383
+11-27 16:42:19.246 21250 10713 I JSWatchdogManager: updateStallTime: 68785383
+11-27 16:42:20.246 21250 10713 I JSWatchdogManager: updateStallTime: 68786383
+11-27 16:42:21.247 21250 10713 I JSWatchdogManager: updateStallTime: 68787384
+11-27 16:42:22.247 21250 10713 I JSWatchdogManager: updateStallTime: 68788384
+11-27 16:42:23.237 21250 10713 I JSWatchdogManager: updateStallTime: 68789374
+11-27 16:42:23.782 30154 31274 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:42:23.782 30154 31274 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:42:24.246 21250 10713 I JSWatchdogManager: updateStallTime: 68790383
+11-27 16:42:25.242 21250 10713 I JSWatchdogManager: updateStallTime: 68791379
+11-27 16:42:25.332  1552  4369 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent
+11-27 16:42:26.243 21250 10713 I JSWatchdogManager: updateStallTime: 68792380
+11-27 16:42:27.074 29731 30727 E KT      : Network error
+11-27 16:42:27.245 21250 10713 I JSWatchdogManager: updateStallTime: 68793382
+11-27 16:42:28.247 21250 10713 I JSWatchdogManager: updateStallTime: 68794384
+11-27 16:42:28.819 30154 31414 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:42:28.819 30154 31414 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:42:29.238 21250 10713 I JSWatchdogManager: updateStallTime: 68795375
+11-27 16:42:30.246 21250 10713 I JSWatchdogManager: updateStallTime: 68796383
+11-27 16:42:31.245 21250 10713 I JSWatchdogManager: updateStallTime: 68797382
+11-27 16:42:32.246 21250 10713 I JSWatchdogManager: updateStallTime: 68798383
+11-27 16:42:33.245 21250 10713 I JSWatchdogManager: updateStallTime: 68799382
+11-27 16:42:33.854 30154 31443 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:42:33.854 30154 31443 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:42:34.244 21250 10713 I JSWatchdogManager: updateStallTime: 68800381
+11-27 16:42:35.247 21250 10713 I JSWatchdogManager: updateStallTime: 68801384
+11-27 16:42:36.247 21250 10713 I JSWatchdogManager: updateStallTime: 68802384
+11-27 16:42:37.238 21250 10713 I JSWatchdogManager: updateStallTime: 68803375
+11-27 16:42:38.018 14741 14755 I stagram.android: Background concurrent copying GC freed 23MB AllocSpace bytes, 0(0B) LOS objects, 20% free, 91MB/115MB, paused 318us,240us total 791.211ms
+11-27 16:42:38.246 21250 10713 I JSWatchdogManager: updateStallTime: 68804383
+11-27 16:42:38.897 30154 31461 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:42:38.897 30154 31461 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:42:39.237 21250 10713 I JSWatchdogManager: updateStallTime: 68805374
+11-27 16:42:40.247 21250 10713 I JSWatchdogManager: updateStallTime: 68806384
+11-27 16:42:41.246 21250 10713 I JSWatchdogManager: updateStallTime: 68807383
+11-27 16:42:42.238 21250 10713 I JSWatchdogManager: updateStallTime: 68808375
+11-27 16:42:43.246 21250 10713 I JSWatchdogManager: updateStallTime: 68809383
+11-27 16:42:43.938 30154 31966 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:42:43.938 30154 31966 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:42:44.237 21250 10713 I JSWatchdogManager: updateStallTime: 68810374
+11-27 16:42:45.241 21250 10713 I JSWatchdogManager: updateStallTime: 68811378
+11-27 16:42:46.240 21250 10713 I JSWatchdogManager: updateStallTime: 68812377
+11-27 16:42:47.247 21250 10713 I JSWatchdogManager: updateStallTime: 68813384
+11-27 16:42:48.247 21250 10713 I JSWatchdogManager: updateStallTime: 68814384
+11-27 16:42:48.968 30154 32239 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:42:48.969 30154 32239 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:42:49.247 21250 10713 I JSWatchdogManager: updateStallTime: 68815383
+11-27 16:42:50.246 21250 10713 I JSWatchdogManager: updateStallTime: 68816383
+11-27 16:42:51.247 21250 10713 I JSWatchdogManager: updateStallTime: 68817384
+11-27 16:42:52.246 21250 10713 I JSWatchdogManager: updateStallTime: 68818383
+11-27 16:42:53.247 21250 10713 I JSWatchdogManager: updateStallTime: 68819383
+11-27 16:42:53.983 30154 31988 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:42:53.983 30154 31988 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:42:54.247 21250 10713 I JSWatchdogManager: updateStallTime: 68820383
+11-27 16:42:55.241 21250 10713 I JSWatchdogManager: updateStallTime: 68821378
+11-27 16:42:56.246 21250 10713 I JSWatchdogManager: updateStallTime: 68822383
+11-27 16:42:57.111 29731 30727 E KT      : Network error
+11-27 16:42:57.238 21250 10713 I JSWatchdogManager: updateStallTime: 68823375
+11-27 16:42:58.246 21250 10713 I JSWatchdogManager: updateStallTime: 68824383
+11-27 16:42:59.246 21250 10713 I JSWatchdogManager: updateStallTime: 68825383
+11-27 16:43:00.246 21250 10713 I JSWatchdogManager: updateStallTime: 68826383
+11-27 16:43:01.247 21250 10713 I JSWatchdogManager: updateStallTime: 68827384
+11-27 16:43:02.237 21250 10713 I JSWatchdogManager: updateStallTime: 68828374
+11-27 16:43:03.247 21250 10713 I JSWatchdogManager: updateStallTime: 68829384
+11-27 16:43:04.237 21250 10713 I JSWatchdogManager: updateStallTime: 68830374
+11-27 16:43:05.240 21250 10713 I JSWatchdogManager: updateStallTime: 68831377
+11-27 16:43:06.241 21250 10713 I JSWatchdogManager: updateStallTime: 68832378
+11-27 16:43:06.482 31509 31895 I newrelic: Harvester: connected
+11-27 16:43:06.483 31509 31895 I newrelic: Harvester: Sending [0] HTTP transactions.
+11-27 16:43:06.483 31509 31895 I newrelic: Harvester: Sending [0] activity traces.
+11-27 16:43:06.484 31509 31895 I newrelic: Harvester: Sending [38] session attributes.
+11-27 16:43:06.484 31509 31895 I newrelic: Harvester: Sending [2] analytics events.
+11-27 16:43:06.499 31509 31895 E newrelic: Failed to retrieve collector response: Unable to resolve host "mobile-collector.newrelic.com": No address associated with hostname
+11-27 16:43:06.499 31509 31895 E newrelic: HarvestConnection: Attempting to convert network exception java.net.UnknownHostException to error code.
+11-27 16:43:07.237 21250 10713 I JSWatchdogManager: updateStallTime: 68833374
+11-27 16:43:08.245 21250 10713 I JSWatchdogManager: updateStallTime: 68834382
+11-27 16:43:09.246 21250 10713 I JSWatchdogManager: updateStallTime: 68835383
+11-27 16:43:10.244 21250 10713 I JSWatchdogManager: updateStallTime: 68836381
+11-27 16:43:11.237 21250 10713 I JSWatchdogManager: updateStallTime: 68837374
+11-27 16:43:12.242 21250 10713 I JSWatchdogManager: updateStallTime: 68838379
+11-27 16:43:13.247 21250 10713 I JSWatchdogManager: updateStallTime: 68839384
+11-27 16:43:14.247 21250 10713 I JSWatchdogManager: updateStallTime: 68840383
+11-27 16:43:15.241 21250 10713 I JSWatchdogManager: updateStallTime: 68841377
+11-27 16:43:16.246 21250 10713 I JSWatchdogManager: updateStallTime: 68842383
+11-27 16:43:17.244 21250 10713 I JSWatchdogManager: updateStallTime: 68843381
+11-27 16:43:18.243 21250 10713 I JSWatchdogManager: updateStallTime: 68844380
+11-27 16:43:19.245 21250 10713 I JSWatchdogManager: updateStallTime: 68845382
+11-27 16:43:20.246 21250 10713 I JSWatchdogManager: updateStallTime: 68846383
+11-27 16:43:21.246 21250 10713 I JSWatchdogManager: updateStallTime: 68847383
+11-27 16:43:21.901 27567 27636 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=e4004228-9ab0-46da-adcd-1a47f6d97276, tags={ com.whatsapp.stickers.stickerpack.FetchDiscoveryPackWorker } ]
+11-27 16:43:22.244 21250 10713 I JSWatchdogManager: updateStallTime: 68848381
+11-27 16:43:23.246 21250 10713 I JSWatchdogManager: updateStallTime: 68849383
+11-27 16:43:23.823 30154 32275 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:43:23.823 30154 32275 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:43:24.246 21250 10713 I JSWatchdogManager: updateStallTime: 68850383
+11-27 16:43:25.245 21250 10713 I JSWatchdogManager: updateStallTime: 68851382
+11-27 16:43:26.243 21250 10713 I JSWatchdogManager: updateStallTime: 68852380
+11-27 16:43:27.143 29731 30727 E KT      : Network error
+11-27 16:43:27.245 21250 10713 I JSWatchdogManager: updateStallTime: 68853382
+11-27 16:43:28.154 31557 31588 I Finsky  : [3722] Stats for Executor: BlockingExecutor ula@2b490a5[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 1380]
+11-27 16:43:28.154 31557 31588 I Finsky  : [3722] Stats for Executor: LightweightExecutor ula@f920c7a[Running, pool size = 4, active threads = 0, queued tasks = 0, completed tasks = 4122]
+11-27 16:43:28.155 31557 31588 I Finsky  : [3722] Stats for Executor: bgExecutor ula@158ac2b[Running, pool size = 4, active threads = 0, queued tasks = 0, completed tasks = 18971]
+11-27 16:43:28.245 21250 10713 I JSWatchdogManager: updateStallTime: 68854382
+11-27 16:43:28.864 30154 32340 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:43:28.864 30154 32340 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:43:29.245 21250 10713 I JSWatchdogManager: updateStallTime: 68855382
+11-27 16:43:30.246 21250 10713 I JSWatchdogManager: updateStallTime: 68856383
+11-27 16:43:31.244 21250 10713 I JSWatchdogManager: updateStallTime: 68857381
+11-27 16:43:32.246 21250 10713 I JSWatchdogManager: updateStallTime: 68858383
+11-27 16:43:33.247 21250 10713 I JSWatchdogManager: updateStallTime: 68859384
+11-27 16:43:33.322  5250  1750 E GmsCoreLogger: Failed to persist aggregation state [CONTEXT service_id=299 ]
+11-27 16:43:33.322  5250  1750 E GmsCoreLogger: java.lang.IllegalArgumentException
+11-27 16:43:33.322  5250  1750 E GmsCoreLogger: 	at bcvj.b(:com.google.android.gms@254661029@25.46.61 (190400-834538590):6)
+11-27 16:43:33.322  5250  1750 E GmsCoreLogger: 	at cgxi.f(:com.google.android.gms@254661029@25.46.61 (190400-834538590):146)
+11-27 16:43:33.322  5250  1750 E GmsCoreLogger: 	at chaa.f(:com.google.android.gms@254661029@25.46.61 (190400-834538590):21)
+11-27 16:43:33.322  5250  1750 E GmsCoreLogger: 	at cgzr.run(:com.google.android.gms@254661029@25.46.61 (190400-834538590):107)
+11-27 16:43:33.322  5250  1750 E GmsCoreLogger: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:524)
+11-27 16:43:33.322  5250  1750 E GmsCoreLogger: 	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+11-27 16:43:33.322  5250  1750 E GmsCoreLogger: 	at bdnu.c(:com.google.android.gms@254661029@25.46.61 (190400-834538590):50)
+11-27 16:43:33.322  5250  1750 E GmsCoreLogger: 	at bdnu.run(:com.google.android.gms@254661029@25.46.61 (190400-834538590):73)
+11-27 16:43:33.322  5250  1750 E GmsCoreLogger: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1156)
+11-27 16:43:33.322  5250  1750 E GmsCoreLogger: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:651)
+11-27 16:43:33.322  5250  1750 E GmsCoreLogger: 	at bdtm.run(:com.google.android.gms@254661029@25.46.61 (190400-834538590):8)
+11-27 16:43:33.322  5250  1750 E GmsCoreLogger: 	at java.lang.Thread.run(Thread.java:1119)
+11-27 16:43:33.888 30154 32344 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:43:33.889 30154 32344 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:43:34.243 21250 10713 I JSWatchdogManager: updateStallTime: 68860380
+11-27 16:43:34.355 31557 31588 I Finsky  : [3722] Stats for Executor: GrpcBackgroundExecutor ula@b789888[Running, pool size = 4, active threads = 0, queued tasks = 0, completed tasks = 36]
+11-27 16:43:35.023 21100 21147 I gle.android.gms: Explicit concurrent copying GC freed 144KB AllocSpace bytes, 0(0B) LOS objects, 30% free, 4705KB/6753KB, paused 212us,157us total 93.857ms
+11-27 16:43:35.239 21250 10713 I JSWatchdogManager: updateStallTime: 68861376
+11-27 16:43:36.246 21250 10713 I JSWatchdogManager: updateStallTime: 68862383
+11-27 16:43:37.245 21250 10713 I JSWatchdogManager: updateStallTime: 68863382
+11-27 16:43:38.247 21250 10713 I JSWatchdogManager: updateStallTime: 68864384
+11-27 16:43:38.917 30154 30612 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:43:38.917 30154 30612 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:43:39.247 21250 10713 I JSWatchdogManager: updateStallTime: 68865384
+11-27 16:43:40.246 21250 10713 I JSWatchdogManager: updateStallTime: 68866382
+11-27 16:43:41.239 21250 10713 I JSWatchdogManager: updateStallTime: 68867376
+11-27 16:43:42.246 21250 10713 I JSWatchdogManager: updateStallTime: 68868383
+11-27 16:43:43.243 21250 10713 I JSWatchdogManager: updateStallTime: 68869380
+11-27 16:43:43.954 30154 30677 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:43:43.954 30154 30677 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:43:44.246 21250 10713 I JSWatchdogManager: updateStallTime: 68870383
+11-27 16:43:45.246 21250 10713 I JSWatchdogManager: updateStallTime: 68871383
+11-27 16:43:46.245 21250 10713 I JSWatchdogManager: updateStallTime: 68872382
+11-27 16:43:47.246 21250 10713 I JSWatchdogManager: updateStallTime: 68873383
+11-27 16:43:47.752 14741 15162 E MvfstCallbacks.cpp: readError: streamid=0; error=LocalError: Idle timeout, Idle timeout: 35 seconds
+11-27 16:43:47.754 14741 15162 E MvfstCallbacks.cpp: readError: streamid=11; error=LocalError: Idle timeout, Idle timeout: 35 seconds
+11-27 16:43:47.755 14741 15162 E MvfstCallbacks.cpp: readError: streamid=4; error=LocalError: Idle timeout, Idle timeout: 35 seconds
+11-27 16:43:47.756 14741 15162 E MvfstCallbacks.cpp: readError: streamid=8; error=LocalError: Idle timeout, Idle timeout: 35 seconds
+11-27 16:43:47.756 14741 15162 E MvfstCallbacks.cpp: readError: streamid=3; error=LocalError: Idle timeout, Idle timeout: 35 seconds
+11-27 16:43:47.756 14741 15162 E MvfstCallbacks.cpp: readError: streamid=7; error=LocalError: Idle timeout, Idle timeout: 35 seconds
+11-27 16:43:47.757 14741 15162 E MvfstCallbacks.cpp: onConnectionError: error=LocalError: Idle timeout, Idle timeout: 35 seconds
+11-27 16:43:47.767 14741 15264 E msys    : E[S MSync]_ModularSyncHandleNetworkResponse(1735)=>DB[223] - Encountered a network error (2002: TransientError domain: MNSQUICConnection code: 1 detail: Idle timeout: 35 seconds)
+11-27 16:43:47.768 14741 15264 E msys    : E[S MSync]_ModularSyncHandleNetworkErrorResponse(1429)=>DB[223] - handle network error response
+11-27 16:43:47.770 14741 15162 E msys    : E[N mns]_OnDiskCacheGetData(632)=>Start post callback cache refresh DNS resolution
+11-27 16:43:47.771 14741 15162 W LibevQuicAsyncUDPSocket.h: setTosOrTrafficClass not implemented in LibevQuicAsyncUDPSocket
+11-27 16:43:47.773 14741 15222 W IrisSyncManager: Iris unsubscribed
+11-27 16:43:47.857 14741 24002 E msys    : E[C mem.context]_NetworkStateChangedCallbackOnExecutionContext(7915)=>[INFO]skip the network state change source=3
+11-27 16:43:47.858 14741 15278 E msys    : E[N MCCWLigerStream]_NetworkChangedCallbackInternal(57)=>skip the network state change source=3
+11-27 16:43:48.246 21250 10713 I JSWatchdogManager: updateStallTime: 68874383
+11-27 16:43:48.629 14741 15162 E msys    : E[N mns]_OnSystemDNSSuccessCallback(340)=>Cache refresh succeeded with system DNS resolver. IP count: 2
+11-27 16:43:48.993 30154 31141 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:43:48.993 30154 31141 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:43:49.247 21250 10713 I JSWatchdogManager: updateStallTime: 68875384
+11-27 16:43:50.247 21250 10713 I JSWatchdogManager: updateStallTime: 68876384
+11-27 16:43:51.247 21250 10713 I JSWatchdogManager: updateStallTime: 68877384
+11-27 16:43:52.245 21250 10713 I JSWatchdogManager: updateStallTime: 68878382
+11-27 16:43:53.244 21250 10713 I JSWatchdogManager: updateStallTime: 68879381
+11-27 16:43:54.020 30154 31189 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:43:54.020 30154 31189 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:43:54.244 21250 10713 I JSWatchdogManager: updateStallTime: 68880381
+11-27 16:43:55.244 21250 10713 I JSWatchdogManager: updateStallTime: 68881381
+11-27 16:43:56.247 21250 10713 I JSWatchdogManager: updateStallTime: 68882383
+11-27 16:43:57.186 29731 30727 E KT      : Network error
+11-27 16:43:57.247 21250 10713 I JSWatchdogManager: updateStallTime: 68883384
+11-27 16:43:58.237 21250 10713 I JSWatchdogManager: updateStallTime: 68884374
+11-27 16:43:59.247 21250 10713 I JSWatchdogManager: updateStallTime: 68885384
+11-27 16:44:00.246 21250 10713 I JSWatchdogManager: updateStallTime: 68886383
+11-27 16:44:01.245 21250 10713 I JSWatchdogManager: updateStallTime: 68887382
+11-27 16:44:02.245 21250 10713 I JSWatchdogManager: updateStallTime: 68888382
+11-27 16:44:02.595 14741 15038 E msys    : E[N mns]_CacheRefreshTimerCallback(454)=>Start active cache refresh DNS resolution
+11-27 16:44:02.595 14741 15038 E msys    : E[N mns]_CacheRefreshTimerCallback(454)=>Start active cache refresh DNS resolution
+11-27 16:44:02.599 14741 15038 E msys    : E[N mns]_CacheRefreshTimerCallback(454)=>Start active cache refresh DNS resolution
+11-27 16:44:02.600 14741 15038 E msys    : E[N mns]_CacheRefreshTimerCallback(454)=>Start active cache refresh DNS resolution
+11-27 16:44:02.603 14741 15038 E msys    : E[N mns]_CacheRefreshTimerCallback(454)=>Start active cache refresh DNS resolution
+11-27 16:44:02.604 14741 15038 E msys    : E[N mns]_CacheRefreshTimerCallback(454)=>Start active cache refresh DNS resolution
+11-27 16:44:02.813 14741 15038 E msys    : E[N mns]_OnSystemDNSSuccessCallback(340)=>Cache refresh succeeded with system DNS resolver. IP count: 2
+11-27 16:44:02.814 14741 15038 E msys    : E[N mns]_OnSystemDNSSuccessCallback(340)=>Cache refresh succeeded with system DNS resolver. IP count: 2
+11-27 16:44:02.814 14741 15038 E msys    : E[N mns]_OnSystemDNSSuccessCallback(340)=>Cache refresh succeeded with system DNS resolver. IP count: 2
+11-27 16:44:03.001 14741 15038 E msys    : E[N mns]_OnSystemDNSSuccessCallback(340)=>Cache refresh succeeded with system DNS resolver. IP count: 2
+11-27 16:44:03.205 14741 15038 E msys    : E[N mns]_OnSystemDNSSuccessCallback(340)=>Cache refresh succeeded with system DNS resolver. IP count: 2
+11-27 16:44:03.209 14741 15038 E msys    : E[N mns]_OnSystemDNSSuccessCallback(340)=>Cache refresh succeeded with system DNS resolver. IP count: 2
+11-27 16:44:03.246 21250 10713 I JSWatchdogManager: updateStallTime: 68889383
+11-27 16:44:04.245 21250 10713 I JSWatchdogManager: updateStallTime: 68890382
+11-27 16:44:05.245 21250 10713 I JSWatchdogManager: updateStallTime: 68891382
+11-27 16:44:06.244 21250 10713 I JSWatchdogManager: updateStallTime: 68892381
+11-27 16:44:06.555 31509 31895 I newrelic: Harvester: connected
+11-27 16:44:06.556 31509 31895 I newrelic: Harvester: Sending [0] HTTP transactions.
+11-27 16:44:06.556 31509 31895 I newrelic: Harvester: Sending [0] activity traces.
+11-27 16:44:06.556 31509 31895 I newrelic: Harvester: Sending [38] session attributes.
+11-27 16:44:06.558 31509 31895 I newrelic: Harvester: Sending [2] analytics events.
+11-27 16:44:06.571 31509 31895 E newrelic: Failed to retrieve collector response: Unable to resolve host "mobile-collector.newrelic.com": No address associated with hostname
+11-27 16:44:06.571 31509 31895 E newrelic: HarvestConnection: Attempting to convert network exception java.net.UnknownHostException to error code.
+11-27 16:44:07.246 21250 10713 I JSWatchdogManager: updateStallTime: 68893383
+11-27 16:44:08.247 21250 10713 I JSWatchdogManager: updateStallTime: 68894384
+11-27 16:44:09.246 21250 10713 I JSWatchdogManager: updateStallTime: 68895383
+11-27 16:44:10.237 21250 10713 I JSWatchdogManager: updateStallTime: 68896374
+11-27 16:44:11.242 21250 10713 I JSWatchdogManager: updateStallTime: 68897379
+11-27 16:44:12.247 21250 10713 I JSWatchdogManager: updateStallTime: 68898384
+11-27 16:44:13.240 21250 10713 I JSWatchdogManager: updateStallTime: 68899377
+11-27 16:44:14.245 21250 10713 I JSWatchdogManager: updateStallTime: 68900382
+11-27 16:44:15.247 21250 10713 I JSWatchdogManager: updateStallTime: 68901383
+11-27 16:44:15.780  1552  7399 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent

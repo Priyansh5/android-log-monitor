@@ -1,0 +1,6 @@
+--------- beginning of main
+11-27 16:41:02.242 21250 10713 I JSWatchdogManager: updateStallTime: 68708379
+11-27 16:41:03.242 21250 10713 I JSWatchdogManager: updateStallTime: 68709379
+11-27 16:41:04.242 21250 10713 I JSWatchdogManager: updateStallTime: 68710379
+11-27 16:41:05.245 21250 10713 I JSWatchdogManager: updateStallTime: 68711382
+11-27 16:41:06.247 21250 10713 I JSWatchdogManager: updateStallTime: 68712383

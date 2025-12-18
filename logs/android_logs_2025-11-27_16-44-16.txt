@@ -1,0 +1,32 @@
+--------- beginning of main
+11-27 16:44:16.247 21250 10713 I JSWatchdogManager: updateStallTime: 68902383
+11-27 16:44:17.247 21250 10713 I JSWatchdogManager: updateStallTime: 68903384
+11-27 16:44:18.246 21250 10713 I JSWatchdogManager: updateStallTime: 68904383
+11-27 16:44:19.246 21250 10713 I JSWatchdogManager: updateStallTime: 68905383
+11-27 16:44:20.241 21250 10713 I JSWatchdogManager: updateStallTime: 68906378
+11-27 16:44:21.245 21250 10713 I JSWatchdogManager: updateStallTime: 68907382
+11-27 16:44:22.243 21250 10713 I JSWatchdogManager: updateStallTime: 68908380
+11-27 16:44:23.247 21250 10713 I JSWatchdogManager: updateStallTime: 68909383
+11-27 16:44:23.851 30154 31218 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:44:23.852 30154 31218 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:44:24.246 21250 10713 I JSWatchdogManager: updateStallTime: 68910383
+11-27 16:44:25.242 21250 10713 I JSWatchdogManager: updateStallTime: 68911378
+--------- beginning of system
+11-27 16:44:25.815  1552  2283 W BatteryStatsService: Unknown sensor handle 0 received in noteWakeupSensorEvent
+11-27 16:44:25.900 29731 29898 E Braze v37.0.0 .b: Failed request to [https://venetia.iad.appboy.com/api/v3/banners/sync]
+11-27 16:44:25.900 29731 29898 W Braze v37.0.0 .d: Experienced network communication exception processing API response. Sending network error event.
+11-27 16:44:25.901 29731 29898 I Braze v37.0.0 .d: Event was published, but no subscribers were found. Saving event for later publishing to a matching subscriber. Event class: class com.braze.events.BrazeNetworkFailureEvent this com.braze.events.d@2854e42
+11-27 16:44:25.901 29731 29898 W Braze v37.0.0 .d: Api response was null, failing task.
+11-27 16:44:25.902 29731 29898 W Braze v37.0.0 .a: Error occurred while executing Braze request: An error occurred during request processing, resulting in no valid response being received. Check the error log for more details.
+11-27 16:44:25.902 29731 29898 W Braze v37.0.0 .a: BannersSyncRequest failed.
+11-27 16:44:25.902 29731 29898 I Braze v37.0.0 .d: Event was published, but no subscribers were found. Saving event for later publishing to a matching subscriber. Event class: class com.braze.events.internal.b this com.braze.events.d@2854e42
+11-27 16:44:25.903 29731 29898 W Braze v37.0.0 .d: Received server error from request: An error occurred during request processing, resulting in no valid response being received. Check the error log for more details.
+11-27 16:44:25.903 29731 29898 I Braze v37.0.0 .d: Event was published, but no subscribers were found. Saving event for later publishing to a matching subscriber. Event class: class com.braze.events.internal.x this com.braze.events.d@9b5ce67
+11-27 16:44:26.247 21250 10713 I JSWatchdogManager: updateStallTime: 68912384
+11-27 16:44:27.226 29731 30727 E KT      : Network error
+11-27 16:44:27.245 21250 10713 I JSWatchdogManager: updateStallTime: 68913382
+11-27 16:44:28.239 21250 10713 I JSWatchdogManager: updateStallTime: 68914376
+11-27 16:44:28.868 30154 31237 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:44:28.868 30154 31237 E ignored : java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
+11-27 16:44:29.241 21250 10713 I JSWatchdogManager: updateStallTime: 68915378
+11-27 16:44:30.247 21250 10713 I JSWatchdogManager: updateStallTime: 68916384
