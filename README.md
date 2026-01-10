@@ -2,9 +2,6 @@
 
 A professional, cross-platform desktop GUI application designed for real-time Android device log monitoring and analysis via ADB. Built with Python and PyQt6, this tool offers advanced filtering, session statistics, and a visual timeline to streamline your debugging workflow.
 
-![App Screenshot Placeholder](https://via.placeholder.com/1200x800.png?text=Android+Log+Monitor+Pro+Dashboard)
-*Tip: Replace this with an actual screenshot of your application!*
-
 ## ✨ Key Features
 
 - **Real-time Log Capture**: Seamlessly stream logs from connected Android devices via ADB.
