@@ -64,16 +64,17 @@ A professional, cross-platform desktop GUI application designed for real-time An
 
 ```mermaid
 graph TD
-    A[main.py] --> B[GUI Main]
-    B --> C[ADB Utils]
-    B --> D[Log Parser]
-    B --> E[Log Capture]
-    B --> F[Filter Manager]
-    B --> G[Statistics Analyzer]
-    E --> H[File Monitor]
-    D --> I[Log Model]
-    I --> J[Proxy Filter Model]
-    J --> K[Log Table View]
+    main[main.py] --> gui[gui_main.py]
+
+    gui --> logcap[log_capture.py]
+    gui --> models[src/models/]
+    gui --> views[src/views/]
+    gui --> filters[filters.py]
+    gui --> analysis[analysis.py]
+    gui --> timeline[timeline_widget.py]
+
+    logcap --> adb[adb_utils.py]
+    logcap --> parser[log_parser.py]
 ```
 
 ## 🤝 Contributing
